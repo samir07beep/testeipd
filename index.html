@@ -30,18 +30,5 @@ document.getElementById("connect").onclick = async () => {
 
     <script src="script.js"></script>
 
-
-        <button id="connect">Connect QWallet</button>
-
-<script>
-document.getElementById("connect").onclick = async () => {
-  try {
-    const result = await WalletModal.show();
-    console.log("Connected:", result);
-  } catch (e) {
-    console.log("User closed modal");
-  }
-};
-</script>
 </body>
 </html>
