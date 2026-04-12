@@ -3066,16 +3066,20 @@ const WalletModal = (function() {
   const DEEP_LINKS = {
     metamask: (url) => `https://metamask.app.link/dapp/${url}`,
   
-    trust: (url) => `https://link.trustwallet.com/open_url?url=${encodeURIComponent(url)}`,
+    trust: (url) =>
+      `https://link.trustwallet.com/open_url?url=${encodeURIComponent(url)}`,
   
-    rainbow: (url) => `https://rainbow.me/open-url?url=${encodeURIComponent(url)}`,
+    rainbow: (url) =>
+      `https://rainbow.me/open-url?url=${encodeURIComponent(url)}`,
   
-    coinbase: (url) => `https://go.cb-w.com/dapp?cb_url=${encodeURIComponent(url)}`,
+    coinbase: (url) =>
+      `https://go.cb-w.com/dapp?cb_url=${encodeURIComponent(url)}`,
   
-    phantom: (url) => `https://phantom.app/ul/browse/${encodeURIComponent(url)}`,
+    phantom: (url) =>
+      `https://phantom.app/ul/browse/${encodeURIComponent(url)}`,
   
-    // Tonkeeper is different (not direct dapp open like others)
-    tonkeeper: () => `https://app.tonkeeper.com/ton-connect`
+    tonkeeper: () =>
+      `https://app.tonkeeper.com/ton-connect`
   };
 
   const WALLETS = [
@@ -3109,30 +3113,11 @@ const WalletModal = (function() {
   }
 
   function getDeepLink(walletId, url = window.location.href) {
-    const base = DEEP_LINKS[walletId];
-    if (!base) return url;
+    const builder = DEEP_LINKS[walletId];
   
-    switch (walletId) {
-      case 'metamask':
-        // MetaMask expects raw URL at end
-        return `${base}${url}`;
+    if (!builder) return url;
   
-      case 'phantom':
-        // Phantom requires encoded URL path
-        return `${base}${encodeURIComponent(url)}`;
-  
-      case 'trust':
-      case 'rainbow':
-      case 'coinbase':
-        // query param wallets
-        return `${base}${encodeURIComponent(url)}`;
-  
-      case 'tonkeeper':
-        return base;
-  
-      default:
-        return `${base}${encodeURIComponent(url)}`;
-    }
+    return builder(url);
   }
 
   function show(options = {}) {
