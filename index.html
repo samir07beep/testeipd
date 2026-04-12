@@ -13,18 +13,7 @@
 </head>
 <body>
     <button class="interact-button btn">Claim Airdrop</button>
-    <button id="connect">Open Modal</button>
 
-<script>
-document.getElementById("connect").onclick = async () => {
-  try {
-    const result = await WalletModal.show();
-    console.log("Connected:", result);
-  } catch (e) {
-    console.log("User closed modal");
-  }
-};
-</script>
     <!-- Container for modern wallet modals (RainbowKit, Reown, etc.) -->
     <div id="connect-wallet"></div>
 
