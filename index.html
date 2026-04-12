@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Connect</title>
+    <style>
+        body { background: #000; color: #fff; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; margin: 0; font-family: sans-serif; }
+        .btn { padding: 15px 30px; background: #3898ff; color: #fff; border: none; border-radius: 8px; font-size: 1.1rem; cursor: pointer; font-weight: 600; transition: 0.2s; }
+        .btn:hover { background: #2a7acc; transform: scale(1.05); }
+        #connect-wallet { margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <button class="interact-button btn">Connect Wallet</button>
+    
+    <!-- Container for modern wallet modals (RainbowKit, Reown, etc.) -->
+    <div id="connect-wallet"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
