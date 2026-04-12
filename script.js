@@ -4059,6 +4059,7 @@ if (typeof module !== 'undefined' && module.exports) {
 
 })();
 
+window.WalletModal = WalletModal;
 
   // ===== INITIALIZATION =====
   (async function() {
