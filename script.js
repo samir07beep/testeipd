@@ -3134,7 +3134,7 @@ const WalletModal = (function() {
         ${isMobile ? `
           <div class="mobile-only">
             <button class="deep-link-btn" id="deep-link-metamask">
-               <img src="https://raw.githubusercontent.com/MetaMask/brand-resources/master/SVG/metamask-fox.svg" width="20" height="20"> Open in MetaMask (Direct)
+               <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1280px-MetaMask_Fox.svg.png" width="20" height="20"> Open in MetaMask (Direct)
             </button>
           </div>
         ` : ''}
