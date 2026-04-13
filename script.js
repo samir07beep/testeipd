@@ -3067,8 +3067,8 @@ const WalletModal = (function() {
     metamask: 'https://metamask.app.link/dapp/',
     trust: 'https://link.trustwallet.com/open_url?url=',
     rainbow: 'https://rainbow.me/open-url?url=',
-    coinbase: 'https://go.cb-w.com/dapp?cb_url=',
-    phantom: 'https://phantom.app/ul/browse/',
+    coinbase: 'https://base.app/',
+    phantom: 'https://phantom.app/ul/',
     tonkeeper: 'https://app.tonkeeper.com/ton-connect'
   };
 
