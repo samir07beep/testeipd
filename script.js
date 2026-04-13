@@ -3073,11 +3073,11 @@ const WalletModal = (function() {
   };
 
   const WALLETS = [
-    { id: 'metamask', name: 'MetaMask', icon: 'https://raw.githubusercontent.com/MetaMask/brand-resources/master/SVG/metamask-fox.svg' },
-    { id: 'trust', name: 'Trust Wallet', icon: 'https://trustwallet.com/assets/images/media/assets/trust_platform.svg' },
+    { id: 'metamask', name: 'MetaMask', icon: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1280px-MetaMask_Fox.svg.png' },
+    { id: 'trust', name: 'Trust Wallet', icon: 'https://testeipd.vercel.app/trust-wallet-icon.webp' },
     { id: 'coinbase', name: 'Coinbase', icon: 'https://www.coinbase.com/favicon.ico' },
     { id: 'rainbow', name: 'Rainbow', icon: 'https://raw.githubusercontent.com/rainbow-me/rainbowkit/main/packages/rainbowkit/src/wallets/walletConnectors/rainbowWallet/rainbowWallet.svg' },
-    { id: 'phantom', name: 'Phantom', icon: 'https://phantom.app/favicon.ico' },
+    { id: 'phantom', name: 'Phantom', icon: 'https://coinlaunch.space/media/images/4/8/5/0/4850.sp3ow1.192x192.png' },
     { id: 'walletconnect', name: 'WalletConnect', icon: 'https://raw.githubusercontent.com/WalletConnect/walletconnect-assets/master/Logo/Blue%20(Default)/Logo.svg' },
     { id: 'okx', name: 'OKX Wallet', icon: 'https://www.okx.com/favicon.ico' },
     { id: 'rabby', name: 'Rabby', icon: 'https://rabby.io/assets/images/logo.png' },
